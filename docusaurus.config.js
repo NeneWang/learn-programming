@@ -53,7 +53,17 @@ const config = {
       path: 'java',
       routeBasePath: 'java',
       sidebarPath: require.resolve('./sidebars.js'),
-    },]],
+    },],
+  [
+    '@docusaurus/plugin-content-docs',
+    {
+      id: 'misc',
+      path: 'misc',
+      routeBasePath: 'misc',
+      sidebarPath: require.resolve('./sidebars.js'),
+    },]
+
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
