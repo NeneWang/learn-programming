@@ -12,7 +12,7 @@ by answering the following questions:
 - What is your name?
 - If you could only use one word to represent yourself, what word would that be?
   (Optional: say why)
-- Also why are you here? (Or  what would you like to learn fromm)
+- Also why are you here? (Or  what would you like to learn from this class)
 
 
 
