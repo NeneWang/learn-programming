@@ -1,6 +1,6 @@
 
 
-PAGE=http://smooth.l0l.in/
+PAGE=https://learn.wangnelson.xyz/
 FTP_HOST=wangnelson.xyz
 FTP_USER=learn@wangnelson.xyz
 FTP_PASSWORD=Learncode2020!
