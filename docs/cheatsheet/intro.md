@@ -15,7 +15,7 @@ cheat-sheets the following:
 
 :::
 
-- Java
-- Python
-- Unity (C#)
-- Web Development
+- [ ] Java
+- [ ] Python
+- [ ] Unity (C#)
+- [ ] Web Development
