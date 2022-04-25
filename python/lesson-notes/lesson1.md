@@ -83,7 +83,7 @@ turtle.circle (40, 360/4) # or 90
 
 </details>
 
-## Turtle Shape
+## Turtle Shape 🐢 ⚪ ⬛
 
 We can change how the pen looks like
 ```python
@@ -99,12 +99,61 @@ turtle.shape('triangle')
 
 turtle.shape('classic')
 ```
-## Picking the Pen up and down
+## Picking the Pen up and down ✒
 
-```
+```python
 turtle.penup()
 turtle.circle (40, 360/4) 
 turtle.pendown()
 turtle.circle (40, 360/4) 
 ```
 ![](../../static/img/2022-04-25-03-11-38.png)
+
+
+## Moving to Coordinates 🗺
+We can out the pen down when we are ready to draw
+
+```python
+import turtle
+
+turtle.goto(20, 20)
+turtle.goto(-30, 50)
+
+# turtle.home() #goes to (0,0)
+```
+
+![](../../static/img/2022-04-25-03-15-19.png)
+
+<details>
+<summary>
+What are coordinates?
+</summary>
+
+![](../../static/img/2022-04-25-03-19-46.png)
+
+</details>
+
+
+## Speed 🏃‍♂️
+```python
+
+turtle.speed(5) # speed varies from 0 to 10
+turtle.speed(0) # is the fastest, and speed increases from 1 to 10
+```
+
+
+## Width
+```
+turtle.width(5)
+```
+![](../../static/img/2022-04-25-03-17-16.png)
+
+## Hiding and Showing Turtle
+```python
+
+turtle.hideturtle() # Hides the turtle
+turtle.showturtle() # Shows the turtle
+```
+
+
+
