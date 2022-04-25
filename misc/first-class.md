@@ -61,7 +61,7 @@ moodwords using an array/list.
 
 :::
 
-:::danger Bonus point challange 3: Random
+:::danger Bonus point challange 4: Random
 *This exercise might be a very challanging.*
 
 Make the program choose a random mood word between the moodwords entered by the user.
