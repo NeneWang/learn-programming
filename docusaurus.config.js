@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Learn Programming',
-  tagline: 'Programming is cool xd',
+  tagline: 'Your success is my #1 priority!',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -96,7 +96,7 @@ const config = {
                 to: '/java/intro',
               },
             ],
-          },{
+          }, {
             title: 'Community',
             items: [
               {
@@ -108,18 +108,22 @@ const config = {
           {
             title: 'Contact',
             items: [
+
               {
-                label: 'Provide Anonymous Feedback',
-                href: 'wangnelson2@gmail.com',
+                label: 'Instructor Contact Information',
+                to: '/blog/contact',
               },
               {
-                label: 'Instructor Contacts',
-                to: '/blog/contact',
+                label: 'Ask a question',
+                href: 'https://docs.google.com/forms/d/e/1FAIpQLSd3ybWqqgq5rV2XKiws1TGvp7fZF2Iz4zVSq18Kat4rMPQkHA/viewform?usp=sf_link',
+              }, {
+                label: 'Provide Anonymous Feedback',
+                href: 'https://docs.google.com/forms/d/e/1FAIpQLSd3ybWqqgq5rV2XKiws1TGvp7fZF2Iz4zVSq18Kat4rMPQkHA/viewform?usp=sf_link',
               },
             ],
           },
         ],
-        copyright: `My mission is to help you succeed.`,
+        copyright: `Your success is my #1 priority!`,
       },
       prism: {
         theme: lightCodeTheme,
