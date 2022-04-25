@@ -2,7 +2,7 @@
 slug: introduction
 title: Introduction to Blogs
 authors: nelson
-tags: [document, ]
+tags: [information, ]
 ---
 
 Hello everyone! I will be posting some interesting resources for those who are
