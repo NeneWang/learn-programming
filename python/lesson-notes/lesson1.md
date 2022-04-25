@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-title: Lesson 1
+title: Chapter 1
 ---
 
 
-# Turtle
+## Turtle
 
 We first need to import turtle so we can start using turtle functions
 ```python
@@ -26,11 +26,8 @@ What is a library? 📚
 In python libraries are a collection of modules, containing code that can be
 used in different programs.
 
-### _
 
-### Analogy
-
-Suppose you have a set of questions about Biology, I don't know much about
+**Analogy**: Suppose you have a set of questions about Biology, I don't know much about
 biology, so Ideally I would like to invite (import) a biology teacher to our
 class so you can ask him biology questions.
 
@@ -55,4 +52,59 @@ instead of the details of something)
 
 
 ### Drawing a circle
-We can draw a circle by doing the following
+
+```python
+import turtle
+
+turtle.circle (100) # draws a circle with radius 100
+
+```
+![](../../static/img/2022-04-25-03-04-06.png)
+
+
+```python
+import turtle
+
+turtle.circle (100, 180) # draws a semi-circle (first parameter is radius, second is degrees)
+
+```
+
+![](../../static/img/2022-04-25-03-03-11.png)
+
+<details>
+<summary>
+🙋‍♂️ What do you think we would need to do in order to draw a quarter-circle with 40 of radio?
+</summary>
+
+```python
+import turtle
+turtle.circle (40, 360/4) # or 90
+```
+
+</details>
+
+## Turtle Shape
+
+We can change how the pen looks like
+```python
+turtle.shape('arrow')
+
+turtle.shape('turtle')
+
+turtle.shape('circle')
+
+turtle.shape('square')
+
+turtle.shape('triangle')
+
+turtle.shape('classic')
+```
+## Picking the Pen up and down
+
+```
+turtle.penup()
+turtle.circle (40, 360/4) 
+turtle.pendown()
+turtle.circle (40, 360/4) 
+```
+![](../../static/img/2022-04-25-03-11-38.png)
