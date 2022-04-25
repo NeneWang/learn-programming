@@ -1,9 +1,10 @@
 ---
 sidebar_position: 2
-title: Turtles
+title: Lesson 1
 ---
 
 
+# Turtle
 
 We first need to import turtle so we can start using turtle functions
 ```python
