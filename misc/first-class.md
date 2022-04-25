@@ -44,8 +44,11 @@ a way it shows the same result as before!
 Click here for an example in how to format variables into variables
 :::
 
-:::tip Bonus point challange 2: Using 
-
+:::tip Bonus point challange 2: Prompting for user input
+Now make the program ask your for your [name], [mood word], and the [reason you
+are here], save those inputs into variables, and then print them using the
+same template as in the problems above!
+## TODO create the gif image.
 
 
 :::
