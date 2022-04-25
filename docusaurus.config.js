@@ -46,7 +46,14 @@ const config = {
       routeBasePath: 'python',
       sidebarPath: require.resolve('./sidebars.js'),
     },
-  ],],
+  ], [
+    '@docusaurus/plugin-content-docs',
+    {
+      id: 'java',
+      path: 'java',
+      routeBasePath: 'java',
+      sidebarPath: require.resolve('./sidebars.js'),
+    },]],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -62,9 +69,11 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'General',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },  { to: '/python', label: 'python', position: 'left' },
+          { to: '/python/Intro', label: 'Python', position: 'left' },
+          { to: '/java/Intro', label: 'Java', position: 'left' },
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
