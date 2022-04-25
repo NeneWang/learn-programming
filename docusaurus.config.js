@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Learn Programming',
+  title: 'Programming Class Resources',
   tagline: 'Your success is my #1 priority!',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
