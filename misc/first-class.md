@@ -21,7 +21,8 @@ by answering the following questions:
 
 *This is just to get a feeling of the level of the class, please don't worry if
 you can't finish the assigment! Also feel free to ask anything and as many times
-as you need to about any question you have regarding the prioblem, how to solve it, etc!*
+as you need to about any question you have regarding the problem, how to solve
+it, if you would like me to re-explain something, etc!*
 
 
 :::tip Problem prompt
@@ -49,6 +50,23 @@ Now make the program ask your for your [name], [mood word], and the [reason you
 are here], save those inputs into variables, and then print them using the
 same template as in the problems above!
 ## TODO create the gif image.
+
+
+:::
+
+:::caution Bonus point challange 3: Arrays
+*This exercise might be a little more challanging.*
+
+Instead of printing one mood word, print your top 3 mood words. Save the
+moodwords using an array/list.
+
+
+:::
+
+:::danger Bonus point challange 3: Random
+*This exercise might be a very challanging.*
+
+Make the program choose a random mood word between the moodwords entered by the user.
 
 
 :::
