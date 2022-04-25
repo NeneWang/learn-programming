@@ -42,7 +42,6 @@ Save your [name], [mood word], and the [reason you are here] into variables inst
 hardcoding it when you are printing it. And then figure out how to print them in
 a way it shows the same result as before!
 
-Click here for an example in how to format variables into variables
 :::
 
 :::tip Bonus point challange 2: Prompting for user input
