@@ -16,18 +16,20 @@ teach-c:
 	git add --all
 	git push origin HEAD
 	make teach-m
-
+	git branch
 teach-m:
 	git checkout instructor-branch
 	git merge master
 	git add --all
 	git commit -m "Instructor merge"
 	git push origin HEAD
+	git branch
 master:
 	git add --all
 	git commit -m "Instructor merge"
 	git push origin HEAD
 	git checkout master
+	git branch
 
 
 build-commit:
