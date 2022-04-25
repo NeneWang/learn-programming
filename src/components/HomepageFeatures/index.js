@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Ask me <b>whatever</b> and as <b>many times</b> about something as you would like to Your success is my #1 priority, feel free to ask me things outside of the class!
+        Ask me <b>whatever</b> and as <b>many times</b> about something as you would like to. Your success is my #1 priority, feel free to ask me things outside of the class or to send me random things you found interesting!
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Access to the content taught in class even if you have graduated years ago! 24/7. Remeber you can print the pages by pressing <b>Ctrl+P</b>
+        Access to the content taught in class even if you graduated years ago! 24/7. Remember you can print the pages by pressing <b>Ctrl+P</b>
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        I will provide as many examples and starter codes for your homeworks and personal projects! Feel free to request more resources and examples if you would like to!
+        I will provide as many examples and starter codes for your homeworks and personal projects! Feel free to request more resources and examples if you would like to! (At the moment there is not much here yet)
       </>
     ),
   },

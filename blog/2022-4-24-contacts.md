@@ -9,9 +9,10 @@ Hello Please feel free to contact me outside of class for anything! for example,
 If you have some bugs in your code (any code), some projects you want to start, want a recomendation letter, etc, I will mantain
 everything you tell me confidential! (unless you explicitly say you don't want
 to)
-### This are my contacts:
+### Contacts:
 - Discord: `Ne#8696`
 - Mail: `wangnelson2@gmail.com`
+- Phone: `+1 9293088291` (Please don't call me at midnight)
 
 
 
