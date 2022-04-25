@@ -48,7 +48,6 @@ a way it shows the same result as before!
 Now make the program ask your for your [name], [mood word], and the [reason you
 are here], save those inputs into variables, and then print them using the
 same template as in the problems above!
-## TODO create the gif image.
 
 
 :::
