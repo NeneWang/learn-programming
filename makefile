@@ -10,8 +10,6 @@ FTP_PASSWORD=Learncode2020!
 
 main: build-commit ft-push
 
-
-
 teach-c:
 	git add --all
 	git commit -m "master | before switch commit"
