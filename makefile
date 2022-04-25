@@ -3,7 +3,7 @@
 PAGE=http://smooth.l0l.in/
 FTP_HOST=wangnelson.xyz
 FTP_USER=learn@wangnelson.xyz
-FTP_PASSWORD=earncode2020!
+FTP_PASSWORD=Learncode2020!
 
 
 # Requrements: git-ftp, yarn, node
