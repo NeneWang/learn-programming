@@ -24,6 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
+          path: 'docs',
           editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
@@ -37,7 +38,15 @@ const config = {
         },
       }),
     ],
-  ],
+  ], plugins: [[
+    '@docusaurus/plugin-content-docs',
+    {
+      id: 'python',
+      path: 'python',
+      routeBasePath: 'python',
+      sidebarPath: require.resolve('./sidebars.js'),
+    },
+  ],],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -55,7 +64,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },  { to: '/python', label: 'python', position: 'left' },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
