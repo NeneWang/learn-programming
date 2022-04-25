@@ -1,12 +1,15 @@
 ---
 sidebar_position: 2
-title: Chapter 1
+title: Chapter 1 - Turtle
 ---
 
 
 ## Turtle
 
 We first need to import turtle so we can start using turtle functions
+
+[Trinket for Turtle library Introduction](https://trinket.io/python/aa1b100660)
+
 ```python
 import turtle
 ```
@@ -83,7 +86,7 @@ turtle.circle (40, 360/4) # or 90
 
 </details>
 
-## Turtle Shape 🐢 ⚪ ⬛
+### Turtle Shape 🐢 ⚪ ⬛
 
 We can change how the pen looks like
 ```python
@@ -99,7 +102,7 @@ turtle.shape('triangle')
 
 turtle.shape('classic')
 ```
-## Picking the Pen up and down ✒
+### Picking the Pen up and down ✒
 
 ```python
 turtle.penup()
@@ -110,7 +113,7 @@ turtle.circle (40, 360/4)
 ![](../../static/img/2022-04-25-03-11-38.png)
 
 
-## Moving to Coordinates 🗺
+### Moving to Coordinates 🗺
 We can out the pen down when we are ready to draw
 
 ```python
@@ -133,8 +136,17 @@ What are coordinates?
 
 </details>
 
+### Colors
 
-## Speed 🏃‍♂️
+[Colors supported in Trinket](https://trinket.io/docs/colors)
+
+```python
+turtle.color("yellow") # is used to set the colour of the drawn line
+turtle.fillcolor("yellow") # is used to set the color that should be used to fill the drawn figure
+
+```
+
+### Speed 🏃‍♂️
 ```python
 
 turtle.speed(5) # speed varies from 0 to 10
@@ -142,18 +154,37 @@ turtle.speed(0) # is the fastest, and speed increases from 1 to 10
 ```
 
 
-## Width
+### Width
+
+You can change the width using something like:
+`turtle.width(5)`
+
+Example:
 ```
+import turtle
+turtle.goto(20, 20)
 turtle.width(5)
+turtle.goto(-30, 50)
 ```
 ![](../../static/img/2022-04-25-03-17-16.png)
 
-## Hiding and Showing Turtle
+### Hiding and Showing Turtle
 ```python
 
 turtle.hideturtle() # Hides the turtle
 turtle.showturtle() # Shows the turtle
 ```
 
+## Challange Time ✨: Turtle Assigment
+
+1. This is the graphic that needs to be created:
 
 
+![](../../static/img/2022-04-25-03-45-57.png)
+
+2. Before creating the graphic, think about how you will create it. Break down
+   the graphics - How many shapes are there? What are their colors? What are
+   their sizes? Is the turtle visible in the graphic? How should the Python
+   lines of code be sequenced in order to get this image?
+3. Write down the instructions needed to create this graphic in the Instructions window of your Trinket.
+4. After completion, share the [link / embed the Trinket](https://forms.gle/Xcznm1uY195zkN3H9).
