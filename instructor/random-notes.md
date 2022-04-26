@@ -36,9 +36,16 @@ You don't need to have the best experience: Remmeber to use:
 - Timing is very important
 
 
-## Where you can start
+### Where you can start
 - Magner Career Center Group
 - SLC Alumni Group
 - Connect with the SLC
 
 Everyone is willing to help, the problem is time, you keep reminding them, they will eventually help
+
+### Elevator Pitch
+- Your name, 
+- Going into an NYU into management system 
+- Tech department, data visualization, also consulting
+
+
