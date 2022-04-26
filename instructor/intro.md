@@ -1,3 +1,14 @@
-# Welcome Instructor
+---
+title: Quick Dashboard
+---
 
-Welcome I will be going over the notes
+
+## Welcome Instructor
+
+Notes for myself, for a quicker introduction to the class
+
+## Quick Links
+
+[Trinket](https://trinket.io/)
+
+
