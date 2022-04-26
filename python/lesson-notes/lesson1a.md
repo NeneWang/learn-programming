@@ -14,7 +14,7 @@ print ('Hello World!')  # Print a message using single quotes
 <summary>
 Try the code out!
 </summary>
-<iframe src="https://trinket.io/embed/python3/59c912d464" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/42877e453f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
 
