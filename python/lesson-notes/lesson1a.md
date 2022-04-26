@@ -25,6 +25,14 @@ print ("Welcome to Python Programming")    # Line 4
 print ("Try coding, it's fun. Do you know what is 123456789*123456789?") # Line 5
 print (123456789*123456789)    # Line 6
 ```
+<details>
+<summary>
+Try the code out!
+</summary>
+<iframe src="https://trinket.io/embed/python3/59c912d464" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
 
 ### Details
 
@@ -91,6 +99,12 @@ Try out this solution
 
 
 [👀](https://learn2codelive.com/courses/4/pages/lesson-1-learning-activities-r-practice-activity-1-build-and-test-the-code?module_item_id=458)
+
+[👀Assessment Quiz](https://learn2codelive.com/courses/4/pages/lesson-1-assessment-quiz?module_item_id=449)
+
+### Fun Little Project
+
+This code will help you print 
 
 
 
