@@ -30,38 +30,51 @@ const config = {
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
     ],
-  ], plugins: [[
-    '@docusaurus/plugin-content-docs',
-    {
-      id: 'python',
-      path: 'python',
-      routeBasePath: 'python',
-      sidebarPath: require.resolve('./sidebars.js'),
-    },
-  ], [
-    '@docusaurus/plugin-content-docs',
-    {
-      id: 'java',
-      path: 'java',
-      routeBasePath: 'java',
-      sidebarPath: require.resolve('./sidebars.js'),
-    },],
-  [
-    '@docusaurus/plugin-content-docs',
-    {
-      id: 'misc',
-      path: 'misc',
-      routeBasePath: 'misc',
-      sidebarPath: require.resolve('./sidebars.js'),
-    },]
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'python',
+        path: 'python',
+        routeBasePath: 'python',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'java',
+        path: 'java',
+        routeBasePath: 'java',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'instructor',
+        path: 'instructor',
+        routeBasePath: 'instructor',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'misc',
+        path: 'misc',
+        routeBasePath: 'misc',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ]
 
   ],
 
@@ -74,16 +87,27 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {
+        items: [{
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'General',
           },
-          { to: '/python/Intro', label: 'Python', position: 'left' },
-          { to: '/java/Intro', label: 'Java', position: 'left' },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          {
+            to: '/python/Intro',
+            label: 'Python',
+            position: 'left'
+          },
+          {
+            to: '/java/Intro',
+            label: 'Java',
+            position: 'left'
+          },
+          {
+            to: '/blog',
+            label: 'Blog',
+            position: 'left'
+          },
           {
             href: 'https://discord.gg/pGaJqmbJSm',
             label: 'Discord',
@@ -93,11 +117,9 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
+        links: [{
             title: 'Class Notes',
-            items: [
-              {
+            items: [{
                 label: 'Python',
                 to: '/python/intro',
               },
@@ -108,12 +130,10 @@ const config = {
             ],
           }, {
             title: 'Community',
-            items: [
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/pGaJqmbJSm',
-              },
-            ],
+            items: [{
+              label: 'Discord',
+              href: 'https://discord.gg/pGaJqmbJSm',
+            }, ],
           },
           {
             title: 'Contact',
