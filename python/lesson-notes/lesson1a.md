@@ -12,7 +12,7 @@ print ('Hello World!')  # Print a message using single quotes
 ```
 <details>
 <summary>
-Try the code out!
+🧪 Try the code out! 
 </summary>
 <iframe src="https://trinket.io/embed/python3/42877e453f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
@@ -34,7 +34,7 @@ print (123456789*123456789)    # Line 6
 ```
 <details>
 <summary>
-Try the code out!
+🧪 Try the code out! 
 </summary>
 <iframe src="https://trinket.io/embed/python3/59c912d464" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
@@ -46,7 +46,6 @@ Try the code out!
 [👀](https://learn2codelive.com/courses/4/pages/lesson-1-learning-activities-r-practice-activity-1-build-and-test-the-code?module_item_id=458)
 
 
-[Try it out](https://trinket.io/python3/31d9da2a08)
 ```python
 print('Hello\n World') # Move to the next line after Hello
 print('') # Leave an empty line on console
@@ -59,7 +58,7 @@ print('\\') # to print a backslash, you need to escape with another backslash
 
 <details>
 <summary>
-Try the code out!
+🧪 Try the code out! 
 </summary>
 <iframe src="https://trinket.io/embed/python3/31d9da2a08" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </details>
@@ -80,7 +79,7 @@ Let's say you want to create the following figure:
 
 <details>
 <summary>
-Hints
+💡 Hints 
 </summary>
 
 - What are the different characters that have been used to create this shape?
@@ -96,7 +95,7 @@ Let's say we want to create the following figure:
 
 <details>
 <summary>
-Solution: 
+🔬 Solution 
 </summary>
 Try out this solution
 <iframe src="https://trinket.io/embed/python3/979c707fa0" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
