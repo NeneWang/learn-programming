@@ -28,6 +28,9 @@ print (123456789*123456789)    # Line 6
 
 ### Details
 
+[👀](https://learn2codelive.com/courses/4/pages/lesson-1-learning-activities-r-practice-activity-1-build-and-test-the-code?module_item_id=458)
+
+
 [Try it out](https://trinket.io/python3/31d9da2a08)
 ```python
 print('Hello\n World') # Move to the next line after Hello
@@ -47,18 +50,24 @@ Try the code out!
 </details>
 
 
-[i](https://learn2codelive.com/courses/4/pages/lesson-1-learning-activities-r-practice-activity-1-build-and-test-the-code?module_item_id=458)
 
 
+[👀](https://learn2codelive.com/courses/4/pages/lesson-1-python-challenge-1a-code-art?module_item_id=447)
 
+:::tip Problem 1
+Let's say you want to create the following figure:
 
-### Problems 1
-Let's say you want to create the following arts:
 ![](2022-04-26-17-28-50.png)
+
+:::
+
+
+
 <details>
 <summary>
 Hints
 </summary>
+
 - What are the different characters that have been used to create this shape?
 - How will you get the spacing right? What lines are the characters on? Hint: Use a table and add the different characters in the cells as they appear in the image. Or simply align the characters on your code editor first.
 - Write down the instructions needed to create this graphic in the Instructions window of your Trinket.
@@ -67,7 +76,8 @@ Hints
 
 **Example**
 Let's say we want to create the following figure:
-![](2022-04-26-17-35-55.png)
+
+![](2022-04-26-17-37-27.png)
 
 <details>
 <summary>
@@ -80,7 +90,7 @@ Try out this solution
 
 
 
-[i](https://learn2codelive.com/courses/4/pages/lesson-1-learning-activities-r-practice-activity-1-build-and-test-the-code?module_item_id=458)
+[👀](https://learn2codelive.com/courses/4/pages/lesson-1-learning-activities-r-practice-activity-1-build-and-test-the-code?module_item_id=458)
 
 
 
