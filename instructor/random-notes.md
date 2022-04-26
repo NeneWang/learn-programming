@@ -34,3 +34,11 @@ You don't need to have the best experience: Remmeber to use:
 - I think as having those follow up emails
 - It took Sayeem around a year for getting a job
 - Timing is very important
+
+
+## Where you can start
+- Magner Career Center Group
+- SLC Alumni Group
+- Connect with the SLC
+
+Everyone is willing to help, the problem is time, you keep reminding them, they will eventually help
