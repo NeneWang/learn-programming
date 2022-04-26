@@ -38,11 +38,45 @@ print('\nDemonstration of backslash')
 # print('\') # uncommenting this line will cause an error
 print('\\') # to print a backslash, you need to escape with another backslash
 ```
-Output:
-![](2022-04-26-17-16-42.png)
+
+<details>
+<summary>
+Try the code out!
+</summary>
+<iframe src="https://trinket.io/embed/python3/31d9da2a08" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</details>
+
 
 [i](https://learn2codelive.com/courses/4/pages/lesson-1-learning-activities-r-practice-activity-1-build-and-test-the-code?module_item_id=458)
 
+
+
+
+### Problems 1
+Let's say you want to create the following arts:
+![](2022-04-26-17-28-50.png)
+<details>
+<summary>
+Hints
+</summary>
+- What are the different characters that have been used to create this shape?
+- How will you get the spacing right? What lines are the characters on? Hint: Use a table and add the different characters in the cells as they appear in the image. Or simply align the characters on your code editor first.
+- Write down the instructions needed to create this graphic in the Instructions window of your Trinket.
+
+</details>
+
+**Example**
+Let's say we want to create the following figure:
+![](2022-04-26-17-35-55.png)
+
+<details>
+<summary>
+Solution: 
+</summary>
+Try out this solution
+<iframe src="https://trinket.io/embed/python3/979c707fa0" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
 
 
 
