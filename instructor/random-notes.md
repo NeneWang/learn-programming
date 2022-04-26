@@ -29,3 +29,8 @@ You don't need to have the best experience: Remmeber to use:
 - Even if it is not about getting the ob you want, you get the post on the mutual friends, and that's very important. They can get you a job and you tell them about yourselves
 
 
+### Be Confident and Persistent!
+- Get into those microcredentials you will eventually have that job.
+- I think as having those follow up emails
+- It took Sayeem around a year for getting a job
+- Timing is very important
