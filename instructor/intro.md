@@ -1,6 +1,6 @@
 ---
 title: Quick Dashboard
-
+sidebar_position: 1
 ---
 
 
