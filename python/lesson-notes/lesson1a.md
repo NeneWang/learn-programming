@@ -10,6 +10,13 @@ title: Chapter 1a - Printing
 print ("Hello World!")  # Print a message using double quotes
 print ('Hello World!')  # Print a message using single quotes
 ```
+<details>
+<summary>
+Try the code out!
+</summary>
+<iframe src="https://trinket.io/embed/python3/59c912d464" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
 
 ### Printing numbers
 ```python
@@ -102,9 +109,6 @@ Try out this solution
 
 [👀Assessment Quiz](https://learn2codelive.com/courses/4/pages/lesson-1-assessment-quiz?module_item_id=449)
 
-### Fun Little Project
-
-This code will help you print 
 
 
 
