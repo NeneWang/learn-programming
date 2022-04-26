@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Chapter 1-a
+title: Chapter 1a - Printing
 ---
 
 ## Lesson 1 Printing
