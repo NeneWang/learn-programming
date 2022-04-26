@@ -8,7 +8,7 @@ title: Chapter 1b - Turtle
 
 We first need to import turtle so we can start using turtle functions
 
-[Trinket for Turtle library Introduction](https://trinket.io/python/aa1b100660)
+
 
 ```python
 import turtle
@@ -19,7 +19,7 @@ What is Turtle? 🐢
 </summary>
 
 a pre-installed Python library that enables users to create pictures and shapes by providing them with a virtual canvas
-
+<iframe src="https://trinket.io/embed/python/553d685b05" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </details>
 
 <details>
@@ -188,3 +188,7 @@ turtle.showturtle() # Shows the turtle
    lines of code be sequenced in order to get this image?
 3. Write down the instructions needed to create this graphic in the Instructions window of your Trinket.
 4. After completion, share the [link / embed the Trinket](https://forms.gle/Xcznm1uY195zkN3H9).
+
+
+## Instructor Notes
+- [Assessment Quiz](https://quizizz.com/admin/quiz/61473f7698d4c1001db8ed00/intro-to-python-lesson-1-quiz)
