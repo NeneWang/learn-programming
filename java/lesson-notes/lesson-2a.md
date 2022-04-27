@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Lesson 2a - Data Types in Java
 ---
 
-### Data Types
+## Data Types
 
 | Data Type | Size    | Description                                                                       |
 | --------- | ------- | --------------------------------------------------------------------------------- |
@@ -16,6 +16,23 @@ title: Lesson 2a - Data Types in Java
 | float     | 4 bytes | Sufficient for storing 6 to 7 decimal digits                                      |
 | double    | 8 bytes | Stores decimal numbers. It can store up to 15 decimal digits.                     |
 
+
+## Working with Variables
+
+| Data Type | Size    | Description                                                                       |
+| --------- | ------- | --------------------------------------------------------------------------------- |
+| int       | 4 bytes | Stores whole numbers from -2,147,483,648 to 2,147,483,647                         |
+| long      | 8 bytes | Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 |
+| float     | 4 bytes | Sufficient for storing 6 to 7 decimal digits                                      |
+
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/java/e694e1d8b3" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
 
 
 
