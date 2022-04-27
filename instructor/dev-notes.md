@@ -24,6 +24,8 @@ Embedding [Replit](https://replit.com/~)
 </details>
 ```
 
+### Trinket Templates
+
 Making students create the our problem [Trinket](https://trinket.io/)
 ```
 <details>
@@ -34,6 +36,21 @@ Making students create the our problem [Trinket](https://trinket.io/)
 
 </details>
 ```
+
+Showing example code [Trinket](https://trinket.io/)
+
+
+
+```
+<details>
+<summary>
+📒 Solution
+</summary>
+<iframe src="https://trinket.io/embed/python3/85939a160b" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+```
+
 
 Tables
 ```
