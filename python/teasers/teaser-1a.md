@@ -39,8 +39,16 @@ extracted from [this website](http://kaomoji.ru/en/).
 
 
 ## Examples
-Printing your first Japanese Emoticon.
+:::important Printing your first Japanese Emoticon.
 Write a program that prints: `(*¯︶¯*)`
+<details>
+<summary>
+See/try the Solution
+</summary>
+
+<iframe src="https://trinket.io/embed/python3/cf39cd0db9?start=result" width="100%" height="150" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</details>
+:::
 
 
 
@@ -48,3 +56,8 @@ Write a program that prints: `(*¯︶¯*)`
 
 
 ### Exercise
+:::tip Fix the following Emoticon printer
+This program throws an error: Do you think you can figure out why?
+
+:::
+
