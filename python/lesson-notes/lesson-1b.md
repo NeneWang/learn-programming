@@ -65,6 +65,15 @@ turtle.circle (100) # draws a circle with radius 100
 ![](../../static/img/2022-04-25-03-04-06.png)
 
 
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/python/a4f2245773?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+
 ```python
 import turtle
 
@@ -102,6 +111,17 @@ turtle.shape('triangle')
 
 turtle.shape('classic')
 ```
+
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/python/7153a4c734?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+
 ### Picking the Pen up and down ✒
 
 ```python
@@ -111,6 +131,16 @@ turtle.pendown()
 turtle.circle (40, 360/4) 
 ```
 ![](../../static/img/2022-04-25-03-11-38.png)
+
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/python/f9fc67c57a?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
 
 
 ### Moving to Coordinates 🗺

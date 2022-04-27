@@ -26,6 +26,19 @@ Embedding [Replit](https://replit.com/~)
 
 ### Trinket Templates
 
+
+Embedding [Replit](https://replit.com/~)
+```
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@NeneWang/selectionSort-exercise?embed=true"></iframe>
+
+</details>
+```
+
+
 Making students create the our problem [Trinket](https://trinket.io/)
 ```
 <details>

@@ -114,7 +114,7 @@ const config = {
           //   position: 'right',
           // },
           {
-            href: 'https://discord.gg/pGaJqmbJSm',
+          href: 'https://discord.gg/pGaJqmbJSm',
             label: 'Submit an assigment',
             position: 'right',
           },
