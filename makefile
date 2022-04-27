@@ -20,6 +20,7 @@ pres-c:
 pres-m:
 	git pull
 	git checkout pres
+	git branch
 	git merge master
 	git add --all
 	git commit -m "Instructor merge"
