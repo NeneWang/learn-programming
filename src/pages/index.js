@@ -14,10 +14,11 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
+          {/* TODO: Having this code change at the start of the class */}
           <Link
             className="button button--secondary button--lg"
-            to="/python/intro">
-            Enter to Python Class
+            to="/python/lesson-notes/lesson-1a">
+            Go to Python First Lecture!
           </Link>
         </div>
       </div>

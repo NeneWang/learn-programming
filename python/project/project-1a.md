@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: 😊 1a - Printing Japanese Emoticons
+title: 🇯🇵 1a - Printing Japanese Emoticons
 ---
 
 *Hello everyone, by the end of this section, you will learn how to create a
@@ -46,11 +46,14 @@ Write a program that prints: `(*¯︶¯*)`
 🧪 See/try the Solution
 </summary>
 
-
-
-
 <iframe src="https://trinket.io/embed/python3/cf39cd0db9?start=result" width="100%" height="150" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </details>
+:::
+
+
+:::tip Class Excercise
+- Please modify code above a different emoticon! You are allowed to copy-paste, you don't need to type in the specific characters to print that face.
+
 :::
 
 :::important A trickier problem.
