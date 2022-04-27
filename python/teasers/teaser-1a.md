@@ -71,7 +71,7 @@ Write a program that prints: `/(￣▽￣)\`
 
 
 
-### Exercise
+## Exercise
 :::tip Fix the following Emoticon printer
 
 In this program we are trying to print the following emoticon: `\>\▽\<\`

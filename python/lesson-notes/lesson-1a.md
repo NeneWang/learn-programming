@@ -3,9 +3,8 @@ sidebar_position: 1
 title: Chapter 1a - Printing
 ---
 
-## Lesson 1 Printing
 
-### Printing Messages
+## Printing Messages
 ```python
 print ("Hello World!")  # Print a message using double quotes
 print ('Hello World!')  # Print a message using single quotes
@@ -18,7 +17,7 @@ print ('Hello World!')  # Print a message using single quotes
 
 </details>
 
-### Printing numbers
+## Printing numbers
 ```python
 # This program displays some stuff  # Line 3
 print ("Welcome to Python Programming")    # Line 4
@@ -41,7 +40,7 @@ print (123456789*123456789)    # Line 6
 </details>
 
 
-### Details
+## Details
 
 [👀](https://learn2codelive.com/courses/4/pages/lesson-1-learning-activities-r-practice-activity-1-build-and-test-the-code?module_item_id=458)
 
@@ -68,7 +67,9 @@ print('\\') # to print a backslash, you need to escape with another backslash
 
 [👀](https://learn2codelive.com/courses/4/pages/lesson-1-python-challenge-1a-code-art?module_item_id=447)
 
-**Example**
+## Example
+
+:::important Printing a Human Character
 Let's say we want to create the following figure:
 
 ![](2022-04-26-17-37-27.png)
@@ -82,6 +83,8 @@ Try out this solution
 
 
 </details>
+
+:::
 
 :::tip Problem 1
 Let's say you want to create the following figure:
