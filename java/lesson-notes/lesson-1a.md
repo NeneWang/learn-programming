@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Lesson 1a
+title: Lesson 1a Variables
 ---
 
 
@@ -80,6 +80,22 @@ It is important to follow the below guidelines to name a variable in java.
 🧪 Try the code out! 
 </summary>
 <iframe src="https://trinket.io/embed/java/a89cdfe56d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+## Concatenation
+
+![](https://media0.giphy.com/media/BHeCjdyGJck6c/200.gif)
+
+```java
+System.out.println("Pineapple " + " Pen");
+```
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/java/e48a0091fd" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
 
