@@ -118,3 +118,21 @@ System.out.println("I have " + books + " books in my study");
 </details>
 
 
+:::tip Activity: Age Calculator
+Write a Java program that uses year of birth and current year to calculate the age of a person. Make sure to output the year of birth, current year and age in a neatly formatted sentence.
+
+Before you start, think about how many variables you will need for this activity.
+Expected Output:
+```
+Age Calculator
+---------------
+Year Of Birth: 2005
+Current Year: 2020
+Age : 15
+```
+
+
+
+:::
+
+

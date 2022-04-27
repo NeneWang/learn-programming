@@ -3,6 +3,19 @@ sidebar_position: 3
 title: Development Notes
 ---
 
+Hints Sample
+```
+<details>
+<summary>
+Hint
+</summary>
+
+This program does X
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@NeneWang/selectionSort-exercise?embed=true"></iframe>
+
+</details>
+```
+
 
 Creating a new page Template:
 ```markdown
