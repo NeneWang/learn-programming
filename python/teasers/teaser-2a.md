@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: 1c - Cheating your 💹 Microeconomics class using 🐍 Python
+title: 2a - 💹 Cheating your Microeconomics class using Python
 ---
 
 Hello everyone by the end of this class you will learn enough to create a
