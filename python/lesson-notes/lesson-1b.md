@@ -172,8 +172,9 @@ What are coordinates?
 🧪 Try the code out! 
 </summary>
 <iframe src="https://trinket.io/embed/python/e35694aae3" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
 </details>
+
+
 
 ### Colors
 
@@ -185,14 +186,15 @@ turtle.fillcolor("yellow") # is used to set the color that should be used to fil
 
 ```
 
-
 <details>
 <summary>
 🧪 Try the code out! 
 </summary>
-<iframe src="https://trinket.io/embed/python/aced5f41ad?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/62caae5597?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
+
+
 
 ### Speed 🏃‍♂️
 ```python
@@ -201,13 +203,14 @@ turtle.speed(5) # speed varies from 0 to 10
 turtle.speed(0) # is the fastest, and speed increases from 1 to 10
 ```
 
+
 <details>
 <summary>
 🧪 Try the code out! 
 </summary>
-<iframe src="https://trinket.io/embed/python/aced5f41ad?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
+<iframe src="https://trinket.io/embed/python/aced5f41ad" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </details>
+
 
 ### Width
 
