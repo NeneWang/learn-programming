@@ -77,6 +77,30 @@ Showing example code [Trinket](https://trinket.io/)
 </details>
 ```
 
+### Activity Example
+:::tip Activity Hiking ⛰
+
+Pete and Shannon are hiking. Shannon is always 2 miles ahead of Pete. What is the distance Shannon has covered if Pete has covered 10 miles? How would the program change if Shannon has covered twice as much distance as Pete?
+The output should look something like this:
+```
+If Shannon is two miles ahead of Pete, distance hiked by Shannon is 12 miles
+
+If Shannon covers twice as much distance as Pete, distance travelled by Shannon is 20 miles
+```
+
+<details>
+<summary>
+You can solve the problem here using Trinket
+</summary>
+<iframe src="https://trinket.io/embed/java/6e661a677c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+
+:::
+
+
+
 
 Tables
 ```
@@ -85,6 +109,28 @@ Tables
 | ---- | ---------- |
 
 ```
+### Java Activity Example using Replit
+
+:::tip Activity Hiking ⛰
+
+Pete and Shannon are hiking. Shannon is always 2 miles ahead of Pete. What is the distance Shannon has covered if Pete has covered 10 miles? How would the program change if Shannon has covered twice as much distance as Pete?
+The output should look something like this:
+```
+If Shannon is two miles ahead of Pete, distance hiked by Shannon is 12 miles
+
+If Shannon covers twice as much distance as Pete, distance travelled by Shannon is 20 miles
+```
+<details>
+<summary>
+Solve the problem using Replit
+</summary>
+Feel free to use Repl, you can fork from this empty canvas in Repl.it
+
+</details>
+
+
+:::
+
 
 
 

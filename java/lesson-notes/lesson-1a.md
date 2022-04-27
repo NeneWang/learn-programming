@@ -118,7 +118,7 @@ System.out.println("I have " + books + " books in my study");
 </details>
 
 
-:::tip Activity: Age Calculator
+:::tip Activity: Age Calculator 
 Write a Java program that uses year of birth and current year to calculate the age of a person. Make sure to output the year of birth, current year and age in a neatly formatted sentence.
 
 Before you start, think about how many variables you will need for this activity.
@@ -139,6 +139,36 @@ Age : 15
 <iframe src="https://trinket.io/embed/java/fdb7ec76da" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
+
+:::
+
+
+:::tip Activity Hiking ⛰
+
+Pete and Shannon are hiking. Shannon is always 2 miles ahead of Pete. What is the distance Shannon has covered if Pete has covered 10 miles? How would the program change if Shannon has covered twice as much distance as Pete?
+The output should look something like this:
+```
+If Shannon is two miles ahead of Pete, distance hiked by Shannon is 12 miles
+
+If Shannon covers twice as much distance as Pete, distance travelled by Shannon is 20 miles
+```
+
+<details>
+<summary>
+Solve the problem using Replit
+</summary>
+<a href="https://replit.com/@NeneWang/EmptyJavaCanvas#Main.java" >Feel free to use Repl, you can fork from this empty canvas in Repl.it</a>
+
+</details>
+
+<details>
+<summary>
+You can solve the problem here using Trinket
+</summary>
+<iframe src="https://trinket.io/embed/java/6e661a677c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
 
 :::
 
