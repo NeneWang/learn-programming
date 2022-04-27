@@ -35,6 +35,14 @@ Embedding [Trinket](https://trinket.io/)
 </details>
 ```
 
+Tables
+```
+
+| Term | Definition |
+| ---- | ---------- |
+
+```
+
 
 
 
