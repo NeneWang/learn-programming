@@ -37,3 +37,19 @@
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+
+/* Customizing the font of the website */
+
+/* Just example code */
+/* :root {
+  --ifm-color-primary: #25c2a0;
+  --ifm-code-font-size: 150%;
+} */
+
+
+/* Increase all font-size */
+/* body{
+  font-size: 150%;
+} */
+

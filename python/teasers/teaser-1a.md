@@ -37,3 +37,14 @@ extracted from [this website](http://kaomoji.ru/en/).
 
 ```
 
+
+## Examples
+Printing your first Japanese Emoticon.
+Write a program that prints: `(*¯︶¯*)`
+
+
+
+
+
+
+### Exercise
