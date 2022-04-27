@@ -131,7 +131,14 @@ Current Year: 2020
 Age : 15
 ```
 
+<details>
+    <summary>
+        Hint Program: This program calculates when you will be 20.
+    </summary>
 
+<iframe src="https://trinket.io/embed/java/fdb7ec76da" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
 
 :::
 

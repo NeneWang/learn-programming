@@ -17,7 +17,7 @@ This program does X
 ```
 
 
-Creating a new page Template:
+Creating a new page in Python Template:
 ```markdown
 ---
 sidebar_position: 3
