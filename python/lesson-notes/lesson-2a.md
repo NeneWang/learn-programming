@@ -29,7 +29,6 @@ title: Chapter 2a - Variables & Arithmetic
 
 ![](../../static/img/2022-04-26-20-35-32.png)
 
-Showing example code [Trinket](https://trinket.io/)
 
 <details>
 <summary>
