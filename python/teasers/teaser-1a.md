@@ -46,6 +46,9 @@ Write a program that prints: `(*¯︶¯*)`
 🧪 See/try the Solution
 </summary>
 
+- Exercise: 
+
+
 <iframe src="https://trinket.io/embed/python3/cf39cd0db9?start=result" width="100%" height="150" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </details>
 :::
