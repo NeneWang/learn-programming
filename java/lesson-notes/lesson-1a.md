@@ -132,8 +132,24 @@ Age : 15
 ```
 
 <details>
+<summary>
+✍ Solve the problem using Replit
+</summary>
+<a href="https://replit.com/@NeneWang/EmptyJavaCanvas#Main.java" >Feel free to use Repl, you can fork from this empty canvas in Repl.it</a>
+
+</details>
+
+<details>
+<summary>
+✍  You can solve the problem here using Trinket
+</summary>
+<iframe src="https://trinket.io/embed/java/6e661a677c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+<details>
     <summary>
-        Hint Program: This program calculates when you will be 20.
+        💡 Hint Program: This program calculates when you will be 20.
     </summary>
 
 <iframe src="https://trinket.io/embed/java/fdb7ec76da" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
@@ -152,10 +168,9 @@ If Shannon is two miles ahead of Pete, distance hiked by Shannon is 12 miles
 
 If Shannon covers twice as much distance as Pete, distance travelled by Shannon is 20 miles
 ```
-
 <details>
 <summary>
-Solve the problem using Replit
+✍ Solve the problem using Replit
 </summary>
 <a href="https://replit.com/@NeneWang/EmptyJavaCanvas#Main.java" >Feel free to use Repl, you can fork from this empty canvas in Repl.it</a>
 
@@ -163,12 +178,11 @@ Solve the problem using Replit
 
 <details>
 <summary>
-You can solve the problem here using Trinket
+✍  You can solve the problem here using Trinket
 </summary>
 <iframe src="https://trinket.io/embed/java/6e661a677c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
-
 
 :::
 

@@ -131,6 +131,24 @@ Feel free to use Repl, you can fork from this empty canvas in Repl.it
 
 :::
 
+### Everything together
+
+<details>
+<summary>
+✍ Solve the problem using Replit
+</summary>
+<a href="https://replit.com/@NeneWang/EmptyJavaCanvas#Main.java" >Feel free to use Repl, you can fork from this empty canvas in Repl.it</a>
+
+</details>
+
+<details>
+<summary>
+✍  You can solve the problem here using Trinket
+</summary>
+<iframe src="https://trinket.io/embed/java/6e661a677c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
 
 
 
