@@ -166,6 +166,15 @@ What are coordinates?
 
 </details>
 
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/python/e35694aae3" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
 ### Colors
 
 [Colors supported in Trinket](https://trinket.io/docs/colors)
@@ -175,6 +184,15 @@ turtle.color("yellow") # is used to set the colour of the drawn line
 turtle.fillcolor("yellow") # is used to set the color that should be used to fill the drawn figure
 
 ```
+
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/python/aced5f41ad?start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
 
 ### Speed 🏃‍♂️
 ```python
