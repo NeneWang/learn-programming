@@ -19,6 +19,8 @@ int age=15;
 
 </details>
 
+- Do you think you are able to change the printing message from `Hello World` to a different thing?
+
 ## Basic Math Operations using Variables
 
 ```java
