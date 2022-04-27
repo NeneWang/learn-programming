@@ -10,10 +10,24 @@ FTP_PASSWORD=Learncode2020!
 
 main: build-commit ft-push
 
+pres-c:
+	git pull
+	git add --all
+	git commit -m "master | before switch switch to presentation"
+	git push origin HEAD
+	make pres-m
+
+pres-m:
+	git pull
+	git checkout pres
+	git merge master
+	git add --all
+	git commit -m "Instructor merge"
+	git push origin HEAD
+
 teach-c:
 	git add --all
 	git commit -m "master | before switch commit"
-	git add --all
 	git push origin HEAD
 	make teach-m
 
@@ -23,6 +37,7 @@ teach-m:
 	git add --all
 	git commit -m "Instructor merge"
 	git push origin HEAD
+
 master:
 	git add --all
 	git commit -m "Instructor merge"
