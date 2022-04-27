@@ -68,26 +68,6 @@ print('\\') # to print a backslash, you need to escape with another backslash
 
 [👀](https://learn2codelive.com/courses/4/pages/lesson-1-python-challenge-1a-code-art?module_item_id=447)
 
-:::tip Problem 1
-Let's say you want to create the following figure:
-
-![](2022-04-26-17-28-50.png)
-
-:::
-
-
-
-<details>
-<summary>
-💡 Hints 
-</summary>
-
-- What are the different characters that have been used to create this shape?
-- How will you get the spacing right? What lines are the characters on? Hint: Use a table and add the different characters in the cells as they appear in the image. Or simply align the characters on your code editor first.
-- Write down the instructions needed to create this graphic in the Instructions window of your Trinket.
-
-</details>
-
 **Example**
 Let's say we want to create the following figure:
 
@@ -99,6 +79,35 @@ Let's say we want to create the following figure:
 </summary>
 Try out this solution
 <iframe src="https://trinket.io/embed/python3/979c707fa0" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+</details>
+
+:::tip Problem 1
+Let's say you want to create the following figure:
+
+![](2022-04-26-17-28-50.png)
+
+:::
+
+
+
+<details>
+<summary>
+📝 Solve this problem in <a target="_blank" href="https://trinket.io/">Trinket</a> or <b>here</b>
+</summary>
+<iframe src="https://trinket.io/embed/python3/6c5d05a988" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+<details>
+<summary>
+💡 Hints 
+</summary>
+
+- What are the different characters that have been used to create this shape?
+- How will you get the spacing right? What lines are the characters on? Hint: Use a table and add the different characters in the cells as they appear in the image. Or simply align the characters on your code editor first.
+- Write down the instructions needed to create this graphic in the Instructions window of your Trinket.
 
 </details>
 

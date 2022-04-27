@@ -24,13 +24,13 @@ Embedding [Replit](https://replit.com/~)
 </details>
 ```
 
-Embedding [Trinket](https://trinket.io/)
+Making students create the our problem [Trinket](https://trinket.io/)
 ```
 <details>
 <summary>
-🧪 Try the code out! 
+📝 Solve this problem in <a target="_blank" href="https://trinket.io/">Trinket</a> or <b>here</b>
 </summary>
-<iframe src="https://trinket.io/embed/python3/42877e453f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/6c5d05a988" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
 ```
