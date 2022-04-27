@@ -85,6 +85,8 @@ It is important to follow the below guidelines to name a variable in java.
 
 ## Concatenation
 
+### Concatenating Words
+
 ![](https://media0.giphy.com/media/BHeCjdyGJck6c/200.gif)
 
 ```java
@@ -99,5 +101,20 @@ System.out.println("Pineapple " + " Pen");
 
 </details>
 
+### You can also concatenate int and words
+
+```java
+int books = 51;
+System.out.println("I have " + books + " books in my study");  
+
+```
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/java/9f4104cc68" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
 
 
