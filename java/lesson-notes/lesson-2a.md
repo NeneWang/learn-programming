@@ -88,6 +88,25 @@ public class Main {
 
 </details>
 
+## Compound assignment operator
+
+| operator | Definition                    |
+| -------- | ----------------------------- |
+| +=       | Addition and assignment       |
+| -=       | Subtraction and assignment    |
+| *=       | Multiplication and assignment |
+| /=       | Division and assignment       |
+| %=       | Remainder and assignment      |
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/java/2bfb91b7e7" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+
 
 
 
