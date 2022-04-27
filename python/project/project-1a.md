@@ -38,7 +38,7 @@ extracted from [this website](http://kaomoji.ru/en/).
 ```
 
 
-## Examples
+## Introduction Exercise
 :::important Printing your first Japanese Emoticon.
 Write a program that prints: `(*¯︶¯*)`
 <details>
@@ -55,6 +55,8 @@ Write a program that prints: `(*¯︶¯*)`
 - Please modify code above a with a different emoticon! You are allowed to copy-paste, you don't need to type in the specific characters to print that face.
 
 :::
+
+## Printing Special Characters
 
 :::important A trickier problem.
 Write a program that prints: `/(￣▽￣)\`
@@ -77,7 +79,7 @@ Write a program that prints: `/(￣▽￣)\`
 
 
 
-## Exercise
+### Exercise
 :::tip Fix the following Emoticon printer
 
 In this program we are trying to print the following emoticon: `\>\▽\<\`
