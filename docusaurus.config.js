@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Programming Class Resources',
+  title: 'learn.wangnelson.xyz',
   tagline: 'Your success is my #1 priority!',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -82,7 +82,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Learn Programming',
+        title: 'learn.wangnelson.xyz',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -108,9 +108,14 @@ const config = {
             label: 'Blog',
             position: 'left'
           },
+          // {
+          //   href: 'https://discord.gg/pGaJqmbJSm',
+          //   label: 'Discord',
+          //   position: 'right',
+          // },
           {
             href: 'https://discord.gg/pGaJqmbJSm',
-            label: 'Discord',
+            label: 'Submit an assigment',
             position: 'right',
           },
         ],

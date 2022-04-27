@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/blog</id>
-    <title>Programming Class Resources Blog</title>
+    <title>learn.wangnelson.xyz Blog</title>
     <updated>2022-04-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
-    <subtitle>Programming Class Resources Blog</subtitle>
+    <subtitle>learn.wangnelson.xyz Blog</subtitle>
     <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Contacts]]></title>
