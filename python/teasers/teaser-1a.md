@@ -43,10 +43,26 @@ extracted from [this website](http://kaomoji.ru/en/).
 Write a program that prints: `(*¯︶¯*)`
 <details>
 <summary>
-See/try the Solution
+🧪 See/try the Solution
 </summary>
 
 <iframe src="https://trinket.io/embed/python3/cf39cd0db9?start=result" width="100%" height="150" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</details>
+:::
+
+:::important A trickier problem.
+Write a program that prints: `/(￣▽￣)\`
+- Note how in python there are some characters that when printing, we need to
+  **escape** them (for example: `\`).
+- That's why on the following example, instead of only having one `\` there are
+  2 of them `\\`
+
+<details>
+<summary>
+🧪 See/try the Solution
+</summary>
+
+<iframe src="https://trinket.io/embed/python3/9a0da69f6f?start=result" width="100%" height="150" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </details>
 :::
 
@@ -57,7 +73,25 @@ See/try the Solution
 
 ### Exercise
 :::tip Fix the following Emoticon printer
-This program throws an error: Do you think you can figure out why?
+
+In this program we are trying to print the following emoticon: `\>\▽\<\`
+
+The following program throws an error: 
+```python
+print("\>\▽\<\")
+```
+
+- Do you think you can figure out why?
+
+[View in Trinket](https://trinket.io/python3/691d874844)
+
+<details>
+<summary>
+🔨 Try fixing it here!
+</summary>
+
+<iframe src="https://trinket.io/embed/python3/691d874844?start=result" width="100%" height="150" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</details>
 
 :::
 
