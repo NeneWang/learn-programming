@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Cheatsheet
+title: 🧐 Cheatsheet
 ---
 
 Hello Everyone for this class, I will focus in teaching the concepts, so you don't need to memorize anything: 
