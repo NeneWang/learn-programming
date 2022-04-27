@@ -118,6 +118,8 @@ System.out.println("I have " + books + " books in my study");
 </details>
 
 
+[👀 E2 Practice 3](https://learn2codelive.com/courses/107/pages/lesson-1-learning-activities-e2-practice-activity-3-age-calculator?module_item_id=9031)
+
 :::tip Activity: Age Calculator 
 Write a Java program that uses year of birth and current year to calculate the age of a person. Make sure to output the year of birth, current year and age in a neatly formatted sentence.
 
@@ -158,6 +160,8 @@ Age : 15
 
 :::
 
+
+[👀 E2 Practice 4](https://learn2codelive.com/courses/107/pages/lesson-1-learning-activities-e2-practice-activity-4-hiking?module_item_id=9032)
 
 :::tip Activity Hiking ⛰
 
