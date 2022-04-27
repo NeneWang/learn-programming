@@ -26,18 +26,12 @@ You only need to complete this for this class. But if you would like to, feel fr
 
 ## Printing numbers
 ```python
-# This program displays some stuff  # Line 3
-print ("Welcome to Python Programming")    # Line 4
-print ("Try coding, it's fun. Do you know what is 123456789*123456789?") # Line 5
-print (123456789*123456789)    # Line 6
+# This program displays some stuff 
+print ("Welcome to Python Programming")  
+print ("Try coding, it's fun. Do you know what is 4*3?") 
+print (4*3)    # This should print 12
 ```
-Output
-```output
-# This program displays some stuff  # Line 3
-print ("Welcome to Python Programming")    # Line 4
-print ("Try coding, it's fun. Do you know what is 123456789*123456789?") # Line 5
-print (123456789*123456789)    # Line 6
-```
+
 <details>
 <summary>
 🧪 Try the code out! 
