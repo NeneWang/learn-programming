@@ -52,7 +52,7 @@ Write a program that prints: `(*¯︶¯*)`
 
 
 :::tip Class Excercise
-- Please modify code above a different emoticon! You are allowed to copy-paste, you don't need to type in the specific characters to print that face.
+- Please modify code above a with a different emoticon! You are allowed to copy-paste, you don't need to type in the specific characters to print that face.
 
 :::
 

@@ -13,9 +13,16 @@ print ('Hello World!')  # Print a message using single quotes
 <summary>
 🧪 Try the code out! 
 </summary>
-<iframe src="https://trinket.io/embed/python3/42877e453f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/42877e453f" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
+
+
+:::important Time to work on our Japanese Emoticons!
+[Click here to go to our Japanese Emoticons project](../project/project-1a)
+You only need to complete this for this class. But if you would like to, feel free to peek into the topics below! 
+:::
+
 
 ## Printing numbers
 ```python
