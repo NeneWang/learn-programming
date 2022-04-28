@@ -98,6 +98,23 @@ public class Main {
 | /=       | Division and assignment       |
 | %=       | Remainder and assignment      |
 
+```java
+ int a =20;
+   int b =20;
+   
+   System.out.println(a);
+   System.out.println(b);
+   
+   a += 15;
+   System.out.println("a is " + a);
+   
+   b = 15 + b;
+   System.out.println("b is " + b);
+   
+   a -= 3;
+   System.out.println("a is " + a);
+```
+
 <details>
 <summary>
 🧪 Try the code out! 
