@@ -90,7 +90,7 @@ If Shannon covers twice as much distance as Pete, distance travelled by Shannon 
 
 <details>
 <summary>
-You can solve the problem here using Trinket
+📝 You can solve the problem here using Trinket
 </summary>
 <iframe src="https://trinket.io/embed/java/6e661a677c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
