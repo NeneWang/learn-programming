@@ -202,13 +202,13 @@ The following program prints makes operations with differents variables you can 
 
 ## Class Excercise:
 
-:::tip Exercise 1: 🔨 Fix the following code 🐖🏦 Piggy Bank
+:::tip Exercise 1: 🔨 Fix the following code Piggy Bank 🐖🏦
 
 This is the prompt
 Rene has $29.80 in her piggy bank. Rene’s dad has promised to give her $2.50 if she takes out trash. Her mom has promised to give her another $2.50 if she does her laundry. Her mom and dad have also promised to give her $2.75 if she walks the dog. Write a program that calculates the money that Rene will have if she does all the three chores. Use variables for each number and output the result in a complete sentence. Before you start, think about the data type(s) that you will use and why.
 
 
-The following code should **prints**:
+The following code **should print**:
 ```output
 Piggy bank bal : 29.8
 Total amount after Trash Cleaning : 29.8 + 2.5 = 32.3
