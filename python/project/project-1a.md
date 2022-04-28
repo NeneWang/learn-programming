@@ -51,7 +51,7 @@ Write a program that prints: `(*¯︶¯*)`
 :::
 
 
-:::tip Class Excercise
+:::tip Class Exercise
 - Please modify code above a with a different emoticon! You are allowed to copy-paste, you don't need to type in the specific characters to print that face.
 
 :::
