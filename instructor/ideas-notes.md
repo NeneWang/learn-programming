@@ -8,7 +8,14 @@
 - If statements: Have something that prints different japanese emoticons faces depending on how you are feeling.
   - Have the program be printing the sad face even if you are happy.
 - For loops: Today we are going to learn how to hack someone's fornyte account.
+  - Check if you can create a login prompt where you need to pass a password
 
+
+## Fun interaction items
+- What is my purpose?
+  - You pass butter
+- Create the hologram assistant
+  - Have her shiish the class.
 
 
 ## Teach them
