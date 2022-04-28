@@ -3,6 +3,10 @@
 ## Problems
 
 - Turtle game: Sanic the hedgdog the game attempt
+- Inputs and printing with stuff
+  - Have something that pritns X 
+- If statements: Have something that prints different japanese emoticons faces depending on how you are feeling.
+  - Have the program be printing the sad face even if you are happy.
 - For loops: Today we are going to learn how to hack someone's fornyte account.
 
 
