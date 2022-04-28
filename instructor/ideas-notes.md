@@ -21,3 +21,4 @@
 - Kitten pngs rewards
 - Using cards as rewards Printing like yugioh cards as a gift as a reward.
 - Maybe u can also print things using your 3D printer.
+- Showcase of the cards and Swag that you can get and explain that in the programming world that is something that you will see a lot.
