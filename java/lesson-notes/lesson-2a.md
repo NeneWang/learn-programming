@@ -202,7 +202,72 @@ The following program prints makes operations with differents variables you can 
 
 ## Class Excercise:
 
-:::tip Exercize 1 🐖🏦 Piggy Bank
+:::tip Exercise 1: 🔨 Fix the following code 🐖🏦 Piggy Bank
+
+This is the prompt
+Rene has $29.80 in her piggy bank. Rene’s dad has promised to give her $2.50 if she takes out trash. Her mom has promised to give her another $2.50 if she does her laundry. Her mom and dad have also promised to give her $2.75 if she walks the dog. Write a program that calculates the money that Rene will have if she does all the three chores. Use variables for each number and output the result in a complete sentence. Before you start, think about the data type(s) that you will use and why.
+
+
+The following code should **prints**:
+```output
+Piggy bank bal : 29.8
+Total amount after Trash Cleaning : 29.8 + 2.5 = 32.3
+Total amount after doing Laundry : 32.3 + 2.5 = 34.8
+Total amount after taking dog on walk : 34.8 + 2.75 = 37.55
+```
+
+**But instead** it prints this:
+```Output
+Piggy bank bal : 29.8
+Total amount after Trash Cleaning : 29.8 + 2.5 = 29.82.5
+Total amount after doing Laundry : 32.3 + 2.5 = 32.32.5
+Total amount after taking dog on walk : 34.8 + 2.75 = 34.82.75
+```
+
+Code with error:
+```java
+public class Main {
+  public static void main(String args[]) {
+      float piggy_bank_bal = 29.80f;// what will happen when we make it 'int'
+      float earning_from_trash = 2.50f;
+      float earning_from_laundry = 2.50f;
+      float earning_from_petsitter = 2.75f;
+      float total = piggy_bank_bal;
+      System.out.println("Piggy bank bal : " + piggy_bank_bal);
+      System.out.println("Total amount after Trash Cleaning : " + total + " + " + earning_from_trash + " = " + total + earning_from_trash);
+      total = total + earning_from_trash; //total calculation after trash cleaning
+      System.out.println("Total amount after doing Laundry : " + total + " + " + earning_from_laundry + " = " + total + earning_from_laundry);
+      total = total + earning_from_laundry; //total calculation after laundry
+      System.out.println("Total amount after taking dog on walk : " + total + " + " + earning_from_petsitter + " = " + total + earning_from_petsitter);
+  }
+}
+```
+
+
+<details>
+<summary>
+✍ Solve the problem using Replit
+</summary>
+<a href="https://replit.com/@NeneWang/EmptyJavaCanvas#Main.java" >Feel free to use Repl, you can fork from this empty canvas in Repl.it</a>
+
+</details>
+
+<details>
+<summary>
+✍  You can solve the problem here using Trinket
+</summary>
+<iframe src="https://trinket.io/embed/java/eebac3afea" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</details>
+
+
+
+:::
+
+
+
+:::tip Exercise 1 🐖🏦 Piggy Bank
+
+Rene has $29.80 in her piggy bank. Rene’s dad has promised to give her $2.50 if she takes out trash. Her mom has promised to give her another $2.50 if she does her laundry. Her mom and dad have also promised to give her $2.75 if she walks the dog. Write a program that calculates the money that Rene will have if she does all the three chores. Use variables for each number and output the result in a complete sentence. Before you start, think about the data type(s) that you will use and why.
 
 
 
@@ -222,6 +287,9 @@ The following program prints makes operations with differents variables you can 
 
 </details>
 :::
+
+
+
 
 
 
