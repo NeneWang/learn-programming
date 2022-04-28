@@ -21,4 +21,6 @@
 - Kitten pngs rewards
 - Using cards as rewards Printing like yugioh cards as a gift as a reward.
 - Maybe u can also print things using your 3D printer.
+  - You can print like cute pokemon figures and they are like holding the assigment if they do the HARD problem. 
 - Showcase of the cards and Swag that you can get and explain that in the programming world that is something that you will see a lot.
+- What is the maximum size of memory on Maries
