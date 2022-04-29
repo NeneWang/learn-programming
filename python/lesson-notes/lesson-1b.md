@@ -77,11 +77,19 @@ turtle.circle (100) # draws a circle with radius 100
 ```python
 import turtle
 
-turtle.circle (100, 180) # draws a semi-circle (first parameter is radius, second is degrees)
+turtle.circle (50, 180) # draws a semi-circle (first parameter is radius, second is degrees)
 
 ```
 
 ![](../../static/img/2022-04-25-03-03-11.png)
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/python/9d34972885" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
 
 <details>
 <summary>
@@ -90,8 +98,16 @@ turtle.circle (100, 180) # draws a semi-circle (first parameter is radius, secon
 
 ```python
 import turtle
-turtle.circle (40, 360/4) # or 90
+turtle.circle (50, 360/4) # or 90
 ```
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/python/7f899ec800" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
 
 </details>
 
