@@ -7,6 +7,7 @@ Alexander - student
 BUbu - student
 Andrew - student
 Isaac - Genius
+Jeorgevany - Turtle Class went above and beyond!
 
 ### App Inventor
 Talk with Mr. Brown
