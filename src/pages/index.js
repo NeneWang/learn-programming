@@ -17,8 +17,8 @@ function HomepageHeader() {
           {/* TODO: Having this code change at the start of the class */}
           <Link
             className="button button--secondary button--lg"
-            to="/python/lesson-notes/lesson-1a">
-            Go to Python's First Lecture!
+            to="/python/lesson-notes/lesson-1b">
+            Go to Python's Second Lecture!
           </Link>
           {/* <Link
             className="button button--secondary button--lg"
