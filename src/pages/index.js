@@ -15,16 +15,16 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           {/* TODO: Having this code change at the start of the class */}
-          {/* <Link
+          <Link
             className="button button--secondary button--lg"
             to="/python/lesson-notes/lesson-1a">
             Go to Python's First Lecture!
-          </Link> */}
-          <Link
+          </Link>
+          {/* <Link
             className="button button--secondary button--lg"
             to="/python/lesson-notes/lesson-1b">
             Go to Python's Second Lecture!
-          </Link>
+          </Link> */}
           {/* <Link
             className="button button--secondary button--lg"
             to="/java/lesson-notes/lesson-1a">
