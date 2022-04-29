@@ -254,7 +254,7 @@ public class Main {
 
 <details>
 <summary>
-✍  You can solve the problem here using Trinket
+✍  You can solve the problem <b>here</b> using Trinket
 </summary>
 <iframe src="https://trinket.io/embed/java/eebac3afea" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </details>
@@ -262,7 +262,7 @@ public class Main {
 
 
 :::
-
+<!-- 
 
 
 :::tip Exercise 1 🐖🏦 Piggy Bank
@@ -281,7 +281,7 @@ Rene has $29.80 in her piggy bank. Rene’s dad has promised to give her $2.50 i
 
 <details>
 <summary>
-✍  You can solve the problem here using Trinket
+✍  You can solve the problem <b> here </b>using Trinket
 </summary>
 <iframe src="https://trinket.io/embed/java/6e661a677c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
@@ -289,7 +289,7 @@ Rene has $29.80 in her piggy bank. Rene’s dad has promised to give her $2.50 i
 :::
 
 
-
+ -->
 
 
 

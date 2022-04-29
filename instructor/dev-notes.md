@@ -143,7 +143,7 @@ Feel free to use Repl, you can fork from this empty canvas in Repl.it
 
 <details>
 <summary>
-✍  You can solve the problem here using Trinket
+✍  You can solve the problem <b>here</b> using Trinket
 </summary>
 <iframe src="https://trinket.io/embed/java/6e661a677c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
