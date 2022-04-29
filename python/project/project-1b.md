@@ -8,9 +8,14 @@ your first videogame character: Sanic, the hotdog!
 
 
 :::tip Introducing Mister Sanic
-The notes for this project will be completed soon... but we will be making Mr. Sanic over here move around and collect coins!
+In todays lesson we will be making Mr. Sanic over here move around and collect coins!
 
 ![](./teaser-1b.gif)
+
+The following code will print out the environment of Sanic, don't worry about
+understanding it yet!
+<iframe src="https://trinket.io/embed/python/050b5b6826" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 
 :::
 
