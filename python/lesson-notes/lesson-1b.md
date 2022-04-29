@@ -200,7 +200,7 @@ turtle.fillcolor("yellow") # is used to set the color that should be used to fil
 ```python
 
 turtle.speed(5) # speed varies from 0 to 10
-turtle.speed(0) # is the fastest, and speed increases from 1 to 10
+turtle.speed(0) # 10 is the fastest, and speed increases from 1 to 10
 ```
 
 
