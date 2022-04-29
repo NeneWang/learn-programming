@@ -41,7 +41,7 @@ print (4*3)    # This should print 12
 </details>
 
 
-## Details
+## Special Characters when Printing
 
 [👀](https://learn2codelive.com/courses/4/pages/lesson-1-learning-activities-r-practice-activity-1-build-and-test-the-code?module_item_id=458)
 
