@@ -19,5 +19,14 @@ understanding it yet!
 
 :::
 
+## Introductory Exercise
 
+:::tip Help Sanic get pass the third coin!
+
+The following program makes Mr. Sanic pass through 2 coins. Please modify the
+program so Sanic can also pass through the  third coin!
+
+<iframe src="https://trinket.io/embed/python/05705cf21d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+:::
 
