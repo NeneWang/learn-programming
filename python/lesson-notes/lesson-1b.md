@@ -74,6 +74,37 @@ turtle.circle (100) # draws a circle with radius 100
 </details>
 
 
+### Moving to Coordinates 🗺
+We can out the pen down when we are ready to draw
+
+```python
+import turtle
+
+turtle.goto(20, 20)
+turtle.goto(-30, 50)
+
+# turtle.home() #goes to (0,0)
+```
+
+![](../../static/img/2022-04-25-03-15-19.png)
+
+<details>
+<summary>
+What are coordinates?
+</summary>
+
+![](../../static/img/2022-04-25-03-19-46.png)
+
+</details>
+
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/python/e35694aae3" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</details>
+
 ```python
 import turtle
 
@@ -158,37 +189,6 @@ turtle.circle (40, 360/4)
 </details>
 
 
-
-### Moving to Coordinates 🗺
-We can out the pen down when we are ready to draw
-
-```python
-import turtle
-
-turtle.goto(20, 20)
-turtle.goto(-30, 50)
-
-# turtle.home() #goes to (0,0)
-```
-
-![](../../static/img/2022-04-25-03-15-19.png)
-
-<details>
-<summary>
-What are coordinates?
-</summary>
-
-![](../../static/img/2022-04-25-03-19-46.png)
-
-</details>
-
-
-<details>
-<summary>
-🧪 Try the code out! 
-</summary>
-<iframe src="https://trinket.io/embed/python/e35694aae3" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-</details>
 
 
 
