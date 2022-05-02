@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'learn.wangnelson.xyz',
   tagline: 'Your success is my #1 priority!',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'http://learn.wangnelson.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'NeneWang', // Usually your GitHub org/user name.
-  projectName: 'programming-docs', // Usually your repo name.
+  organizationName: 'NeneWang', 
+  projectName: 'Learn-programming', 
 
   presets: [
     [
