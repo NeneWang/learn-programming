@@ -23,6 +23,19 @@ Mr Baros
 Ms Trucia?
 Ms. Ramos
 
-## Deliverable for 
+## Deliverable for next semester
+| Idea                             | Description                                                        | Image |
+| -------------------------------- | ------------------------------------------------------------------ | ----- |
+| Dungeons and Dragons and Python! | A game where you slowly start replacing mechanics into python code |
+
+
+### Inspiration
+
+:::tip 
+
+:::
+
+
+
 
 
