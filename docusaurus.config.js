@@ -84,7 +84,7 @@ const config = {
       navbar: {
         title: 'learn.wangnelson.xyz',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Learn Programming',
           src: 'img/logo.svg',
         },
         items: [{
