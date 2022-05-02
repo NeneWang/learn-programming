@@ -33,7 +33,8 @@ Ms. Ramos
 
 ### Inspiration
 
-:::tip 
+:::tip I just hope they can learn something
+I am their #6 Instructor. I love programming, and I program in an almost religious manner. It just breaks my heart seeying this kids not being able to learn this thing I feel so passionate about, because they just had bad instructors, it really breaks my heart and I hope I can teach something to this kids by the end of the semester.
 
 :::
 
