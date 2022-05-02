@@ -27,6 +27,8 @@ Ms. Ramos
 | Idea                             | Description                                                        | Image |
 | -------------------------------- | ------------------------------------------------------------------ | ----- |
 | Dungeons and Dragons and Python! | A game where you slowly start replacing mechanics into python code |
+| Lili Chan Bot                    | Helps class management, attendance, and the like                   |
+
 
 
 ### Inspiration
