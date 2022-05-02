@@ -6,7 +6,7 @@ title: "Learning how to Teach"
 ## Video Analyzis
 
 :::tip Resources
-- [What makes a good teacher great?](https://www.youtube.com/watch?v=vrU6YJle6Q4)
+- [TED | What makes a good teacher great? - Azul Terronez ](https://www.youtube.com/watch?v=vrU6YJle6Q4)
 
 :::
 
