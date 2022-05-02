@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklearn_programming=self.webpackChunklearn_programming||[]).push([[2535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introduction to Blogs","permalink":"/blog/introduction"}]}')}}]);

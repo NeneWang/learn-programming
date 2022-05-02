@@ -146,7 +146,7 @@ const config = {
 
               {
                 label: 'Instructor Contact Information',
-                to: '/blog/contact',
+                to: '/docs/contact',
               },
               {
                 label: 'Ask a question',
