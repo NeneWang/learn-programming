@@ -94,12 +94,12 @@ const config = {
             label: 'About',
           },
           {
-            to: '/python/Intro',
+            to: '/python/intro',
             label: 'Python',
             position: 'left'
           },
           {
-            to: '/java/Intro',
+            to: '/java/intro',
             label: 'Java',
             position: 'left'
           },
