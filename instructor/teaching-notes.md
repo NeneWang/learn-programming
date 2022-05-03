@@ -22,7 +22,7 @@ title: "Learning how to Teach"
 
 | Note                     | Details                                                                     |
 | ------------------------ | --------------------------------------------------------------------------- |
-| High Energy and Engaging | (1) The enthusiasm (2) Ecnourages students who finish as well as the others | Troubleshooting | 
+| High Energy and Engaging | (1) The enthusiasm (2) Ecnourages students who finish as well as the others | Troubleshooting 
 
 
 
