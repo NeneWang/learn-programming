@@ -12,13 +12,12 @@ title: Chapter 2a - Variables & Arithmetic
 
 ### Using Examples and doing math with it.
 ```python
+mom_age = 40 # Mmom_age represents mom's age # Line 3
 
-M = 40 # M represents mom's age # Line 3
+leah_age = mom_age - 25 # leah_age represents Leah's age # Line 4
 
-L = M - 25 # L represents Leah's age # Line 4
-
-print("Age of Leah's mom is " + str(M)) # typecast all data into string type    # Line 5
-print ("Age of Leah is " + str(L)) # there is an additional whitespace in the text to improve readablity # Line 6
+print("Age of Leah's mom is " + str(mom_age)) # typecast all data into string type    # Line 5
+print ("Age of Leah is " + str(leah_age)) # there is an additional whitespace in the text to improve readablity # Line 6
 ```
 
 <details>
@@ -37,15 +36,6 @@ print ("Age of Leah is " + str(L)) # there is an additional whitespace in the te
 
 
 
-
-
-<details>
-<summary>
-✍  You can solve the problem <b>here</b> using Trinket
-</summary>
-<iframe src="https://trinket.io/embed/python/dd42578d4e" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-</details>
 
 ## Assigment Operators
 
