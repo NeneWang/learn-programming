@@ -9,6 +9,18 @@ title: Chapter 2a - Variables & Arithmetic
 ## Usage Example
 
 ![](../../static/img/2022-04-26-20-14-58.png)
+
+### Using Examples and doing math with it.
+```python
+
+M = 40 # M represents mom's age # Line 3
+
+L = M - 25 # L represents Leah's age # Line 4
+
+print("Age of Leah's mom is " + str(M)) # typecast all data into string type    # Line 5
+print ("Age of Leah is " + str(L)) # there is an additional whitespace in the text to improve readablity # Line 6
+```
+
 <details>
 <summary>
 🧪 Try the code out! 
@@ -17,12 +29,26 @@ title: Chapter 2a - Variables & Arithmetic
 
 </details>
 
+
 ## Arithmetic Operators
 
 ![](../../static/img/2022-04-26-20-29-18.png)
 
 ## Assigment Operators
 ![](../../static/img/2022-04-26-20-30-36.png)
+
+## Hiking Problem
+Pete and Shannon are hiking. Shannon is always 2 miles ahead of Pete. What is the distance Shannon has covered if Pete has covered 10 miles? How would the program change if Shannon has covered twice as much distance as Pete?
+
+
+<details>
+<summary>
+✍  You can solve the problem <b>here</b> using Trinket
+</summary>
+<iframe src="https://trinket.io/embed/python/dd42578d4e" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
 
 
 ## Arithmetic Operators Practice
