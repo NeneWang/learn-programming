@@ -34,11 +34,9 @@ print ("Age of Leah is " + str(L)) # there is an additional whitespace in the te
 
 ![](../../static/img/2022-04-26-20-29-18.png)
 
-## Assigment Operators
-![](../../static/img/2022-04-26-20-30-36.png)
 
-## Hiking Problem
-Pete and Shannon are hiking. Shannon is always 2 miles ahead of Pete. What is the distance Shannon has covered if Pete has covered 10 miles? How would the program change if Shannon has covered twice as much distance as Pete?
+
+
 
 
 <details>
@@ -48,6 +46,11 @@ Pete and Shannon are hiking. Shannon is always 2 miles ahead of Pete. What is th
 <iframe src="https://trinket.io/embed/python/dd42578d4e" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
+
+## Assigment Operators
+
+![](../../static/img/2022-04-26-20-30-36.png)
+
 
 
 
@@ -64,7 +67,8 @@ Pete and Shannon are hiking. Shannon is always 2 miles ahead of Pete. What is th
 
 </details>
 
-## Hiking Activity
+## Hiking Problem
+Pete and Shannon are hiking. Shannon is always 2 miles ahead of Pete. What is the distance Shannon has covered if Pete has covered 10 miles? How would the program change if Shannon has covered twice as much distance as Pete?
 
 
 <details>
