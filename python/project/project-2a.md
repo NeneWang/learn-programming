@@ -18,9 +18,19 @@ The programmer who created the following code made a huge mistake and calculated
 </details>
 
 ## Calculating Profit Margin
+
+[What is Profit Margin?](https://www.youtube.com/watch?v=pgmtxQNKe9Q&ab_channel=ClayTrader)
+
 Profit margins are calculated as `Profit Margin = (Net Profit / Revenue) * 100`
 Finish the following program so that the program prints your
 
+<details>
+<summary>
+ 🔨 Fix the program here:
+</summary>
+<iframe src="https://trinket.io/embed/python/a4f88da201" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
 
 
 ## Compound Interest the secret to become rich.
