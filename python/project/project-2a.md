@@ -40,19 +40,16 @@ Finish the following program so that the program prints your
 
 
 
-## Using Python to cheat on exams
+## Cheating your Physics Exam
+The following program calculates the position of something based on variables:
+These are the linear motion formulas
 
-Hello everyone by the end of this class you will learn enough to create a
-program that will help you cheat on your next Physics class.
 
 :::caution Disclaimer
 I don't condone cheating or anything related to actual academic dishonesty, this
 is just a what if scenario... 	٩(｡•́‿•̀｡)۶
 :::
 
-## Cheating your Physics Exam
-The following program calculates the position of something based on variables:
-These are the linear motion formulas
 
 ![](../../static/img/2022-05-04-02-16-59.png)
 Image extracted from [real-world-physics](https://www.real-world-physics-problems.com/rectilinear-motion.html)
