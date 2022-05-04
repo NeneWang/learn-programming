@@ -1,5 +1,5 @@
 ---
-title: Chapter 3b - Logical vs Syntax Errors
+title: Chapter 3b - Errors
 ---
 
 
