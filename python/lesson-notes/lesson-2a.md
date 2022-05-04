@@ -7,9 +7,14 @@ title: Chapter 2a - Variables & Arithmetic
 
 ### Introduction
 
+
+:::note Variables are like boxes
+
 ![](../../static/img/2022-05-04-03-07-10.png)
 
 Image extracted from [StevenCurtis Medium](https://stevenpcurtis.medium.com/what-is-a-variable-3447ac1331b9)
+:::
+
 ```python
 myNum =  4
 print(myNum)
@@ -24,8 +29,33 @@ print(myNum)
 
 </details>
 
+### Re-assigning values to variables
 
-## Introduction to operations using variables
+:::note Image
+![](../../static/img/2022-05-04-03-14-15.png)
+Image extracted from [StevenCurtis Medium](https://stevenpcurtis.medium.com/what-is-a-variable-3447ac1331b9)
+:::
+
+```python
+myNum =  4 
+print(myNum) #4
+myNum = 10
+print(myNum) #10
+```
+
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/python/81a661f2eb" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+
+### Introduction to operations using variables
+
+
 
 
 ## Usage Example
