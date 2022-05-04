@@ -4,6 +4,14 @@ title: Chapter 2b - Typecasting
 ---
 
 ## Typecasting
+
+
+:::note Casting
+![](../../static/img/2022-05-04-04-15-52.png)
+We can sort of do something similar in Java, but with Variable Types
+Images extracted from [P Akthy](https://en.wikipedia.org/wiki/Casting#/media/File:Cast_iron_melting.JPG) and [machinemfg](https://www.machinemfg.com/types-of-casting/)
+:::
+
 ```java
 float myFloat = 1.5f;
 int myInt = (int) myDouble; // changes double to int 
