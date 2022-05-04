@@ -110,9 +110,9 @@ print ("Age of Leah is " + str(leah_age)) # there is an additional whitespace in
 
 
 
-## Practice Activities: Apples
+## Practice Activities: Apples 🍎
 
-:::tip Count of Apples
+:::tip Count of Apples 🍎
 write a program that tracks the mumber of apples the user ends up with after starting with a set number of apples. Students  can set the initial number of apples to a number of their choice. The output should follow this script:
 
 **Intended Output**
