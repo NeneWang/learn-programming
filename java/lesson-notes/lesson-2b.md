@@ -39,13 +39,11 @@ In Implicit conversions, one data type is automatically converted into another i
 ```java
 public class Main {
  public static void main(String args[]) {
- int x = 10; // integer x
- char y = 'a'; // character c
- // x is implicitly converted to float
- float z =x + 1.0f;
- System.out.println("x = " + x );
- System.out.println("y = " + y );
- System.out.println("z = " + z );
+   int x = 10; // integer x
+   // x is implicitly converted to float
+   float z =x + 1.0f;
+   System.out.println("x = " + x );
+   System.out.println("z = 'x+1.0f'(x=10) = " + z );
  }
 }
 ```
@@ -53,8 +51,7 @@ public class Main {
 Output
 ```
 x = 10
-y = a
-z = 11.0
+z = 'x+1.0f'(x=10) = 11.0
 ```
 
 
@@ -62,7 +59,7 @@ z = 11.0
 <summary>
 🧪 Try the code out! 
 </summary>
-<iframe src="https://trinket.io/embed/java/67bc304013" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/java/67bc304013" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
 
@@ -96,16 +93,39 @@ val = 1
 
 </details>
 
-## Data Types & Typecasting
+## Potential Errors When Typecasting
 
+### Avoiding Errors: This will throw you an error
 ```java
 public class Main {
  public static void main(String args[]) {
- int val=(int)2.4;
+ int val=(int)2.4 - 2.1;
  System.out.println("val = " +val);
  }
 }
 ```
+
+![](2022-05-04-13-58-33.png)
+
+<details>
+<summary>
+🧪 Try the code out! - This will throw an error
+</summary>
+<iframe src="https://trinket.io/embed/java/e9412a0e94" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+###  Do this instead
+
+```java
+public class Main {
+ public static void main(String args[]) {
+ int val=(int)(2.4 - 2.1);
+ System.out.println("val = " +val);
+ }
+}
+```
+
 
 <details>
 <summary>
