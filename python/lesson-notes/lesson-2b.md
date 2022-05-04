@@ -1,5 +1,5 @@
 ---
-title: Lesson 2b Function
+title: Chapter 2b - Built-in Functions
 ---
 
 ## Built in Functions
