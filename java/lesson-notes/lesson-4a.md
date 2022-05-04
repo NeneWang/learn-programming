@@ -79,8 +79,8 @@ class Main{
 
 <= (less than or equal to; example: x <= y)
 ```
-
-:::tip Activity
+## Activity
+:::tip Age Comparison
 Write code that takes two values from the user, user’s age and his/her friend’s age. The code should compare the ages in this manner: 
 
 (i) if one is greater than the other.
