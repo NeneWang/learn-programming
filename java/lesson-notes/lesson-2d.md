@@ -82,3 +82,32 @@ public class Main {
 }
 ```
 
+
+What happens we try to add a char to an integer?
+
+*Java will take ASCII value of char and add it to the int, so the result will be unpredicted. Try this:*
+```java
+
+int x = 5;
+char y = '5';
+System.out.println (x + y);
+```
+
+```SHELL
+OUTPUT: 58 (because it will take ASCII value of '5' that is 53 and add it to 5)
+```
+
+What is the output seen when combining int and String variables? 
+
+*if x = 5 and y = “6”, then output is 56 (string concatenation). Anything added to string is converted to string in java.*
+```java
+public class Main {
+ public static void main(String[] args)    
+   {   
+       int x = 5;
+       String y = "6";
+       System.out.println(x + y);
+   } 
+}
+```
+
