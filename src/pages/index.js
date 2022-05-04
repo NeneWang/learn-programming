@@ -17,7 +17,7 @@ function getLink(lessonClass, lessonNumber) {
   return (<Link
     className="button button--secondary button--lg"
     to={to_link}>
-    {getTitle('Java', lessonNumber)}
+    {getTitle(lessonClass, lessonNumber)}
   </Link>)
 }
 
