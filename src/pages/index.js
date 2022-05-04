@@ -30,7 +30,7 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          {getLink('Java', '1a')}
+          {getLink('Python', '2a')}
         </div>
       </div>
     </header>
