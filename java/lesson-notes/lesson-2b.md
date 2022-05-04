@@ -57,3 +57,33 @@ z = 11.0
 <iframe src="https://trinket.io/embed/java/67bc304013" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
+
+
+### Example Explicit Typecasting
+
+```java
+public class Main {
+
+public static void main(String args[]) {
+  double d=1.6;
+  int val=(int)d; //casting from double to int
+  System.out.println("val = "+val );
+  }
+}
+```
+Output
+```
+val = 1
+```
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/java/22d570ec86" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+🙋‍♂️ Analysis
+- Why do you think that the code prints `1` instead of `1.6`?
+
+
+</details>
