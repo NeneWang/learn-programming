@@ -6,8 +6,11 @@ title: Chapter 2a - Data Types in Java
 
 
 ## Data Types
-
+:::note Data Types Tree
 ![](./2022-04-28-16-20-50.png)
+Image extracted from [Geek for Geeks](https://www.geeksforgeeks.org/data-types-in-java/)
+:::
+
 
 | Data Type | Size    | Description                                                                       |
 | --------- | ------- | --------------------------------------------------------------------------------- |
@@ -223,7 +226,6 @@ Total amount after taking dog on walk : 34.8 + 2.75 = 37.55
 Piggy bank bal : 29.8
 Total amount after Trash Cleaning : 29.8 + 2.5 = 29.82.5
 Total amount after doing Laundry : 32.3 + 2.5 = 32.32.5
-Total amount after taking dog on walk : 34.8 + 2.75 = 34.82.75
 ```
 
 Code with error:
