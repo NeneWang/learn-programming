@@ -51,12 +51,19 @@ is just a what if scenario... 	٩(｡•́‿•̀｡)۶
 :::
 
 
-![](../../static/img/2022-05-04-02-16-59.png)
+<!-- ![](../../static/img/2022-05-04-02-16-59.png) -->
+![](../../static/img/2022-05-04-02-48-50.png)
+
 Image extracted from [real-world-physics](https://www.real-world-physics-problems.com/rectilinear-motion.html)
 
-The following program calculates the current speed of something based on it's initial speed, acceleration and time since the object started accelerating (v(t) )
+The following program doesn't follow the formula properly please fix it (it should print `32` when `v1 = 2`, `aceleration = 3` and `time = 10`)
 ```python
+initial_velocity =  2
+aceleration = 3
+time_elapsed = 10
 
+print("Velocity of the object at time: "+ str(time_elapsed))
+print(initial_velocity + aceleration)
 ```
 
 ## Learning the secret of wealth: Compound Interest
