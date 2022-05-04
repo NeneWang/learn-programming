@@ -3,6 +3,8 @@ sidebar_position: 3
 title: Lesson 2a - Data Types in Java
 ---
 
+
+
 ## Data Types
 
 ![](./2022-04-28-16-20-50.png)

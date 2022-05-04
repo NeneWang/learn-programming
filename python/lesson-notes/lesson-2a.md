@@ -3,7 +3,29 @@ sidebar_position: 3
 title: Chapter 2a - Variables & Arithmetic
 ---
 
-## 
+## Variables
+
+### Introduction
+
+![](../../static/img/2022-05-04-03-07-10.png)
+
+Image extracted from [StevenCurtis Medium](https://stevenpcurtis.medium.com/what-is-a-variable-3447ac1331b9)
+```python
+myNum =  4
+print(myNum)
+# print(myNum+1)
+```
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/python/b2edae9fe5" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+
+## Introduction to operations using variables
 
 
 ## Usage Example

@@ -21,7 +21,7 @@ Animation
 
 
 ## Built in Functions
-
+[👀](https://learn2codelive.com/courses/4/pages/lesson-2-learning-activities-e1-built-in-functions?module_item_id=487)
 
 ### Using + with strings.
 we know that when we use `+` with numbers, the program will give us the mathematic operation of the sum of the numbers. But what happens when we have words?
@@ -73,7 +73,7 @@ print("")
 
 
 
-### Converting Words into Integers
+### int() Converting Words into Integers
 
 ```python
 # Part 3
@@ -92,3 +92,15 @@ print("sum of a and s2_as_a_num: " + str(s2_as_a_num + a)) # adding a typecasted
 <iframe src="https://trinket.io/embed/python/5a5326f60a" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
+
+### pow() and abs()
+
+
+## Summary
+
+| Function | Explaination                       | Example                   |
+| -------- | ---------------------------------- | ------------------------- |
+| str()    | Converts numbers to string (words) | `print("number"+str(32))` |
+
+
+
