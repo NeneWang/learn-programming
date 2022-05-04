@@ -31,7 +31,7 @@ print(myNum)
 
 ### Re-assigning values to variables
 
-:::note Image
+:::note Addng a different Object into the box
 ![](../../static/img/2022-05-04-03-14-15.png)
 Image extracted from [StevenCurtis Medium](https://stevenpcurtis.medium.com/what-is-a-variable-3447ac1331b9)
 :::
@@ -48,7 +48,7 @@ print(myNum) #10
 <summary>
 🧪 Try the code out! 
 </summary>
-<iframe src="https://trinket.io/embed/python/81a661f2eb" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/81a661f2eb" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
 
