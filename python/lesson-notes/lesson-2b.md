@@ -4,6 +4,31 @@ title: Lesson 2b Function
 
 ## Built in Functions
 
+
+### Using + with strings.
+we know that when we use `+` with numbers, the program will give us the mathematic operation of the sum of the numbers. But what happens when we have words?
+```python
+# Part 2
+s1 = "Agent" # assign values to string 1 and string 2
+s2 = "007"
+print ("Using + with strings ")
+print("String 1: " + s1) # print values of s1 and s2
+print("String 2: " + s2)    
+print ("String 1 + String 2: " + s1 + s2) # concatenation of strings - Line 18
+print("")
+```
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/python/5b75bb1c60" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+
+
+
+
 ### str(), min(), max()
 
 ```python
@@ -28,7 +53,6 @@ print("")
 
 
 
-###
 
 
 
