@@ -59,6 +59,34 @@ public static void main(String[] args)
 
 </details>
 
+[👀](https://learn2codelive.com/courses/107/pages/lesson-2-learning-activities-r-practice-activity-5-movies?module_item_id=9057)
+
+### Practice Activity 
+:::tip Movies Calculation Activity 🎥
+You got $37.50 from your dad to go to the movies with your friends. You have $37 in bills and $0.50 in coins. Each ticket costs $7.50. Upon reaching the theatre you find out that the ticket kiosk is broken and can’t take coins. Write a program to calculate how many friends you can take to the movies with you, and how much money you are left with after buying the tickets. Use variables for each number used in your program. Once your program is ready, change the value of the variable that holds initial money from $37.50 to $42.40. Make no other changes to your program. Check if your program still works for initial money of $42.40.
+
+**Expected Output**
+```
+I have $37.5
+Since I can't use the coins, I can only use $37.0 to buy tickets.
+Each ticket costs $7.5
+I can take 3 friends to the movies along with me!
+I am left with $7.5
+```
+
+
+<details>
+<summary>
+✍  <b>Modify the following code</b> so that it fulfills the assigment requirements.
+</summary>
+<iframe src="https://trinket.io/embed/java/72fd16661e" width="100%" height="1000" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+:::
+
+
+
 
 
 
