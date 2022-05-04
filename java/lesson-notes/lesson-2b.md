@@ -42,6 +42,13 @@ public class Main {
 }
 ```
 
+Output
+```
+x = 10
+y = a
+z = 11.0
+```
+
 
 <details>
 <summary>
