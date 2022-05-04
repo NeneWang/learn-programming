@@ -14,7 +14,7 @@ We can sort of do something similar in Java, but with Variable Types
 
 ```java
 float myFloat = 1.5f;
-int myInt = (int) myDouble; // changes double to int 
+int myInt = (int) myDouble; // changes float to int 
 ```
 
 :::caution Typecasting might lead to loss of precision

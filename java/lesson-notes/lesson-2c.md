@@ -62,10 +62,15 @@ public static void main(String[] args)
 
 ### Practice Activity 
 :::tip Movies Calculation Activity 🎥
-You got $37.50 from your dad to go to the movies with your friends. You have $37 in bills and $0.50 in coins. Each ticket costs $7.50. Upon reaching the theatre you find out that the ticket kiosk is broken and can’t take coins. Write a program to calculate how many friends you can take to the movies with you, and how much money you are left with after buying the tickets. Use variables for each number used in your program. Once your program is ready, change the value of the variable that holds initial money from $37.50 to $42.40. Make no other changes to your program. Check if your program still works for initial money of $42.40.
+You got $37.50 from your dad to go to the movies with your friends. 
+- You have $37 in bills and $0.50 in coins. 
+- Each ticket costs $7.50. Upon reaching the theatre you find out that the ticket kiosk is broken and can’t take coins. 
+
+Write a program to calculate how many friends you can take to the movies with you, and how much money you are left with after buying the tickets. Use variables for each number used in your program. 
 
 Notes:
 - Remember to buy a ticket for yourself
+- Money left = Initial amount of money - total cost of tickets (for yourself)
 
 **Expected Output**
 ```
