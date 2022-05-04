@@ -1,5 +1,5 @@
 ---
-title: Chapter 3a 
+title: Chapter 3a - User Input
 ---
 
 ## Scanner

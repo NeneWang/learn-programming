@@ -60,12 +60,20 @@ public class Main
 </details>
 
 ## Chars and ASCII In Practice
+<details>
+<summary>
+✍ Try the following examples in this playground
+</summary>
+<iframe src="https://trinket.io/embed/java/1052b8dca8" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
 
 What happens when we try to store a char value in an integer?
 ```java
 public class Main {
     public static void main(String args[]) {
-    int val='A';// It will save its ASCII value which is an integer value
+    int val='A';
     System.out.println("val = " +val);
     }`
 } 
@@ -76,8 +84,8 @@ What happens when we typecast an int value to a char type?
 public class Main {
  public static void main(String[] args) {
    int x = 5;
-   char y = (char)x;  //Typecasting an int to a char
-   System.out.println(x + y);  // prints 10
+   char y = (char)x;  
+   System.out.println(x + y);  
  }
 }
 ```
