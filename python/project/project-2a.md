@@ -5,7 +5,9 @@ title: 💯 2a - Using python to calculate things
 
 
 
-## Introductory Exercise: Calulating Profits
+## Introductory Exercise: 
+
+:::tip Calulating Profits
 Profits are calulated as `Profit = Revenue - Cost`
 
 The programmer who created the following code made a huge mistake and calculated profits as `Revenue + Cost` please fix this program!
@@ -16,10 +18,12 @@ The programmer who created the following code made a huge mistake and calculated
 <iframe src="https://trinket.io/embed/python/a4f88da201" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
+:::
 
-## Calculating Profit Margin
 
-[What is Profit Margin?](https://www.youtube.com/watch?v=pgmtxQNKe9Q&ab_channel=ClayTrader)
+:::tip Calculating Profit Margin
+
+[What is Profit Margin? - ClayTrader business](https://www.youtube.com/watch?v=pgmtxQNKe9Q&ab_channel=ClayTrader)
 
 Profit margins are calculated as `Profit Margin = (Net Profit / Revenue) * 100`
 Finish the following program so that the program prints your
@@ -28,12 +32,13 @@ Finish the following program so that the program prints your
 <summary>
  🔨 Fix the program here:
 </summary>
-<iframe src="https://trinket.io/embed/python/a4f88da201" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/d03bc0e07a" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
+:::
 
 
-## Compound Interest the secret to become rich.
+
 
 ## Using Python to cheat on exams
 
@@ -57,6 +62,31 @@ The following program calculates the current speed of something based on it's in
 
 ```
 
+## Learning the secret of wealth: Compound Interest
+This might be a concept harder to understand but here we have a program that approximates how rich you will be if you start investing in the stock market
+
+```python
+age_start_investing = 18
+age_retirement = 60
+# In percentages: 1.08 would be 8% interest
+initial_investment = 1000
+expected_yearly_interestgain = 1.08
+
+worth_end =  1.08**(age_retirement - age_start_investing)
+print("Your profits Margin is:")
+# Write your code below
+print("At age of 60 your $1000 will be:" + str(initial_investment*worth_end))
+
+```
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+
+<iframe src="https://trinket.io/embed/python/c8557f8656" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+</details>
 
 
 
