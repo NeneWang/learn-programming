@@ -6,8 +6,28 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
+const lessons = [
+  {
+    java: [
+
+    ],
+    python: [
+      { title: "Go to Python's First Lecture!" }
+    ]
+  }
+]
+
+const lectureNumber = ['First', 'Second', 'Third', 'Fourth', 'Fifth', 'Sixth', 'Seventh', 'Current']
+
+
+function getTitle(lessonClass, lessonNumber) {
+  lessonNumber--;
+  return `Go to ${lessonClass}'s ${lessonNumber < lectureNumber.length - 1 ? lectureNumber[lessonNumber] : lectureNumber[lectureNumber.length - 1]} Lecture!`
+}
+
+
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -18,18 +38,8 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/python/lesson-notes/lesson-1a">
-            Go to Python's First Lecture!
+            {getTitle('Java', 7)}
           </Link>
-          {/* <Link
-            className="button button--secondary button--lg"
-            to="/python/lesson-notes/lesson-1b">
-            Go to Python's Second Lecture!
-          </Link> */}
-          {/* <Link
-            className="button button--secondary button--lg"
-            to="/java/lesson-notes/lesson-1a">
-            Go to Java's First Lecture!
-          </Link> */}
         </div>
       </div>
     </header>
@@ -37,7 +47,7 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title={`Home`}
