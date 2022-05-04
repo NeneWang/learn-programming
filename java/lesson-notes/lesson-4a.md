@@ -13,11 +13,28 @@ public class Main {
     System.out.println(isFishTasty);
   }
 }
-
-
 ```
+
+
+### Conditional Structure
+```
+If (Boolean condition1) Then
+
+    (perform computation or action)
+
+Else if (Boolean condition2) Then
+
+    (perform another computation or action)
+
+Else
+
+    (perform a default computation or action)
+```
+
+
 ## Boolean Expression 
 
+[👀](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-e1-introduce-boolean-expression?module_item_id=9108)
 
 ```java
 class Main{
@@ -46,3 +63,20 @@ class Main{
 <iframe src="https://trinket.io/embed/java/f4a2082f58" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
+
+
+### Comparison Operator
+```
+== (equal to; example: x == 5)
+
+!= (not equal to; example: x != 5)
+
+> (greater than; example: y > 3)
+
+< (less than; example: x <  5 )
+
+>= (greater than or equal to; example: x >= y) 
+
+<= (less than or equal to; example: x <= y)
+```
+
