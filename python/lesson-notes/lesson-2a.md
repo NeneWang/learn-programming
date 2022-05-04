@@ -95,6 +95,7 @@ print ("Age of Leah is " + str(leah_age)) # there is an additional whitespace in
 </details>
 
 
+
 ## Arithmetic Operators
 
 ![](../../static/img/2022-04-26-20-29-18.png)
@@ -109,6 +110,30 @@ print ("Age of Leah is " + str(leah_age)) # there is an additional whitespace in
 
 
 
+## Practice Activities: Apples
+
+:::tip Count of Apples
+write a program that tracks the mumber of apples the user ends up with after starting with a set number of apples. Students  can set the initial number of apples to a number of their choice. The output should follow this script:
+
+**Intended Output**
+```Output
+You have 20 apples.
+You plant one tree from a seed you found in your attic and harvest five apples from it. You now have 25 apples.
+You extract seeds from every apple you have, discard the apples, and plant all the seeds. You harvest four times as many apples as you had. You now have 100 apples.
+You look over your apples and realize some of the trees were diseased! You have to throw out half of your apples. You now have 50.0 apples.
+You decide to bake an apple pie. This requires six apples. You now have 44.0 apples.
+```
+
+<details>
+<summary>
+✍  You can solve the problem <b>by fixing the following code</b> using Trinket
+You can see that the code prints 20 in each instance instead of <b>25</b> | <b>100</b> | <b>50</b> | <b>44</b>
+</summary>
+<iframe src="https://trinket.io/embed/python/f596202714" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+:::
 
 ## Arithmetic Operators Practice
 
