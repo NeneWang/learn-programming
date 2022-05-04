@@ -1,5 +1,4 @@
 ---
-sidebar_position: 4
 title: Chapter 2c - Built-in Functions and Math
 ---
 
