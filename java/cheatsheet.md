@@ -23,19 +23,16 @@ title: Cheatsheet
 | Typecasting                         | The conversion of a data type into another data type                                                                                                 |
 
 
+### Chapter 3
 
-
-User input: A feature in programming languages that allows users to provide the inputs for a program.
-Prompt: A symbol or some text from a program indicating that it is waiting for an input from the user.
-Test: The process of finding how well your code works by providing different inputs to the program.
-Reusability: Quality of the code that allows it to be reused.
-Logical Error: A logical error is a bug in a program that causes it to produce wrong or unintended result. However, the program compiles and runs without showing an error on the console.
-       Example: divided by ZERO, when an integer is divided by ZERO then it will                  compile successfully but at runtime, it will throw an error.
-
-Syntax error: Syntax errors are mistakes that a developer/user can do while writing the code.
-       Example: System.out.Print(“Good morning!”) - In this line of code, alphabet p in print() has           been capitalized, resulting in a syntax error.
-
-shapeSize():   shapeSize() method is used to fix the size of the turtle.
-shape(): shape() method is used change the shape of the turtle.
-
-Builtin function: Pre-defined blocks of code that perform a specific function. Example - input(), print(), min(), max().
+| Term             | Definition                                                                                                                                                                                                                                                                                                                                  |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| User input       | A feature in programming languages that allows users to provide the inputs for a program.                                                                                                                                                                                                                                                   |
+| Prompt           | A symbol or some text from a program indicating that it is waiting for an input from the user.                                                                                                                                                                                                                                              |
+| Test             | The process of finding how well your code works by providing different inputs to the program.                                                                                                                                                                                                                                               |
+| Reusability      | Quality of the code that allows it to be reused.                                                                                                                                                                                                                                                                                            |
+| Logical Error    | A logical error is a bug in a program that causes it to produce wrong or unintended result. However, the program compiles and runs without showing an error on the console. <br/> `Example: divided by ZERO, when an integer is divided by ZERO then it will                  compile successfully but at runtime, it will throw an error.` |
+| Syntax error     | Syntax errors are mistakes that a developer/user can do while writing the code. <br/>  `       Example: System.out.Print(“Good morning!”) - In this line of code, alphabet p in print() has           been capitalized, resulting in a syntax error.`                                                                                       |
+| shapeSize()      | shapeSize() method is used to fix the size of the turtle.                                                                                                                                                                                                                                                                                   |
+| shape()          | shape() method is used change the shape of the turtle.                                                                                                                                                                                                                                                                                      |
+| Builtin function | Pre-defined blocks of code that perform a specific function. Example - input(), print(), min(), max().                                                                                                                                                                                                                                      |

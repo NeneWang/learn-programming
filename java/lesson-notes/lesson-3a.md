@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Lesson 3a 
+title: Chapter 3a 
 ---
 
 ## Scanner

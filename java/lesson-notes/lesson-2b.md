@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Lesson 2b - 
+title: Chapter 2b 
 ---
 
 ## Typecasting

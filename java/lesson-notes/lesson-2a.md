@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Lesson 2a - Data Types in Java
+title: Chapter 2a - Data Types in Java
 ---
 
 
