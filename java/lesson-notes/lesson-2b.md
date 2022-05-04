@@ -95,3 +95,28 @@ val = 1
 
 
 </details>
+
+## Data Types & Typecasting
+
+```java
+public class Main {
+ public static void main(String args[]) {
+ int val=(int)2.4;
+ System.out.println("val = " +val);
+ }
+}
+```
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/java/2977c211c5" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+
+
+
+
+

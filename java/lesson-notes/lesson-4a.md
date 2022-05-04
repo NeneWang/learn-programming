@@ -1,5 +1,4 @@
 ---
-sidebar_position: 4
 title: Chapter 4a - If Else
 ---
 

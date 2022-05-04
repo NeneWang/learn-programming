@@ -103,4 +103,3 @@ print("sum of a and s2_as_a_num: " + str(s2_as_a_num + a)) # adding a typecasted
 | str()    | Converts numbers to string (words) | `print("number"+str(32))` |
 
 
-
