@@ -2,13 +2,30 @@
 title: Chapter 2b - Built-in Functions
 ---
 
+
+![](../../static/img/2022-05-04-02-56-44.png)
+
+
+<details>
+
+<summary>
+Animation 
+</summary>
+
+[extracted from Runestone Academy](https://runestone.academy/ns/books/published/fopp/Functions/Returningavaluefromafunction.html)
+
+![](https://runestone.academy/ns/books/published/fopp/_images/function_call.gif)
+</details>
+
+
+
+
 ## Built in Functions
 
 
 ### Using + with strings.
 we know that when we use `+` with numbers, the program will give us the mathematic operation of the sum of the numbers. But what happens when we have words?
 ```python
-# Part 2
 s1 = "Agent" # assign values to string 1 and string 2
 s2 = "007"
 print ("Using + with strings ")
@@ -75,14 +92,3 @@ print("sum of a and s2_as_a_num: " + str(s2_as_a_num + a)) # adding a typecasted
 <iframe src="https://trinket.io/embed/python/5a5326f60a" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
-
-
-
-<details>
-<summary>
- 🔨 Fix the program here:
-</summary>
-<iframe src="https://trinket.io/embed/python/d03bc0e07a" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-</details>
-
