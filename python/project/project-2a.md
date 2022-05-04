@@ -56,6 +56,8 @@ is just a what if scenario... 	٩(｡•́‿•̀｡)۶
 
 Image extracted from [real-world-physics](https://www.real-world-physics-problems.com/rectilinear-motion.html)
 
+
+:::tip Fix the following speed printer
 The following program doesn't follow the formula properly please fix it (it should print `32` when `v1 = 2`, `aceleration = 3` and `time = 10`)
 ```python
 initial_velocity =  2
@@ -65,6 +67,15 @@ time_elapsed = 10
 print("Velocity of the object at time: "+ str(time_elapsed))
 print(initial_velocity + aceleration)
 ```
+:::
+
+<details>
+<summary>
+ 🔨 Fix the program here:
+</summary>
+<iframe src="https://trinket.io/embed/python/0cf1c4e60d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
 
 ## Learning the secret of wealth: Compound Interest
 This might be a concept harder to understand but here we have a program that approximates how rich you will be if you start investing in the stock market

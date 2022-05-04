@@ -77,3 +77,12 @@ print("sum of a and s2_as_a_num: " + str(s2_as_a_num + a)) # adding a typecasted
 </details>
 
 
+
+<details>
+<summary>
+ 🔨 Fix the program here:
+</summary>
+<iframe src="https://trinket.io/embed/python/d03bc0e07a" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
