@@ -10,7 +10,8 @@ title: Chapter 2a - Variables & Arithmetic
 
 :::note Variables are like boxes
 
-![](../../static/img/2022-05-04-03-07-10.png)
+<!-- ![](../../static/img/2022-05-04-03-07-10.png) -->
+![](../../static/img/2022-05-04-03-21-48.png)
 
 Image extracted from [StevenCurtis Medium](https://stevenpcurtis.medium.com/what-is-a-variable-3447ac1331b9)
 :::
@@ -32,15 +33,15 @@ print(myNum)
 ### Re-assigning values to variables
 
 :::note Addng a different Object into the box
-![](../../static/img/2022-05-04-03-14-15.png)
+![](../../static/img/2022-05-04-03-21-09.png)
 Image extracted from [StevenCurtis Medium](https://stevenpcurtis.medium.com/what-is-a-variable-3447ac1331b9)
 :::
 
 ```python
 myNum =  4 
-print(myNum) #4
-myNum = 10
-print(myNum) #10
+print(myNum) 
+myNum = 5
+print(myNum) 
 ```
 
 
@@ -53,8 +54,21 @@ print(myNum) #10
 </details>
 
 
-### Introduction to operations using variables
+### Operations using variables
+![](../../static/img/2022-05-04-03-26-20.png)
+```python
+myNum =  4
+mySecondNum = 10
+print(myNum + mySecondNum) 
+```
 
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/python/02335cd571" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
 
 
 
@@ -76,7 +90,7 @@ print ("Age of Leah is " + str(leah_age)) # there is an additional whitespace in
 <summary>
 🧪 Try the code out! 
 </summary>
-<iframe src="https://trinket.io/embed/python3/7f0196f87d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/7f0196f87d" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
 
