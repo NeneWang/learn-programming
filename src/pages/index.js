@@ -6,23 +6,21 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
-const lessons = [
-  {
-    java: [
-
-    ],
-    python: [
-      { title: "Go to Python's First Lecture!" }
-    ]
-  }
-]
-
 const lectureNumber = ['First', 'Second', 'Third', 'Fourth', 'Fifth', 'Sixth', 'Seventh', 'Current']
 
 
 function getTitle(lessonClass, lessonNumber) {
-  lessonNumber--;
-  return `Go to ${lessonClass}'s ${lessonNumber < lectureNumber.length - 1 ? lectureNumber[lessonNumber] : lectureNumber[lectureNumber.length - 1]} Lecture!`
+  return `Go to ${lessonClass}'s Lecture ${lessonNumber.toUpperCase()}!`
+}
+
+function getLink(lessonClass, lessonNumber) {
+
+  const to_link  = `/${lessonClass}/lesson-notes/lesson-${lessonNumber}`;
+  return (<Link
+    className="button button--secondary button--lg"
+    to={to_link}>
+    {getTitle('Java', lessonNumber)}
+  </Link>)
 }
 
 
@@ -34,12 +32,7 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          {/* TODO: Having this code change at the start of the class */}
-          <Link
-            className="button button--secondary button--lg"
-            to="/python/lesson-notes/lesson-1a">
-            {getTitle('Java', 7)}
-          </Link>
+          {getLink('Java', '1a')}
         </div>
       </div>
     </header>
