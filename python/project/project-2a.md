@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: 💹 2a - Learning how to cheat on your Microeconomics exam
+title: 💹 2a - Learning how to...
 ---
 
 Hello everyone by the end of this class you will learn enough to create a
