@@ -12,18 +12,6 @@ We can sort of do something similar in Java, but with Variable Types
 | Images extracted from [P Akthy](https://en.wikipedia.org/wiki/Casting#/media/File:Cast_iron_melting.JPG) and [machinemfg](https://www.machinemfg.com/types-of-casting/)
 :::
 
-```java
-float myFloat = 1.5f;
-int myInt = (int) myDouble; // changes float to int 
-```
-
-:::caution Typecasting might lead to loss of precision
-In Implicit conversions, one data type is automatically converted into another if found compatible, but it should be in the right order else it may lead to loss of precision.
- 
- ```
- char->short-> int->float->double->long
- ```
-:::
 
 <details>
     <summary>
@@ -92,6 +80,16 @@ val = 1
 
 
 </details>
+
+
+
+:::caution Typecasting might lead to loss of precision
+In Implicit conversions, one data type is automatically converted into another if found compatible, but it should be in the right order else it may lead to loss of precision.
+ 
+ ```
+ char->short-> int->float->double->long
+ ```
+:::
 
 ## Potential Errors When Typecasting
 
