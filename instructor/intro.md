@@ -16,5 +16,5 @@ Notes for myself, for a quicker introduction to the class
 - [Class Tracker](https://docs.google.com/spreadsheets/d/1_z1_qaiyFfNYZjxRzmsalCTRoU-TVltnttfaMVB0FXc/edit#gid=1767484544)
 - [Python Schedule](https://learn2codelive.com/courses/4)
 - [Java Curriculum](https://learn2codelive.com/courses/107?invitation=xjBWlnfErS5sScvJxZlDpZ1XiYaS9VsNaTVvIW2e)
-- [Calendar](https://nngcs.org/calendar/)
+- [Nuasin School Calendar](https://nngcs.org/calendar/)
 
