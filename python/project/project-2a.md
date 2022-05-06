@@ -102,6 +102,8 @@ print("At age of 60 your $1000 will be:" + str(initial_investment*worth_end))
 
 
 </details>
+
+
 :::tip Exercise Calculating your future wealth.
 <details>
 <summary>
