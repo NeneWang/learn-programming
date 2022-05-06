@@ -16,6 +16,11 @@
   - You pass butter
 - Create the hologram assistant
   - Have her shiish the class.
+- Create mobile application to get on track over each student
+  - Make the meme generator show a cute cat meme whenever students x amount of students are able to finish the class exercise.
+- Create an algorithm where students that already learnt the topic can help out their fellow students.
+  - Reward students for helping other students.
+- 
 
 
 ## Teach them
