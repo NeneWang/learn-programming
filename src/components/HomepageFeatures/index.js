@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
-  {
+{
     title: 'Ask me anything',
     Svg: require('@site/static/img/ask-anything.svg').default,
     description: (

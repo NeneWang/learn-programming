@@ -40,34 +40,6 @@ Finish the following program so that the program prints your
 
 
 
-## Cheating your Physics Exam
-The following program calculates the position of something based on variables:
-These are the linear motion formulas
-
-
-:::caution Disclaimer
-I don't condone cheating or anything related to actual academic dishonesty, this
-is just a what if scenario... 	٩(｡•́‿•̀｡)۶
-:::
-
-
-<!-- ![](../../static/img/2022-05-04-02-16-59.png) -->
-![](../../static/img/2022-05-04-02-48-50.png)
-
-Image extracted from [real-world-physics](https://www.real-world-physics-problems.com/rectilinear-motion.html)
-
-
-:::tip Fix the following speed printer
-The following program doesn't follow the formula properly please fix it (it should print `32` when `v1 = 2`, `aceleration = 3` and `time = 10`)
-```python
-initial_velocity =  2
-aceleration = 3
-time_elapsed = 10
-
-print("Velocity of the object at time: "+ str(time_elapsed))
-print(initial_velocity + aceleration)
-```
-:::
 
 <details>
 <summary>
@@ -120,6 +92,36 @@ Play around with the next python code
 <iframe src="https://trinket.io/embed/python/b66cc4b608" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </details>
 
+:::
+
+
+## Cheating your Physics Exam
+The following program calculates the position of something based on variables:
+These are the linear motion formulas
+
+
+:::caution Disclaimer
+I don't condone cheating or anything related to actual academic dishonesty, this
+is just a what if scenario... 	٩(｡•́‿•̀｡)۶
+:::
+
+
+<!-- ![](../../static/img/2022-05-04-02-16-59.png) -->
+![](../../static/img/2022-05-04-02-48-50.png)
+
+Image extracted from [real-world-physics](https://www.real-world-physics-problems.com/rectilinear-motion.html)
+
+
+:::tip Fix the following speed printer
+The following program doesn't follow the formula properly please fix it (it should print `32` when `v1 = 2`, `aceleration = 3` and `time = 10`)
+```python
+initial_velocity =  2
+aceleration = 3
+time_elapsed = 10
+
+print("Velocity of the object at time: "+ str(time_elapsed))
+print(initial_velocity + aceleration)
+```
 :::
 
 
