@@ -102,6 +102,23 @@ print("At age of 60 your $1000 will be:" + str(initial_investment*worth_end))
 
 
 </details>
+:::tip Exercise Calculating your future wealth.
+<details>
+<summary>
+🧪 Play with the following code!
+</summary>
+
+
+Play around with the next python code
+- Try changing the age you start investing (e.g. from 18 to 20)
+- Try changing your initial investment (e.g. from 1000 to 2000)
+- Try Changing the interest_rate (e.g. from 8 % yearly to 12%)
+
+
+<iframe src="https://trinket.io/embed/python/b66cc4b608" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</details>
+
+:::
 
 
 
