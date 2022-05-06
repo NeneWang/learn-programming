@@ -50,7 +50,10 @@ Finish the following program so that the program prints your
 </details>
 
 ## Learning the secret of wealth: Compound Interest
-This might be a concept harder to understand but here we have a program that approximates how rich you will be if you started an investing account (and you add or remove money from your investing account)
+
+[👀 Instructor Notes](https://docs.google.com/spreadsheets/d/1iH3owGRNLaSoqhlSNBmb-jZLjisvXfteBHbfO44xj34/edit#gid=1342840897)
+
+This might be a concept harder to understand but here we have a program that approximates how rich you will be if you started an investing account (and you  don't add or remove money from your investing account)
 
 :::note 
 ![](2022-05-06-09-21-19.png)
