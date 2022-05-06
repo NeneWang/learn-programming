@@ -40,6 +40,71 @@ Finish the following program so that the program prints your
 
 
 
+
+<details>
+<summary>
+ 🔨 Fix the program here:
+</summary>
+<iframe src="https://trinket.io/embed/python/0cf1c4e60d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+## Learning the secret of wealth: Compound Interest
+
+[👀 Instructor Notes](https://docs.google.com/spreadsheets/d/1iH3owGRNLaSoqhlSNBmb-jZLjisvXfteBHbfO44xj34/edit#gid=1342840897)
+
+This might be a concept harder to understand but here we have a program that approximates how rich you will be if you started an investing account (and you  don't add or remove money from your investing account)
+
+:::note 
+![](2022-05-06-09-21-19.png)
+Image extracted from [Navicore](https://navicoresolutions.org/understanding-compound-interest/)
+:::
+
+
+```python
+age_start_investing = 18
+age_retirement = 60
+# In percentages: 1.08 would be 8% interest
+initial_investment = 1000
+yearly_interest_percent = 8
+expected_yearly_interestgain = 1.00 + yearly_interest_percent*0.01
+
+worth_end =  expected_yearly_interestgain**(age_retirement - age_start_investing)
+print("Your profits Margin is:")
+# Write your code below
+print("At age of 60 your $1000 will be:" + str(initial_investment*worth_end))
+
+```
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+
+<iframe src="https://trinket.io/embed/python/c8557f8656" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+</details>
+
+
+:::tip Exercise Calculating your future wealth.
+<details>
+<summary>
+🧪 Play with the following code!
+</summary>
+
+
+Play around with the next python code
+- Try changing the age you start investing (e.g. from 18 to 20)
+- Try changing your initial investment (e.g. from 1000 to 2000)
+- Try Changing the interest_rate (e.g. from 8 % yearly to 12%)
+
+
+<iframe src="https://trinket.io/embed/python/b66cc4b608" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</details>
+
+:::
+
+
 ## Cheating your Physics Exam
 The following program calculates the position of something based on variables:
 These are the linear motion formulas
@@ -68,40 +133,6 @@ print("Velocity of the object at time: "+ str(time_elapsed))
 print(initial_velocity + aceleration)
 ```
 :::
-
-<details>
-<summary>
- 🔨 Fix the program here:
-</summary>
-<iframe src="https://trinket.io/embed/python/0cf1c4e60d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-</details>
-
-## Learning the secret of wealth: Compound Interest
-This might be a concept harder to understand but here we have a program that approximates how rich you will be if you start investing in the stock market
-
-```python
-age_start_investing = 18
-age_retirement = 60
-# In percentages: 1.08 would be 8% interest
-initial_investment = 1000
-expected_yearly_interestgain = 1.08
-
-worth_end =  1.08**(age_retirement - age_start_investing)
-print("Your profits Margin is:")
-# Write your code below
-print("At age of 60 your $1000 will be:" + str(initial_investment*worth_end))
-
-```
-<details>
-<summary>
-🧪 Try the code out! 
-</summary>
-
-<iframe src="https://trinket.io/embed/python/c8557f8656" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-
-</details>
 
 
 
