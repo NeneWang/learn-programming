@@ -50,7 +50,7 @@ Finish the following program so that the program prints your
 </details>
 
 ## Learning the secret of wealth: Compound Interest
-This might be a concept harder to understand but here we have a program that approximates how rich you will be if you start investing in the stock market
+This might be a concept harder to understand but here we have a program that approximates how rich you will be if you started an investing account (and you add or remove money from your investing account)
 
 ```python
 age_start_investing = 18
