@@ -20,6 +20,9 @@
   - Make the meme generator show a cute cat meme whenever students x amount of students are able to finish the class exercise.
 - Create an algorithm where students that already learnt the topic can help out their fellow students.
   - Reward students for helping other students.
+  - Students are able to add their own music to be played during class times
+    - Play music after x amount of students are able to finish the assigment. 
+  - Also they are able to do the card games and play around with some extra games.
 - 
 
 
