@@ -18,3 +18,18 @@ Notes for myself, for a quicker introduction to the class
 - [Java Curriculum](https://learn2codelive.com/courses/107?invitation=xjBWlnfErS5sScvJxZlDpZ1XiYaS9VsNaTVvIW2e)
 - [Nuasin School Calendar](https://nngcs.org/calendar/)
 
+
+
+How to do the interviews. Train students into technical interviews.
+
+You could get 
+
+It's a very project: Data Science part on the part. Two years ago well developed. Also have an growing alumni
+database two years ago, not as long, 8 year for web dev: They have a bigger group.
+
+- Now the trend is that companies would like to have junior persons for Data Science jobs.
+- This is really good opportunity and get in touch of the industry.
+- Juniour role:
+
+
+
