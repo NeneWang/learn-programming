@@ -57,9 +57,10 @@ age_start_investing = 18
 age_retirement = 60
 # In percentages: 1.08 would be 8% interest
 initial_investment = 1000
-expected_yearly_interestgain = 1.08
+yearly_interest_percent = 8
+expected_yearly_interestgain = 1.00 + yearly_interest_percent*0.01
 
-worth_end =  1.08**(age_retirement - age_start_investing)
+worth_end =  expected_yearly_interestgain**(age_retirement - age_start_investing)
 print("Your profits Margin is:")
 # Write your code below
 print("At age of 60 your $1000 will be:" + str(initial_investment*worth_end))
