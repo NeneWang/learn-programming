@@ -44,15 +44,7 @@ Finish the following program so that the program prints your
 
 ## Optional Assigments
 
-<details>
-<summary>
- 🔨 Fix the program here:
-</summary>
-<iframe src="https://trinket.io/embed/python/0cf1c4e60d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-</details>
-
-### Learning the secret of wealth: Compound Interest
+### The secret of building wealth: Compound Interest
 
 [👀 Instructor Notes](https://docs.google.com/spreadsheets/d/1iH3owGRNLaSoqhlSNBmb-jZLjisvXfteBHbfO44xj34/edit#gid=1342840897)
 
@@ -136,6 +128,13 @@ print(initial_velocity + aceleration)
 ```
 :::
 
+<details>
+<summary>
+ 🔨 Fix the program here:
+</summary>
+<iframe src="https://trinket.io/embed/python/0cf1c4e60d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
 
 
 
