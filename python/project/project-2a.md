@@ -7,6 +7,8 @@ title: 💯 2a - Using python to calculate things
 
 ## Introductory Exercise: 
 
+### Calculating Profits: Fix the following program
+
 :::tip Calulating Profits
 Profits are calulated as `Profit = Revenue - Cost`
 
@@ -20,6 +22,7 @@ The programmer who created the following code made a huge mistake and calculated
 </details>
 :::
 
+### Calculating Profits: Solving a new formula
 
 :::tip Calculating Profit Margin
 
@@ -39,7 +42,7 @@ Finish the following program so that the program prints your
 
 
 
-
+## Optional Assigments
 
 <details>
 <summary>
@@ -49,7 +52,7 @@ Finish the following program so that the program prints your
 
 </details>
 
-## Learning the secret of wealth: Compound Interest
+### Learning the secret of wealth: Compound Interest
 
 [👀 Instructor Notes](https://docs.google.com/spreadsheets/d/1iH3owGRNLaSoqhlSNBmb-jZLjisvXfteBHbfO44xj34/edit#gid=1342840897)
 
@@ -64,15 +67,19 @@ Image extracted from [Navicore](https://navicoresolutions.org/understanding-comp
 ```python
 age_start_investing = 18
 age_retirement = 60
-# In percentages: 1.08 would be 8% interest
 initial_investment = 1000
 yearly_interest_percent = 8
+
+
+# Play with the variable son top of this line.
+# 
+
 expected_yearly_interestgain = 1.00 + yearly_interest_percent*0.01
 
-worth_end =  expected_yearly_interestgain**(age_retirement - age_start_investing)
-print("Your profits Margin is:")
-# Write your code below
-print("At age of 60 your $1000 will be:" + str(initial_investment*worth_end))
+worth_end = initial_investment* expected_yearly_interestgain**(age_retirement - age_start_investing)
+print("\nInvestment Calculator \n -----------------")
+print("If you create an investment account at:\n age {age_start_investing} with an yearly interest rate of {yearly_interest_percent} percent ".format(age_start_investing=age_start_investing, yearly_interest_percent=yearly_interest_percent))
+print('\nAt the age of {age_retirement} your ${initial_investment} will become: {worth_end}'.format(age_retirement=age_retirement, initial_investment = initial_investment, worth_end= worth_end))
 
 ```
 <details>
@@ -105,7 +112,7 @@ Play around with the next python code
 :::
 
 
-## Cheating your Physics Exam
+### Cheating your Physics Exam
 The following program calculates the position of something based on variables:
 These are the linear motion formulas
 
