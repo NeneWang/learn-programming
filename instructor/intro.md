@@ -33,3 +33,10 @@ database two years ago, not as long, 8 year for web dev: They have a bigger grou
 
 
 
+
+
+- Attended CUNY School
+- Series of internships and Haking, Meta, Open Secrets, actively interviewing.
+
+
+
