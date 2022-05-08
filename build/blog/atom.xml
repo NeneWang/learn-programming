@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://learn.wangnelson.xyz/blog</id>
     <title>learn.wangnelson.xyz Blog</title>
-    <updated>2022-04-24T00:00:00.000Z</updated>
+    <updated>2022-05-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://learn.wangnelson.xyz/blog"/>
     <subtitle>learn.wangnelson.xyz Blog</subtitle>
     <icon>http://learn.wangnelson.xyz/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Resources]]></title>
+        <id>/2022/5/8/resources</id>
+        <link href="http://learn.wangnelson.xyz/blog/2022/5/8/resources"/>
+        <updated>2022-05-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here I will be sharing resources, books, etc. I will be using to complement the course.]]></summary>
+        <content type="html"><![CDATA[<p>Here I will be sharing resources, books, etc. I will be using to complement the course.</p>]]></content>
+        <author>
+            <name>Nelson Wang</name>
+            <uri>https://github.com/NeneWang</uri>
+        </author>
+        <category label="information" term="information"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introduction to Blogs]]></title>
         <id>introduction</id>
