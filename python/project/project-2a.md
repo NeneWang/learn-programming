@@ -1,5 +1,3 @@
-import Image from '@theme/IdealImage';
-
 ---
 sidebar_position: 3
 title: 💯 2a - Using python to calculate things
@@ -102,14 +100,6 @@ Play around with the next python code
 
 
 ### But what if I invest $1000 every year? 🙋‍♂️
-:::note Calculating the Matrix
-![](../../static/img/2022-05-08-11-23-49.png)
-
-<Image img={require('https://ahseeit.com/?qa=99197/me-stressing-about-all-the-things-i-need-to-do-to-be-rich-meme')} />
-
-Image extracted from [Ahseeit](https://ahseeit.com/?qa=99197/me-stressing-about-all-the-things-i-need-to-do-to-be-rich-meme)
-
-:::
 
 :::tip Calculating your future wealth of multiple investments
 <details>
