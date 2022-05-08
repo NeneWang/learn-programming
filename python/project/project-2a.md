@@ -80,7 +80,7 @@ print('\nAt the age of {age_retirement} your ${initial_investment} will become: 
 </details>
 
 
-:::tip Exercise Calculating your future wealth.
+:::tip Calculating your future wealth of a single investment
 <details>
 <summary>
 🧪 Play with the following code!
@@ -94,6 +94,27 @@ Play around with the next python code
 
 
 <iframe src="https://trinket.io/embed/python/b66cc4b608" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</details>
+
+:::
+
+
+### But what if I invest $1000 every year? 🙋‍♂️
+
+:::tip Calculating your future wealth of multiple investments
+<details>
+<summary>
+🧪 Play with the following code!
+</summary>
+
+
+Play around with the next python code
+- Try changing the age you start investing (e.g. from 18 to 20)
+- Try changing your initial investment (e.g. from 1000 to 2000)
+- Try Changing the interest_rate (e.g. from 8 % yearly to 12%)
+
+
+<iframe src="https://trinket.io/embed/python/e0fb1b318c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </details>
 
 :::

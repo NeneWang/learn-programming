@@ -30,6 +30,7 @@ const config = {
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
+          sortPosts: 'ascending',
          
         },
         theme: {
