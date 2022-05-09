@@ -21,7 +21,7 @@ title: "Learning how to Teach"
 [Becoming a Better Teacher](https://youtu.be/fdZkmbY0HB0)      
 
 1. Get in the eye level -> Why are they learning this? -> It can be explained in simple terms.
-2. 
+2. Be your unique teacher -> Is more about how you learn.
 
 
 ## Whizara Trainning Course Notes
