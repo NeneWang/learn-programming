@@ -28,6 +28,20 @@ class Main {
 
 </details>
 
+<details>
+<summary>
+🙋‍♀️ What's also imported from Java Util?
+</summary>
+Here is a list of al the things we are importing when we write:
+
+```java
+import java.util.*
+```
+
+https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html
+
+</details>
+
 ### Methods for accepting user Input
 
 

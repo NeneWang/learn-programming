@@ -15,7 +15,7 @@ int age=15;
 <summary>
 🧪 Try the code out! 
 </summary>
-<iframe src="https://trinket.io/embed/java/e5ba4977ab" width="100%" height="150" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/java/e5ba4977ab" width="100%" height="550" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
 
