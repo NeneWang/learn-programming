@@ -1,6 +1,6 @@
 ---
-sidebar_position| 4
-title| 🧐 Cheatsheet
+sidebar_position: 4
+title: Cheatsheet
 ---
 
 Hello Everyone for this class, I will focus in teaching the concepts, so you don't need to memorize anything| 
@@ -40,17 +40,18 @@ I will be creating a cheatlist with the commands and comment what they do below 
 
 ### Chapter 3
 
+[👀](https://learn2codelive.com/courses/4/pages/lesson-3-essential-vocabulary?module_item_id=690)
 
-| Term             | Definition                                                                                                                               |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| User input       | A feature in programming languages that allows users to provide the inputs for a program.                                                |
-| Prompt           | A symbol or some text from a program indicating that it is waiting for an input from the user.                                           |
-| Example          | input(“Enter your name “) - In this line of code, “Enter your name” is the prompt.                                                       |
-| Test             | The process of finding how well your code works by providing different inputs to the program.                                            |
-| Reusability      | Quality of the code that allows it to be reused.                                                                                         |
-| Syntax error     | An error in a program that has been caused due to incorrect language or grammar rules.                                                   |
-| Example          | Print(“Good morning!”) - In this line of code, alphabet p in print() has been capitalized, resulting in a syntax error.                  |
-| Logical error    | An error that causes the program to behave in a different manner as opposed to what was expected.                                        |
-| Example          | print(“34 + 66”) would result in 34 + 66 being printed. If the intention is to print the sum of 34 and 66, we need to remove the quotes. |
-| Builtin function | Pre-defined blocks of code that perform a specific function. Example - input(), print(), min(), max().                                   |
-| Docstring        | Lines that describe a part of the code or a program, which are enclosed using triple quotes (single or double).                          |
+| Term                  | Definition                                                                                                                               |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| User input            | A feature in programming languages that allows users to provide the inputs for a program.                                                |
+| Prompt                | A symbol or some text from a program indicating that it is waiting for an input from the user.                                           |
+| Example               | input(“Enter your name “) - In this line of code, “Enter your name” is the prompt.                                                       |
+| Test                  | The process of finding how well your code works by providing different inputs to the program.                                            |
+| Reusability           | Quality of the code that allows it to be reused.                                                                                         |
+| Syntax error          | An error in a program that has been caused due to incorrect language or grammar rules.                                                   |
+| Syntax Error example  | Print(“Good morning!”) - In this line of code, alphabet p in print() has been capitalized, resulting in a syntax error.                  |
+| Logical error         | An error that causes the program to behave in a different manner as opposed to what was expected.                                        |
+| Logical error example | print(“34 + 66”) would result in 34 + 66 being printed. If the intention is to print the sum of 34 and 66, we need to remove the quotes. |
+| Builtin function      | Pre-defined blocks of code that perform a specific function. Example - input(), print(), min(), max().                                   |
+| Docstring             | Lines that describe a part of the code or a program, which are enclosed using triple quotes (single or double).                          |
