@@ -22,6 +22,7 @@ title: "Learning how to Teach"
 
 1. Get in the eye level -> Why are they learning this? -> It can be explained in simple terms.
 2. Be your unique teacher -> Is more about how you learn.
+3. Learning occurs withouth Teaching -> We don't give a baby some pointers into walking, is more about error and trial.
 
 
 ## Whizara Trainning Course Notes

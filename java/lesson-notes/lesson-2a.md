@@ -8,6 +8,7 @@ title: Chapter 2a - Data Types in Java
 ## Data Types
 :::note Data Types Tree
 ![](./2022-04-28-16-20-50.png)
+
 Image extracted from [Geek for Geeks](https://www.geeksforgeeks.org/data-types-in-java/)
 :::
 
