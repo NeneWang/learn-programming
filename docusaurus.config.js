@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'NeneWang', 
-  projectName: 'Learn-programming', 
+  organizationName: 'NeneWang',
+  projectName: 'Learn-programming',
 
   presets: [
     [
@@ -25,13 +25,13 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           path: 'docs',
-         
+
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           sortPosts: 'ascending',
-         
+
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -75,7 +75,8 @@ const config = {
         routeBasePath: 'misc',
         sidebarPath: require.resolve('./sidebars.js'),
       },
-    ]
+    ],
+    "plugin-image-zoom"
 
   ],
 
@@ -89,75 +90,75 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [{
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'About',
-          },
-          {
-            to: '/python/intro',
-            label: 'Python',
-            position: 'left'
-          },
-          {
-            to: '/java/intro',
-            label: 'Java',
-            position: 'left'
-          },
-          {
-            to: '/blog',
-            label: 'Blog',
-            position: 'left'
-          },
-          // {
-          //   href: 'https://discord.gg/pGaJqmbJSm',
-          //   label: 'Discord',
-          //   position: 'right',
-          // },
-          {
+          type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: 'About',
+        },
+        {
+          to: '/python/intro',
+          label: 'Python',
+          position: 'left'
+        },
+        {
+          to: '/java/intro',
+          label: 'Java',
+          position: 'left'
+        },
+        {
+          to: '/blog',
+          label: 'Blog',
+          position: 'left'
+        },
+        // {
+        //   href: 'https://discord.gg/pGaJqmbJSm',
+        //   label: 'Discord',
+        //   position: 'right',
+        // },
+        {
           href: 'https://docs.google.com/forms/d/e/1FAIpQLSclM-biiVICBNWiJFPpZC0vTmzIanA3GUtglgMRc9R2ZZwqwQ/viewform?usp=sf_link',
-            label: 'Submit an assigment',
-            position: 'right',
-          },
+          label: 'Submit an assigment',
+          position: 'right',
+        },
         ],
       },
       footer: {
         style: 'dark',
         links: [{
-            title: 'Class Notes',
-            items: [{
-                label: 'Python',
-                to: '/python/intro',
-              },
-              {
-                label: 'Java',
-                to: '/java/intro',
-              },
-            ],
-          }, {
-            title: 'Community',
-            items: [{
-              label: 'Discord',
-              href: 'https://discord.gg/pGaJqmbJSm',
-            }, ],
+          title: 'Class Notes',
+          items: [{
+            label: 'Python',
+            to: '/python/intro',
           },
           {
-            title: 'Contact',
-            items: [
-
-              {
-                label: 'Instructor Contact Information',
-                to: '/docs/contact',
-              },
-              {
-                label: 'Ask a question',
-                href: 'https://docs.google.com/forms/d/e/1FAIpQLSddepUVJeAYT6WRtZR48EKSe9XRbJ-hxFLGYMaMl1F8Ybp9hA/viewform?usp=sf_link',
-              }, {
-                label: 'Provide Anonymous Feedback',
-                href: 'https://docs.google.com/forms/d/e/1FAIpQLSd3ybWqqgq5rV2XKiws1TGvp7fZF2Iz4zVSq18Kat4rMPQkHA/viewform?usp=sf_link',
-              },
-            ],
+            label: 'Java',
+            to: '/java/intro',
           },
+          ],
+        }, {
+          title: 'Community',
+          items: [{
+            label: 'Discord',
+            href: 'https://discord.gg/pGaJqmbJSm',
+          },],
+        },
+        {
+          title: 'Contact',
+          items: [
+
+            {
+              label: 'Instructor Contact Information',
+              to: '/docs/contact',
+            },
+            {
+              label: 'Ask a question',
+              href: 'https://docs.google.com/forms/d/e/1FAIpQLSddepUVJeAYT6WRtZR48EKSe9XRbJ-hxFLGYMaMl1F8Ybp9hA/viewform?usp=sf_link',
+            }, {
+              label: 'Provide Anonymous Feedback',
+              href: 'https://docs.google.com/forms/d/e/1FAIpQLSd3ybWqqgq5rV2XKiws1TGvp7fZF2Iz4zVSq18Kat4rMPQkHA/viewform?usp=sf_link',
+            },
+          ],
+        },
         ],
         copyright: `Your success is my #1 priority!`,
       },
