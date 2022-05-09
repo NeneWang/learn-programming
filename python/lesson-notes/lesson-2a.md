@@ -32,8 +32,9 @@ print(myNum)
 
 ### Re-assigning values to variables
 
-:::note Addng a different Object into the box
+:::note Adding a different Object into the box
 ![](../../static/img/2022-05-04-03-21-09.png)
+
 Image extracted from [StevenCurtis Medium](https://stevenpcurtis.medium.com/what-is-a-variable-3447ac1331b9)
 :::
 
