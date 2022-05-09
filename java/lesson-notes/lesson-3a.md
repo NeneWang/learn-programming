@@ -113,6 +113,8 @@ System.out.println(sc.nextLine());
 
 ### Create a Madlib
 
+[👀 Madlib Exercise ](https://learn2codelive.com/courses/107/pages/lesson-3-learning-activities-r-practice-activity-2-madlib?module_item_id=9078)
+
 :::tip Create the following Program
  
  - Take user inputs for words to fill in the blanks. 
