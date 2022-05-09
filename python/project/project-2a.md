@@ -42,7 +42,7 @@ Finish the following program so that the program prints your
 
 
 
-## Optional Assigments
+## Optional Assigments 
 
 ### The secret of building wealth: Compound Interest
 
@@ -52,6 +52,7 @@ This might be a concept harder to understand but here we have a program that app
 
 :::note 
 ![](2022-05-06-09-21-19.png)
+
 Image extracted from [Navicore](https://navicoresolutions.org/understanding-compound-interest/)
 :::
 
@@ -98,8 +99,15 @@ Play around with the next python code
 
 :::
 
+<br/>
 
 ### But what if I invest $1000 every year? 🙋‍♂️
+
+:::note Me Stressing
+<img src={require('../../static/img/2022-05-09-03-30-09.png').default} width="70%" />
+
+Image extracted from [ahseeit.com](https://ahseeit.com/?qa=99197/me-stressing-about-all-the-things-i-need-to-do-to-be-rich-meme)
+:::
 
 :::tip Calculating your future wealth of multiple investments
 <details>
@@ -113,12 +121,14 @@ Play around with the next python code
 - Try changing your initial investment (e.g. from 1000 to 2000)
 - Try Changing the interest_rate (e.g. from 8 % yearly to 12%)
 
+** Don't worry about the code below line 8**
 
 <iframe src="https://trinket.io/embed/python/e0fb1b318c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </details>
 
 :::
 
+<br/>
 
 ### Cheating your Physics Exam
 The following program calculates the position of something based on variables:
