@@ -20,7 +20,7 @@ D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
 ## More about cryptography
 
 :::tip On the future
-I don't think we will be going over those this semester, but hopefully I will be populating the "blog" section with more cryptography related problems and solutions as it is pretty relevant for Computer Science. I think I even had some cryptography questions on one of my job interviews.
+I don't think we will be going over those this semester, but hopefully I will be populating the "blog" section with more cryptography related problems and solutions as it is pretty relevant for Computer Science. 
 :::
 ### Cryptogrpahy: Crash Course Computer Science 
 
