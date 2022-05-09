@@ -167,7 +167,3 @@ print(initial_velocity + aceleration)
 
 </details>
 
-
-
-
-
