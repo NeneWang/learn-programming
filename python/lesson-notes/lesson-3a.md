@@ -7,6 +7,8 @@ title:  Chapter 3a - Inputs
 
 ## Input
 
+[👀](https://learn2codelive.com/courses/4/pages/lesson-3-learning-activities-r-user-input-in-python-explanation?module_item_id=706)
+
 ```python
 test = input()
 print(test)
@@ -26,7 +28,6 @@ inputEnteredByUser = input("write something")
 print(inputEnteredByUser)
 ```
 
-
 <details>
 <summary>
 🧪 Try the code out~!
@@ -36,6 +37,35 @@ print(inputEnteredByUser)
 </details>
 
 
+## Implementation Example
+
+### Prompting a triangle color.
+
+```python
+# 3-input-d
+import turtle
+
+# Ask user to enter the pen color
+color = input("Enter a color for turtle's pen color")
+
+# Set the turtle's pencolor
+turtle.pencolor(color)
+
+turtle.forward(100)
+turtle.left(120)
+turtle.forward(100)
+turtle.left(120)
+turtle.forward(100)
+turtle.left(120)
+```
+
+<details>
+<summary>
+🧪 Try the code out~!
+</summary>
+<iframe src="https://trinket.io/embed/python/9cb31f09c8" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
 
 
 
