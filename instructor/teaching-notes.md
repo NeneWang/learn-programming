@@ -18,6 +18,12 @@ title: "Learning how to Teach"
 | Understands that they have life outside of school     | Teachers notice when they see that they have a struggle, you need to listen                       |                                                                                |
 
 
+[Becoming a Better Teacher](https://youtu.be/fdZkmbY0HB0)      
+
+1. Get in the eye level -> Why are they learning this? -> It can be explained in simple terms.
+2. 
+
+
 ## Whizara Trainning Course Notes
 
 | Note                     | Details                                                                     |
