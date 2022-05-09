@@ -12,11 +12,11 @@ import Admonition from '@theme/Admonition';
 
 
 
-export default function IconAdmonition(props, { icon="💡", title=" ", type="tip"}) {
+export default function IconAdmonition({ icon="💡", title=" ", type="tip", children}) {
   return (
     <div>
       <Admonition type={type} icon={icon} title={title}>
-        {props.children}
+        {children}
       </Admonition>
     </div>
   );
