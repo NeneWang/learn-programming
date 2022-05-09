@@ -87,7 +87,7 @@ class Main {
 - What happens if we write as letter z?
 :::
 
-### Minimalistic Program with 
+### Fixing Our Minimalist Cipher
 Here we have a simplified version of the program that only encodes one character.
 
 ```java
