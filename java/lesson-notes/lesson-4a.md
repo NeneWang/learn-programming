@@ -66,6 +66,8 @@ class Main{
 
 
 ### Comparison Operator
+[👀](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-r-wrap-up-comparison-operators?module_item_id=9109)
+
 ```
 == (equal to; example: x == 5)
 
@@ -79,7 +81,26 @@ class Main{
 
 <= (less than or equal to; example: x <= y)
 ```
+
+Example Use
+```python
+is_greater_than = 10 > 5  // True
+
+In this case, 10 > 5 is a Boolean expression that evaluates to True because 10 is greater than 5
+
+is_less_than = 10 < 5 // False
+
+In this case, 10 < 5 is a Boolean expression that evaluates to False because 10 is not less than 5
+```
+
+
+
+
+
 ## Activity
+
+[👀](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-r-practice-activity-1-comparing-ages?module_item_id=9110)
+
 :::tip Age Comparison
 Write code that takes two values from the user, user’s age and his/her friend’s age. The code should compare the ages in this manner: 
 
@@ -100,19 +121,19 @@ Write code that takes two values from the user, user’s age and his/her friend�
 
 ### Solve it here:
 
-<details>
+<!-- <details>
 <summary>
 ✍ Solve the problem using Replit
 </summary>
 <a href="https://replit.com/@NeneWang/EmptyJavaCanvas#Main.java" >Feel free to use Repl, you can fork from this empty canvas in Repl.it</a>
 
-</details>
+</details> -->
 
 <details>
 <summary>
 ✍  You can solve the problem <b>here</b> using Trinket
 </summary>
-<iframe src="https://trinket.io/embed/java/6e661a677c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/java/4b11cfc604" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
 
