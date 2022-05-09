@@ -12,7 +12,7 @@ free to check on them to refresh yourself!
 ## Common Problems
 You might not able to see the code and the terminal at the same time. Something like this:
 
-:::note Small Screen sizes can only show one thing.
+:::caution Small Screen sizes can only show one thing.
 ![](../static/img/2022-05-09-03-00-16.png)
 
 If you can only see the code or the terminal instead of seeying both of them at the same time
