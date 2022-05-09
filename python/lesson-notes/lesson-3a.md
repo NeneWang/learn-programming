@@ -5,6 +5,41 @@ title:  Chapter 3a - Inputs
 
 [👀](https://learn2codelive.com/courses/4/pages/lesson-3-learning-activities-h-introduce-the-idea-of-user-input?module_item_id=703)
 
+## Input
+
+```python
+test = input()
+print(test)
+```
+
+<details>
+<summary>
+🧪 Try the code out~!
+</summary>
+<iframe src="https://trinket.io/embed/python/4674a27595" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+### Prompting user input withouth print()
+```python
+inputEnteredByUser = input("write something")
+print(inputEnteredByUser)
+```
+
+
+<details>
+<summary>
+🧪 Try the code out~!
+</summary>
+<iframe src="https://trinket.io/embed/python/7908cca77d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+
+
+
+
+
 ## Robot Clerk: Prediction with User Inputs in Python
 [👀](https://learn2codelive.com/courses/4/pages/lesson-3-learning-activities-e1-prediction-with-user-inputs-in-python?module_item_id=705)
 
