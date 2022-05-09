@@ -108,6 +108,11 @@ System.out.println(sc.nextLine());
 ```
 :::
 
+
+<br/>
+
+### Create a Madlib
+
 :::tip Create the following Program
  
  - Take user inputs for words to fill in the blanks. 
@@ -131,6 +136,14 @@ System.out.println(sc.nextLine());
 <summary>
 ✍  You can solve the problem <b>here</b> using Trinket
 </summary>
+
+
+**Steps**
+1. [ ] Complete The following code so that it scans for the **noun** and prints the **noun entered**.
+2. [ ] Complete the code so that it also asks for the **adverb**. Feel free to uncomment **line 13**
+3. [ ] Complete the code so that it also ask the **verb**. Feel free to uncomment **line 14**
+4. [ ] Scan and print the **adjective**. Feel free to uncomment **line 15**
+
 <iframe src="https://trinket.io/embed/java/e12496b61e" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
