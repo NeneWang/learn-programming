@@ -4,19 +4,22 @@ title: 🚀 3a -Very realistic Among Us Simulation
 ---
 
 
-![](https://i.makeagif.com/media/1-07-2021/b2J0UP.gif)
-
-
 
 <details>
 <summary>
-Hint
+🚀 What is Among Us? 
 </summary>
-Remember that to prompt an user to write input you write something like:
+Among Us is essentially an online multiplayer version of the party game wink murder, but set on a constantly malfunctioning spaceship.  you’re told whether you’re an <b>innocent crew member</b> or an <b>imposter</b>. 
 
-`inputvariable = input("Please enter somehting")`
+Allowed to talk to each other for a limited time. During these discussions, the crew needs to try to work out the identity of the imposter(s) by reporting on which other players seem to have been acting suspiciously [^1]
 
 </details>
+
+[^1]: Among Us: the Ultimate Party Game of the Paranoid Covid Era
+
+![](https://i.makeagif.com/media/1-07-2021/b2J0UP.gif)
+
+
 
 
 :::tip You were accused as the Impostor
