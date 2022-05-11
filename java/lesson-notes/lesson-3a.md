@@ -28,6 +28,20 @@ class Main {
 
 </details>
 
+<details>
+<summary>
+🙋‍♀️ What's also imported from Java Util?
+</summary>
+Here is a list of al the things we are importing when we write:
+
+```java
+import java.util.*
+```
+
+https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html
+
+</details>
+
 ### Methods for accepting user Input
 
 
@@ -36,7 +50,7 @@ class Main {
 | nextInt()     | It is used to take an integer as an input.                    |
 | nextFloat()   | It is used to take float as an input.                         |
 | nextDouble()  | It is used to take double as an input.                        |
-| next line()   | It is used to take String as an input(It will accept a line). |
+| nextLine()   | It is used to take String as an input(It will accept a line). |
 | nextBoolean() | It is used to take the boolean value as an input.             |
 | nextLong()    | It is used to take long as an input.                          |
 
@@ -94,6 +108,13 @@ System.out.println(sc.nextLine());
 ```
 :::
 
+
+<br/>
+
+### Create a Madlib
+
+[👀 Madlib Exercise ](https://learn2codelive.com/courses/107/pages/lesson-3-learning-activities-r-practice-activity-2-madlib?module_item_id=9078)
+
 :::tip Create the following Program
  
  - Take user inputs for words to fill in the blanks. 
@@ -117,6 +138,14 @@ System.out.println(sc.nextLine());
 <summary>
 ✍  You can solve the problem <b>here</b> using Trinket
 </summary>
+
+
+**Steps**
+1. [ ] Complete The following code so that it scans for the **noun** and prints the **noun entered**.
+2. [ ] Complete the code so that it also asks for the **adverb**. Feel free to uncomment **line 13**
+3. [ ] Complete the code so that it also ask the **verb**. Feel free to uncomment **line 14**
+4. [ ] Scan and print the **adjective**. Feel free to uncomment **line 15**
+
 <iframe src="https://trinket.io/embed/java/e12496b61e" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
