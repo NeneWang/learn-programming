@@ -122,7 +122,10 @@ class Main {
 </details>
 
 
-### Asking for User Input
+## Assigment: Asking for User Input
+
+
+The following program prompts the user to enter a character and encrypt it using the caesar cypher.
 
 ```java
 import java.util.*;
