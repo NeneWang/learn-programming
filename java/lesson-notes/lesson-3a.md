@@ -50,7 +50,7 @@ https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html
 | nextInt()     | It is used to take an integer as an input.                    |
 | nextFloat()   | It is used to take float as an input.                         |
 | nextDouble()  | It is used to take double as an input.                        |
-| nextLine()   | It is used to take String as an input(It will accept a line). |
+| nextLine()    | It is used to take String as an input(It will accept a line). |
 | nextBoolean() | It is used to take the boolean value as an input.             |
 | nextLong()    | It is used to take long as an input.                          |
 
@@ -156,7 +156,13 @@ System.out.println(sc.nextLine());
 
 ### Exercise: Improving the Bake Shop
 
+- The following code only have the following menu items on it.
 
+| Item    | Price |
+| ------- | ----- |
+| Cake    | $1.5  |
+| Macaron | $1    |
+| Cookie  | 1     |
 
 -  🔨 Modify this code so that now you have a menu itme available
 
