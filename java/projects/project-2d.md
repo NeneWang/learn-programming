@@ -124,7 +124,36 @@ class Main {
 
 ### Asking for User Input
 
+```java
+import java.util.*;
 
+class Main {
+ public static void main(String[] args) {
+   
+  System.out.print("Enter a Character : ");  
+  Scanner sc = new Scanner(System.in);
+  char character = sc.nextLine().charAt(0);
+  int offset=4;
+  
+  int originalAlphabetPosition = character - 'a';
+  int newAlphabetPosition = (originalAlphabetPosition + offset) % 26;
+  char newCharacter = (char) ('a' + newAlphabetPosition);
+  System.out.println(newCharacter);
+
+ }
+}
+
+
+
+```
+
+:::tip Please fix this program
+- So it asks what character to encrypt
+- So that it also ask whats the offset of this.
+
+<iframe src="https://trinket.io/embed/java/e4c0981e62" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+:::
 
 ## More about cryptography
 
