@@ -154,6 +154,47 @@ System.out.println(sc.nextLine());
 :::
 
 
+### Exercise: Improving the Bake Shop
+
+
+
+-  🔨 Modify this code so that now you have a menu itme available
+
+```java
+import java.util.*;
+class Main {
+    public static void main(String args[]) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("------------------------------------------------");
+        System.out.println("The following items are availabe at Bake Bar: ");
+        System.out.println("Shortcakes at $1.5 per cake");
+        System.out.println("Macaron at $1 per piece");
+        System.out.println("Chocochip cookies at $1 per cookie");
+        System.out.println("-------------------------------------------------");
+        System.out.print("Enter the number of shortcakes you want: ");
+        int shortcake = scan.nextInt();
+        System.out.print("Enter the number of macarons you want: ");
+        int macaron = scan.nextInt();
+        System.out.print("Enter the number of cookies you want: ");
+        int cookie = scan.nextInt();
+        double costCake = 1.5 * shortcake; //calculate the money spent on shortcake
+        double costMacaron = 1 * macaron; // calculate the money spent on macarons
+        double costCookie = 1 * cookie; // calculate the money spent on cookies
+        double totalCost = costCake + costMacaron + costCookie;
+        //calculate the total money spent on all 3 items
+        System.out.println("Bill amount for your shopping is $" + totalCost);
+    }
+}
+```
+
+
+<details>
+<summary>
+✍  You can solve the problem <b>here</b> using Trinket
+</summary>
+<iframe src="https://trinket.io/embed/java/fb7a26acfd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
 
 
 
