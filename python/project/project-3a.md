@@ -7,6 +7,18 @@ title: 🚀 3a -Very realistic Among Us Simulation
 ![](https://i.makeagif.com/media/1-07-2021/b2J0UP.gif)
 
 
+
+<details>
+<summary>
+Hint
+</summary>
+Remember that to prompt an user to write input you write something like:
+
+`inputvariable = input("Please enter somehting")`
+
+</details>
+
+
 :::tip You were accused as the Impostor
 - Write in the chat your defense to convince the fleet that you are **not the impostor**!
 - Try talking about Bruno -> This is the trick not to get ejected
@@ -21,5 +33,16 @@ title: 🚀 3a -Very realistic Among Us Simulation
 
 
 <iframe src="https://trinket.io/embed/python/d484969ff6" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+<details>
+<summary>
+Hint
+</summary>
+Remember that to prompt an user to write input you write something like:
+
+`inputvariable = input("Please enter somehting")`
+
+</details>
 
 :::
