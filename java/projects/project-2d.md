@@ -1,5 +1,5 @@
 ---
-title: 2d Optional Lab -Caesar Cipher (chars)
+title: 2d Caesar Cipher (chars)
 ---
 
 
@@ -83,9 +83,16 @@ class Main {
 
 </details>
 
+:::tip Exercise
+- Change Character from `a` into `b` what do you think it should print?
+- Change offset from `4` to `2` wha do you think it will be print?
+
 :::caution But there is a bug!
 - What happens if we write as letter z?
 :::
+
+:::
+
 
 ### Fixing Our Minimalist Cipher
 Here we have a simplified version of the program that only encodes one character.
@@ -113,6 +120,9 @@ class Main {
 <iframe src="https://trinket.io/embed/java/78261b3a21" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
+
+
+### Asking for User Input
 
 
 

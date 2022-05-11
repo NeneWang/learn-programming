@@ -17,7 +17,8 @@ public class Main {
 
 
 ### Conditional Structure
-```
+
+```java
 If (Boolean condition1) Then
 
     (perform computation or action)
