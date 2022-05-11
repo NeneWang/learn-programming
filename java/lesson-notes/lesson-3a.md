@@ -154,7 +154,7 @@ System.out.println(sc.nextLine());
 :::
 
 
-### Exercise: Improving the Bake Shop
+### Exercise: Improving the Bake Shop 
 
 - The following code only have the following menu items on it.
 
@@ -162,9 +162,15 @@ System.out.println(sc.nextLine());
 | ------- | ----- |
 | Cake    | $1.5  |
 | Macaron | $1    |
-| Cookie  | 1     |
+| Cookie  | $1    |
 
--  🔨 Modify this code so that now you have a menu itme available
+-  🔨 Modify this code so that now you have a menu itme available:
+e.g.:
+
+| Item  | Price |
+| ----- | ----- |
+| Bread | $5    |
+
 
 ```java
 import java.util.*;
