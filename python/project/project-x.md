@@ -1,5 +1,4 @@
 ---
-sidebar_position: 10
 title: 👾 TBA - Hacking into your friend's 'Fornyte' account
 ---
 

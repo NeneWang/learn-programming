@@ -154,6 +154,15 @@ Feel free to use Repl, you can fork from this empty canvas in Repl.it
 <img src={require('../static/img/2022-05-09-03-08-46.png').default} width="200" /> 
 
 
+### Time to work on...
+
+:::important Time to work on our Japanese Emoticons!
+[Click here to go to our Japanese Emoticons project](../project/project-1a)
+You only need to complete this for this class. But if you would like to, feel free to peek into the topics below! 
+:::
+
+
+
 
 Fafsa
 Darkario
