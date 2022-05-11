@@ -87,13 +87,13 @@ class Main {
 - Change Character from `a` into `b` what do you think it should print?
 - Change offset from `4` to `2` wha do you think it will be print?
 
+
+:::
+
+
 :::caution But there is a bug!
 - What happens if we write as letter z?
 :::
-
-:::
-
-
 ### Fixing Our Minimalist Cipher
 Here we have a simplified version of the program that only encodes one character.
 
