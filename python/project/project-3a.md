@@ -11,11 +11,11 @@ title: 🚀 3a -Very realistic Among Us Simulation
 </summary>
 Among Us is essentially an online multiplayer version of the party game wink murder, but set on a constantly malfunctioning spaceship.  you’re told whether you’re an <b>innocent crew member</b> or an <b>imposter</b>. 
 
-Allowed to talk to each other for a limited time. During these discussions, the crew needs to try to work out the identity of the imposter(s) by reporting on which other players seem to have been acting suspiciously [^1]
+Allowed to talk to each other for a limited time. During these discussions, the crew needs to try to work out the identity of the imposter(s) by reporting on which other players seem to have been <b>acting suspiciously</b> [^1]
 
 </details>
 
-[^1]: Among Us: the Ultimate Party Game of the Paranoid Covid Era
+[^1]: [Among Us: the Ultimate Party Game of the Paranoid Covid Era](https://www.theguardian.com/games/2020/sep/29/among-us-the-ultimate-party-game-of-the-covid-era#:~:text=Among%20Us%20is%20essentially%20an,crew%20member%20or%20an%20imposter.)
 
 ![](https://i.makeagif.com/media/1-07-2021/b2J0UP.gif)
 
