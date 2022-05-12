@@ -1,5 +1,5 @@
 ---
-title: Chapter 4a - Logical Operators
+title: Chapter 4b - Logical Operators
 ---
 
 ## Lesson 4 Learning Activities [E1] : Introduce Logical Operator
