@@ -15,9 +15,43 @@ public class Main {
 }
 ```
 
+<details>
+<summary>
+🧪 Try the code out~!
+</summary>
+<iframe src="https://trinket.io/embed/java/db4b075d67" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-### Conditional Structure
+</details>
 
+
+
+
+## Conditional Structure
+
+### Else
+
+```java
+public class Main {
+  public static void main(String[] args) {
+    if(false){
+      System.out.println("Is True");
+    }else {
+      System.out.println("Is False");
+    }
+  }
+}
+```
+<details>
+<summary>
+🧪 Try the code out~!
+</summary>
+<iframe src="https://trinket.io/embed/java/641a2a9c9e" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+### Else IF
+
+Explaination:
 ```java
 If (Boolean condition1) Then
 
@@ -28,7 +62,6 @@ Else if (Boolean condition2) Then
     (perform another computation or action)
 
 Else
-
     (perform a default computation or action)
 ```
 
