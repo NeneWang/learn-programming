@@ -50,3 +50,10 @@ Remember that to prompt an user to write input you write something like:
 </details>
 
 :::
+
+
+### Adding a Username
+
+We are now going to modify the code so that it replicates the following behaviour:
+
+<iframe src="https://trinket.io/embed/python/dd8d442aa2?outputOnly=true&runOption=run" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
