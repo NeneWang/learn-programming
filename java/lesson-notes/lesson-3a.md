@@ -56,7 +56,8 @@ https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html
 
 :::tip Asking for a char
 
-- The following line will save the first letter on the next line on a Char (You can see the charAt on the end.)
+- The following line will save the first letter on the next line 
+- To do that we are using charAt(0) which means `The character that is on the index 0 (we start counting from 0 as the first letter)`
 ```java
 char character = sc.nextLine().charAt(0);
 ```
