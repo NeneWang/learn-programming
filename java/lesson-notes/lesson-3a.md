@@ -54,6 +54,14 @@ https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html
 | nextBoolean() | It is used to take the boolean value as an input.             |
 | nextLong()    | It is used to take long as an input.                          |
 
+:::tip Asking for a char
+
+- The following line will save the first letter on the next line on a Char (You can see the charAt on the end.)
+```java
+char character = sc.nextLine().charAt(0);
+```
+:::
+
 ### Number Inputs
 
 [👀 Lesson 3 Learning Activities [E1] : Prediction with User Inputs in Java](https://learn2codelive.com/courses/107/pages/lesson-3-learning-activities-e1-prediction-with-user-inputs-in-java?module_item_id=9075)
