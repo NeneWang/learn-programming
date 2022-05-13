@@ -23,6 +23,10 @@ public class Main {
 
 </details>
 
+:::tip Practice
+-  Now you like fish: Change `isFishTasty` to `true` and see what happens.
+:::
+
 
 
 
@@ -49,7 +53,29 @@ public class Main {
 
 </details>
 
+:::tip Practice
+-  Change `true` to `false` and see what happens.
+:::
+
 ### Else IF
+
+
+```java
+
+public class Main {
+  public static void main(String[] args) {
+    
+    int age = 17;
+    if(age == 17){
+      System.out.println("Age is 17");
+    }else if(age>17) {
+      System.out.println("You are an adult now");
+    }else{
+      System.out.println("You are still a kid.");
+    }
+  }
+}
+```
 
 Explaination:
 ```java
@@ -179,6 +205,9 @@ class Main{
 <iframe src="https://trinket.io/embed/java/f4a2082f58" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
+
+
+
 
 
 ## Activity
