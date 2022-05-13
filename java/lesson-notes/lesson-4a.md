@@ -65,38 +65,58 @@ Else
     (perform a default computation or action)
 ```
 
+<details>
+<summary>
+🧪 Try the code out~!
+</summary>
+<iframe src="https://trinket.io/embed/java/e7864d63c6" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+
+
 
 ## Boolean Expression 
 
-[👀](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-e1-introduce-boolean-expression?module_item_id=9108)
-
+### Simple Comparison to get Boolean expressions
 ```java
 class Main{
  public static void main (String args[]){
-   //heights are in inches
-   //create variables for heights of the five friends
-    int ht_tom    = 61;
-    int ht_marie  = 63;
-    int ht_darell = 66;
-    int ht_alisha = 59;
-    int ht_joe    = 64;
-   //boolean expression evaluates to True or False
-   System.out.println("Tom is of the same height as Marie: " + (ht_tom == ht_marie));
-   System.out.println("Tom is as tall as Marie or taller: " + (ht_tom >= ht_marie));
-   System.out.println("Darell is shorter or the same height as Joe: "+ (ht_darell <= ht_joe));
-   System.out.println("Alisha is shorter than Tom: " + (ht_alisha < ht_tom));
+    int my_age    = 21;
+    int age_marie  = 25;
+   
+   System.out.println("Am I older than Marie? " + (my_age < age_marie));
    }
 }
 ```
 
+### Using Comparisons to resolve If Else conditionals
+```java
+class Main{
+ public static void main (String args[]){
+    int my_age    = 21;
+    int age_marie  = 25;
+   
+     if(my_age < age_marie){
+       System.out.println("I am Younger than Marie");
+     }else if(my_age > age_marie){
+       System.out.println("I am Older than Marie");
+     }
+   }
+}
+```
 
 <details>
 <summary>
-🧪 Try the code out! 
+🧪 Try the code out~!
 </summary>
-<iframe src="https://trinket.io/embed/java/f4a2082f58" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+<iframe src="https://trinket.io/embed/java/abcbd41ace" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
+
+
+
 
 
 ### Comparison Operator
@@ -129,6 +149,36 @@ In this case, 10 < 5 is a Boolean expression that evaluates to False because 10 
 
 
 
+
+[👀](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-e1-introduce-boolean-expression?module_item_id=9108)
+
+```java
+class Main{
+ public static void main (String args[]){
+   //heights are in inches
+   //create variables for heights of the five friends
+    int ht_tom    = 61;
+    int ht_marie  = 63;
+    int ht_darell = 66;
+    int ht_alisha = 59;
+    int ht_joe    = 64;
+   //boolean expression evaluates to True or False
+   System.out.println("Tom is of the same height as Marie: " + (ht_tom == ht_marie));
+   System.out.println("Tom is as tall as Marie or taller: " + (ht_tom >= ht_marie));
+   System.out.println("Darell is shorter or the same height as Joe: "+ (ht_darell <= ht_joe));
+   System.out.println("Alisha is shorter than Tom: " + (ht_alisha < ht_tom));
+   }
+}
+```
+
+
+<details>
+<summary>
+🧪 Try the code out! 
+</summary>
+<iframe src="https://trinket.io/embed/java/f4a2082f58" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
 
 
 ## Activity
