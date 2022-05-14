@@ -60,6 +60,20 @@ Games that you can create
 - Cute Pacman like
 - Cute Platformer like
 - Pass the butter.
+- Speed car game
+
+
+:::tip
+
+And have them printing the commands int he terminal e.g.
+
+- when fighting and lose health you press on the `health += 1`
+- `character = "Melissa"`
+- Or when receiving `inputs`
+
+You just have some comments on it.
+
+:::
 
 [🎥 Butter Robot - Youtube](https://www.youtube.com/watch?v=X7HmltUWXgs&ab_channel=jorthak)
 
