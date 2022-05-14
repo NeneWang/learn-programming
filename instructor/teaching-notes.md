@@ -42,7 +42,8 @@ What are things that matter? How much discipline should I provide them with?
 
 ## Notes form my perosnal experience
 
-### How to 
+- You need to encourage their friedns to ask.
+- even if it is the same question -> They should be able to retell that.
 
 
 
