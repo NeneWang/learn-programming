@@ -15,9 +15,69 @@ public class Main {
 }
 ```
 
+<details>
+<summary>
+🧪 Try the code out~!
+</summary>
+<iframe src="https://trinket.io/embed/java/db4b075d67" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-### Conditional Structure
+</details>
 
+:::tip Practice
+-  Now you like fish: Change `isFishTasty` to `true` and see what happens.
+:::
+
+
+
+
+## Conditional Structure
+
+### Else
+
+```java
+public class Main {
+  public static void main(String[] args) {
+    if(false){
+      System.out.println("Is True");
+    }else {
+      System.out.println("Is False");
+    }
+  }
+}
+```
+<details>
+<summary>
+🧪 Try the code out~!
+</summary>
+<iframe src="https://trinket.io/embed/java/641a2a9c9e" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+:::tip Practice
+-  Change `true` to `false` and see what happens.
+:::
+
+### Else IF
+
+
+```java
+
+public class Main {
+  public static void main(String[] args) {
+    
+    int age = 17;
+    if(age == 17){
+      System.out.println("Age is 17");
+    }else if(age>17) {
+      System.out.println("You are an adult now");
+    }else{
+      System.out.println("You are still a kid.");
+    }
+  }
+}
+```
+
+Explaination:
 ```java
 If (Boolean condition1) Then
 
@@ -28,12 +88,93 @@ Else if (Boolean condition2) Then
     (perform another computation or action)
 
 Else
-
     (perform a default computation or action)
 ```
 
+<details>
+<summary>
+🧪 Try the code out~!
+</summary>
+<iframe src="https://trinket.io/embed/java/e7864d63c6" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+
+
 
 ## Boolean Expression 
+
+### Simple Comparison to get Boolean expressions
+```java
+class Main{
+ public static void main (String args[]){
+    int my_age    = 21;
+    int age_marie  = 25;
+   
+   System.out.println("Am I older than Marie? " + (my_age < age_marie));
+   }
+}
+```
+
+### Using Comparisons to resolve If Else conditionals
+```java
+class Main{
+ public static void main (String args[]){
+    int my_age    = 21;
+    int age_marie  = 25;
+   
+     if(my_age < age_marie){
+       System.out.println("I am Younger than Marie");
+     }else if(my_age > age_marie){
+       System.out.println("I am Older than Marie");
+     }
+   }
+}
+```
+
+<details>
+<summary>
+🧪 Try the code out~!
+</summary>
+
+<iframe src="https://trinket.io/embed/java/abcbd41ace" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+
+
+
+
+### Comparison Operator
+[👀](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-r-wrap-up-comparison-operators?module_item_id=9109)
+
+```
+== (equal to; example: x == 5)
+
+!= (not equal to; example: x != 5)
+
+> (greater than; example: y > 3)
+
+< (less than; example: x <  5 )
+
+>= (greater than or equal to; example: x >= y) 
+
+<= (less than or equal to; example: x <= y)
+```
+
+Example Use
+```python
+is_greater_than = 10 > 5  // True
+
+In this case, 10 > 5 is a Boolean expression that evaluates to True because 10 is greater than 5
+
+is_less_than = 10 < 5 // False
+
+In this case, 10 < 5 is a Boolean expression that evaluates to False because 10 is not less than 5
+```
+
+
+
 
 [👀](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-e1-introduce-boolean-expression?module_item_id=9108)
 
@@ -64,35 +205,6 @@ class Main{
 <iframe src="https://trinket.io/embed/java/f4a2082f58" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
-
-
-### Comparison Operator
-[👀](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-r-wrap-up-comparison-operators?module_item_id=9109)
-
-```
-== (equal to; example: x == 5)
-
-!= (not equal to; example: x != 5)
-
-> (greater than; example: y > 3)
-
-< (less than; example: x <  5 )
-
->= (greater than or equal to; example: x >= y) 
-
-<= (less than or equal to; example: x <= y)
-```
-
-Example Use
-```python
-is_greater_than = 10 > 5  // True
-
-In this case, 10 > 5 is a Boolean expression that evaluates to True because 10 is greater than 5
-
-is_less_than = 10 < 5 // False
-
-In this case, 10 < 5 is a Boolean expression that evaluates to False because 10 is not less than 5
-```
 
 
 

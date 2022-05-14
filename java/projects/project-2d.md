@@ -97,6 +97,14 @@ class Main {
 ### Fixing Our Minimalist Cipher
 Here we have a simplified version of the program that only encodes one character.
 
+:::note Cypher
+
+![](2022-05-13-08-27-35.png)
+
+- Modular Explaination
+
+:::
+
 ```java
 class Main {
  public static void main(String[] args) {
@@ -149,6 +157,9 @@ class Main {
 
 
 ```
+
+
+
 
 :::tip Please fix this program
 - So it asks what character to encrypt
