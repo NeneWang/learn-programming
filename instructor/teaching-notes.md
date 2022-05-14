@@ -52,14 +52,16 @@ What are things that matter? How much discipline should I provide them with?
 - Is showing instead of asking a good idea?
 
 
-## Games
+## Games and Just for Fun Projects
 *Lets create some games for the kids to play! Maybe...*
 
 Games that you can create
 - Cute Tik Tak Toe
 - Cute Pacman like
 - Cute Platformer like
-- Cute
+- Pass the butter.
+
+[🎥 Butter Robot - Youtube](https://www.youtube.com/watch?v=X7HmltUWXgs&ab_channel=jorthak)
 
 
 
