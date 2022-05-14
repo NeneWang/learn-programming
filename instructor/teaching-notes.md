@@ -33,6 +33,36 @@ title: "Learning how to Teach"
 | Annotations              | Check on how to do quick annotations                                        |
 
 
+## Asian Teaching vs Western Teaching
+
+What are things that matter? How much discipline should I provide them with?
+- Searching for sets of exercises outside of Whizara because it is just so bad.
+
+
+
+## Notes form my perosnal experience
+
+### How to 
+
+
+
+### Questions
+
+- How do I get to have that `earned respect item`?
+- Is showing instead of asking a good idea?
+
+
+## Games
+*Lets create some games for the kids to play! Maybe...*
+
+Games that you can create
+- Cute Tik Tak Toe
+- Cute Pacman like
+- Cute Platformer like
+- Cute
+
+
+
 
 
 
