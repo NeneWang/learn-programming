@@ -64,6 +64,16 @@ Games that you can create
 - Speed car game
 
 
+### Games to create
+| Image                                      | Description                                                                                           | Priority |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------- | -------- |
+| ![](../static/img/2022-05-15-09-30-57.png) | [Fightin Game ](https://chriscourses.com/courses/fighting-game/videos/interface-design-and-animation) | 1        |
+| ![](../static/img/2022-05-15-09-29-05.png) | Pokemon Game                                                                                          |
+| ![](../static/img/2022-05-15-09-27-36.png) | Pacman                                                                                                |
+
+
+
+
 :::tip
 
 And have them printing the commands int he terminal e.g.
