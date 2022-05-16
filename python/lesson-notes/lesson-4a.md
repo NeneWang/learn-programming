@@ -83,7 +83,7 @@ Marie is younger than Darell and Alisha: True
 
 :::
 
-## Exercise
+## Integrated Exercise
 
 ### Hard: Fair Ride
 
