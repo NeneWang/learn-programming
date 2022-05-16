@@ -20,6 +20,7 @@ Notes for myself, for a quicker introduction to the class
 
 
 
+
 How to do the interviews. Train students into technical interviews.
 
 You could get 

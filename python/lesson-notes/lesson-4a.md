@@ -54,13 +54,18 @@ Joe is as old as Tom: True
 
 <iframe src="https://trinket.io/embed/python/6b8543838f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+:::tip Practice
+
+
+
+:::
 
 ## Exercise
 
 ### Hard: Fair Ride
 
 :::tip Fair Ride
-
+`
 Fair Ride: Create a boolean expression that will be true or false for the given situation.
 
 The situation is this: You’d like to go on a ride at the fair, but you have to meet the following criteria. You must  be over 5 feet tall or have your parent with you to go on the ride. You may use the following variables -
@@ -80,8 +85,11 @@ ii) Use comparison operator to write a boolean expression that will evaluate to 
 
 iii) Use logical operator to combine hasParent and the boolean expression from (ii) to construct a complex boolean expression and save the result in canRide. canRide evaluates to True if either hasParent or the boolean expression from (ii) is True. Output the value of canRide.
 
-<iframe src="https://trinket.io/embed/python/8497595b51?outputOnly=true&start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 <iframe src="https://trinket.io/embed/python/8cb01b2471" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+Sample Program
+
+<iframe src="https://trinket.io/embed/python/8497595b51?outputOnly=true&start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 :::
