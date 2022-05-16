@@ -42,6 +42,8 @@ title: Chapter 4a - Boolean
 
 ## Exercise
 
+### Hard: Fair Ride
+
 :::tip Fair Ride
 
 Fair Ride: Create a boolean expression that will be true or false for the given situation.
