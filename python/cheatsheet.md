@@ -55,3 +55,46 @@ I will be creating a cheatlist with the commands and comment what they do below 
 | Logical error example | print(“34 + 66”) would result in 34 + 66 being printed. If the intention is to print the sum of 34 and 66, we need to remove the quotes. |
 | Builtin function      | Pre-defined blocks of code that perform a specific function. Example - input(), print(), min(), max().                                   |
 | Docstring             | Lines that describe a part of the code or a program, which are enclosed using triple quotes (single or double).                          |
+
+
+### Chapter 4
+Boolean data type: Just like string and number, boolean is a permissible data type in Python. Boolean data type allows only two values - True or False.Ex: a = True. In this statement, the variable a is not a string data type, but a boolean data type. 
+Boolean expression:  An expression is a series of values and operations that evaluate to something. Ex: 5 + 6 is an expression. So is 11/3+45. Boolean expressions compare data of any type as long as both data being compared are of the same data type. A boolean expression evaluates to a boolean value of True or False.
+Complex Boolean expressions can be created by joining multiple Boolean expressions with the logical operators (and, or, not). Boolean expressions compare data of any type as long as both data being compared are of the same data type.
+
+Comparison operator: Comparison operator compares two different values and returns whether the comparison is True or False. Ex: In the expression, 5 > 3, > (greater than) is the comparison operator that compares 5 and 3. This expression results in True.
+The 6 comparison operators are:
+
+== (equal to; example: x == 5)
+
+!= (not equal to; example: x != 5)
+
+> (greater than; example: y > 3)
+
+< (less than; example: x <  5 )
+
+>= (greater than or equal to; example: x >= y) 
+
+<= (less than or equal to; example: x <= y)
+
+Logical operator: Logical operators allow two or more expressions to be combined and evaluated to a single boolean value. There are three logical operators - and, or, not.
+and operator returns True only if all the individual expressions combined by and are true. Ex: (5 > 3) and (5 > 4)
+
+or operator returns True if any one of the individual expressions combined by or is true. Ex: (5 > 3) or (5 < 5)
+
+not operator reverses the result of a boolean expression. Ex: not(5 > 3) is not(True) which returns False.
+
+Conditional structure:This is a fundamental building block in coding. Based on whether a condition ( a boolean expression) is true or false, a specific branch of the program is executed, instead of all the statements in the program.
+The syntax for a conditional structure is given in this manner:
+
+If (Boolean condition1) Then
+
+    (perform computation or action)
+
+Else if (Boolean condition2) Then
+
+    (perform another computation or action)
+
+Else
+
+    (perform a default computation or action)

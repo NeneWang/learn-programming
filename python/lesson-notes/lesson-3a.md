@@ -38,6 +38,17 @@ print(inputEnteredByUser)
 
 <br/>
 
+
+:::tip Review
+
+Play with this:
+<iframe src="https://trinket.io/embed/python/29ef5d8362?outputOnly=true&start=result" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+🛠 Fix the following code so that you can replicate the behavior from the program above 👆:
+
+<iframe src="https://trinket.io/embed/python/71426ccbb9" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+:::
+
 :::important Time to work on our Class Project!
 [Click here to go to our Amongus project 3a](../project/project-3a)
 You only need to complete this for this class. But if you would like to, feel free to peek into the topics below! 
