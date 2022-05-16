@@ -18,7 +18,9 @@ Notes for myself, for a quicker introduction to the class
 - [Java Curriculum](https://learn2codelive.com/courses/107?invitation=xjBWlnfErS5sScvJxZlDpZ1XiYaS9VsNaTVvIW2e)
 - [Nuasin School Calendar](https://nngcs.org/calendar/)
 
-
+IA Week at a glance |
+---|
+![](2022-05-16-12-04-58.png) |
 
 
 How to do the interviews. Train students into technical interviews.
