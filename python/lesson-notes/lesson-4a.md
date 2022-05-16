@@ -36,7 +36,12 @@ Complete the following using the correct Boolean Expressions:
 
 <iframe src="https://trinket.io/embed/python/88ebe66e03" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="true"></iframe>
 
+***
+
 🙋‍♀️ Correct Output
+
+*py-l4b-print-x*
+
 ```
 Tom is of the same age as Marie: False
 Tom is older than Marie: True
@@ -62,6 +67,19 @@ Joe is as old as Tom: True
 Complete the following code with appropriate logical expressions
 
 <iframe src="https://trinket.io/embed/python/182bc06c71" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+***
+
+🙋‍♀️ Correct Output
+
+*x-py-l4c-booleanexpressions*
+
+```
+Tom is older than Marie and Darell: True
+Tom is older than Darell and Alisha: True
+Marie is younger than Darell and Alisha: True
+```
 
 :::
 

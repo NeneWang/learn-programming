@@ -162,6 +162,38 @@ You only need to complete this for this class. But if you would like to, feel fr
 :::
 
 
+###  Practice Sample
+*These are used when we just want them to play around with the code first.*
+
+:::tip Practice
+Complete the following using the correct Boolean Expressions:
+- Note we are using `ages` now.
+- In Line `8` you can see how inside of `str()` we have the Boolean Expression for answering the statement `Tom is of the same age as Marie`
+- Complete with the appropriate Boolean expressions in line `12`, `13`, `14`
+
+<iframe src="https://trinket.io/embed/python/88ebe66e03" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="true"></iframe>
+
+***
+
+🙋‍♀️ Correct Output
+
+*py-l4b-print-x*
+
+```
+Tom is of the same age as Marie: False
+Tom is older than Marie: True
+Marie is younger than Alisha: True
+Joe is as old as Tom: True
+```
+
+:::
+
+
+
+
+
+### Secret xd
+
 
 
 Fafsa
