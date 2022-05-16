@@ -47,7 +47,7 @@ Play with this:
 ***
 
 🛠 Fix the following code so that you can replicate the behavior from the program above 👆
-- Notice how the program below 👇 doesn't ask for the user to write anything on the terminal (the left box under results)
+- Notice how the program below 👇 doesn't ask for the user to write anything on the terminal (the left box under **Result**)
 
 <iframe src="https://trinket.io/embed/python/71426ccbb9" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 :::

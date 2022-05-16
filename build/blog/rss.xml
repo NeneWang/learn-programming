@@ -29,5 +29,13 @@ These are my contacts: </p><ul><li>Discord: <code>Ne#8696</code></li><li>Mail: <
             <content:encoded><![CDATA[<p>Here I will be sharing resources, books, etc. I will be using to complement the course.</p>]]></content:encoded>
             <category>information</category>
         </item>
+        <item>
+            <title><![CDATA[Content Roadmap]]></title>
+            <link>http://learn.wangnelson.xyz/blog/2022/5/13/roadmap</link>
+            <guid>/2022/5/13/roadmap</guid>
+            <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Content Roadmap for the curriculum/site 🗺:]]></description>
+            <content:encoded><![CDATA[<p>Content Roadmap for the curriculum/site 🗺:</p><ol class="contains-task-list"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Create all lectures and practices - WIP</li><li>Create better assigments (Labs)<ol><li>So the Class projects doesn't feel so drastic to complete.</li></ol></li><li>Better Cheatsheets for each class</li><li>Add Videos and Animations to better explain each topic<ol><li>So you can go over today's lecture by your own or in the future if you need a refresher on the topic</li></ol></li><li>Add Rewards Stickers and Cards for each class (Optional Assigments)</li><li>Add a scoring system</li><li>Add Funny Cat videos<ol><li>Internet only exists so we can share cat videos.</li></ol></li><li>Add AI assistant 👩🏻‍💼 to help in <strong>class attendance</strong> and <strong>class management</strong><ol><li>Cause why not.</li></ol></li><li>Add Video game Development Resources</li><li>Add Robotics Resources</li><li>Raspberry Pi Projects</li><li>Populate the site with games</li><li>They are educative games of course! ;)</li><li>Add Competitive Programming Questions -&gt; Olympiads</li><li>Because we all love them.</li><li>Programming and Math (Game Theory and other Intersting Stuff)</li><li>Programming and Statistics</li><li>Programming and Business Management Simulations</li><li>Artificial Intelligence</li><li>Machine Learning</li><li>Deep Learning</li></ol><p>Do you want your instructor to add some random stuff? A tool? A videogame? Feel free to ask me to do so. You can add that feature request in the <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3ybWqqgq5rV2XKiws1TGvp7fZF2Iz4zVSq18Kat4rMPQkHA/viewform" target="_blank" rel="noopener noreferrer">feedback form</a>.</p>]]></content:encoded>
+        </item>
     </channel>
 </rss>
