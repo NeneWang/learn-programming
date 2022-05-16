@@ -31,6 +31,8 @@ title: Chapter 4a - Boolean
 :::tip Practice
 Complete the following using the correct Boolean Expressions:
 
+<iframe src="https://trinket.io/embed/python/88ebe66e03" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="true"></iframe>
+
 Correct Output
 ```
 Tom is of the same age as Marie: False
@@ -38,9 +40,6 @@ Tom is older than Marie: True
 Marie is younger than Alisha: True
 Joe is as old as Tom: True
 ```
-
-
-<iframe src="https://trinket.io/embed/python/88ebe66e03" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 :::
 
