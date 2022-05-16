@@ -30,10 +30,13 @@ title: Chapter 4a - Boolean
 
 :::tip Practice
 Complete the following using the correct Boolean Expressions:
+- Note we are using `ages` now.
+- In Line `8` you can see how inside of `str()` we have the Boolean Expression for answering the statement `Tom is of the same age as Marie`
+- Complete with the appropriate Boolean expressions in line `12`, `13`, `14`
 
 <iframe src="https://trinket.io/embed/python/88ebe66e03" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="true"></iframe>
 
-Correct Output
+🙋‍♀️ Correct Output
 ```
 Tom is of the same age as Marie: False
 Tom is older than Marie: True
@@ -56,7 +59,9 @@ Joe is as old as Tom: True
 
 :::tip Practice
 
+Complete the following code with appropriate logical expressions
 
+<iframe src="https://trinket.io/embed/python/182bc06c71" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 :::
 
