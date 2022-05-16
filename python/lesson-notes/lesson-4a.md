@@ -28,6 +28,13 @@ title: Chapter 4a - Boolean
 <iframe src="https://trinket.io/embed/python/83d46bc5c7" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
+:::tip Practice
+Complete the following using the correct Boolean Expressions:
+
+<iframe src="https://trinket.io/embed/python/88ebe66e03" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+:::
+
 
 ## Logical Operators
 
