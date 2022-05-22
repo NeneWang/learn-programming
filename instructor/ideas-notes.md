@@ -40,3 +40,9 @@
 - Showcase of the cards and Swag that you can get and explain that in the programming world that is something that you will see a lot.
 - What is the maximum size of memory on Maries
 - [Dungeon Dragons](https://docs.google.com/presentation/d/1DU73i9N-tAVdjVdw_MaXESkL_12ZaRBqzvHh47nNtpM/edit?usp=sharing)
+
+
+## Based on Market Research
+- The game in Lua
+- Create Mods for Minecraft
+  - Perphaps creating a mod for Minecraft might be better for programming.
