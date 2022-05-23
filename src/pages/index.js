@@ -6,6 +6,8 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
+const currentClass = "python"
+const currentLecture = "3a"
 
 function getTitle(lessonClass, lessonNumber) {
   return `Go to ${lessonClass}'s Lecture ${lessonNumber.toUpperCase()}!`
@@ -30,7 +32,7 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          {getLink('python', '3a')}
+          {getLink(currentClass, currentLecture)}
         </div>
       </div>
     </header>
