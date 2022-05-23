@@ -18,7 +18,7 @@ title: Chapter 4a - Boolean
 | Comparison Operator | Definition       | Example                     |
 | ------------------- | ---------------- | --------------------------- |
 | `==`                | Equals           | 2==2 -> True, 2==4 -> False |
-| `!==`               | Not Equal        | 2!=3 -> True, 2!=2 -> False |
+| `!=`               | Not Equal        | 2!=3 -> True, 2!=2 -> False |
 | `>`                 | Larger           | 3>2 -> True                 |
 | `<`                 | Smaller          | 4 < 5 -> True               |
 | `>=`                | Larger or Equals | 4 >= 2 -> True, 2>=2 -> Tru |
