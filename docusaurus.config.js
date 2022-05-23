@@ -96,7 +96,7 @@ const config = {
           label: 'About',
         },
         {
-          to: '/python/intro',
+          to: '/python/lesson-notes',
           label: 'Python',
           position: 'left'
         },
