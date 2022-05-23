@@ -101,7 +101,7 @@ const config = {
           position: 'left'
         },
         {
-          to: '/java/intro',
+          to: '/java/lesson-notes',
           label: 'Java',
           position: 'left'
         },
