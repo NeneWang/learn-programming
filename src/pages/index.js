@@ -7,7 +7,7 @@ import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 const currentClass = "python"
-const currentLecture = "3a"
+const currentLecture = "4a"
 
 function getTitle(lessonClass, lessonNumber) {
   return `Go to ${lessonClass}'s Lecture ${lessonNumber.toUpperCase()}!`
