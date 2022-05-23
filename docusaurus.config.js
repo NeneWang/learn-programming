@@ -120,6 +120,11 @@ const config = {
           label: 'Submit an assigment',
           position: 'right',
         },
+        {
+          href: 'https://classroom.google.com/c/NTE0NDI2MDM3OTM0?cjc=esrupso',
+          label: 'Join Google Classroom',
+          position: 'right'
+        }
         ],
       },
       footer: {
