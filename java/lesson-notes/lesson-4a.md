@@ -91,18 +91,20 @@ In this case, 10 < 5 is a Boolean expression that evaluates to False because 10 
 
 [👀](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-e1-introduce-boolean-expression?module_item_id=9108)
 
+![](2022-05-23-13-37-42.png)
+
 ```java
 class Main{
  public static void main (String args[]){
    //heights are in inches
    //create variables for heights of the five friends
     int ht_tom    = 61;
-    int ht_marie  = 63;
-    int ht_darell = 66;
-    int ht_alisha = 59;
-    int ht_joe    = 64;
+    int ht_marie  = 53;
+    int ht_darell = 60;
+    int ht_alisha = 55;
+    int ht_joe    = 66;
    //boolean expression evaluates to True or False
-   System.out.println("Tom is of the same height as Marie: " + (ht_tom == ht_marie));
+   System.out.println("Tom is of the same height as Marie: " + (ht_tom != ht_marie));
    System.out.println("Tom is as tall as Marie or taller: " + (ht_tom >= ht_marie));
    System.out.println("Darell is shorter or the same height as Joe: "+ (ht_darell <= ht_joe));
    System.out.println("Alisha is shorter than Tom: " + (ht_alisha < ht_tom));
