@@ -6,8 +6,8 @@ title: Introduction
 
 
 ## Where are my lectures?
-- If you are from my Python class please [click here](/python/intro)
-- If you are from my Java class please [click here](/java/intro)
+- If you are from my Python class please [click here](/python/lesson-notes)
+- If you are from my Java class please [click here](/java/lesson-notes)
 
 
 ## Why a website?

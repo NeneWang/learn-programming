@@ -128,11 +128,11 @@ const config = {
           title: 'Class Notes',
           items: [{
             label: 'Python',
-            to: '/python/intro',
+            to: '/python/lesson-notes',
           },
           {
             label: 'Java',
-            to: '/java/intro',
+            to: '/java/lesson-notes',
           },
           ],
         }, {
