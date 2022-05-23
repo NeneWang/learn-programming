@@ -24,6 +24,9 @@ Ms Hara
 Mr Baros
 Ms Trucia?
 Ms. Ramos
+Mr. Adam
+Mr. Eyandi
+Ms. Hara
 
 ## Deliverable for next semester
 | Idea                             | Description                                                        | Image |

@@ -48,4 +48,28 @@ else:
 
 </details>
 
+:::tip Exercise
+
+Fix the following program
+Problem:
+- No matter what you enter it prints "Outside is hot"
+
+<iframe src="https://trinket.io/embed/python3/ebdd69524a" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+:::
+
+## Checking Even and Odd numbers:
+
+```python
+
+n = int(input('Enter a number '))
+
+if n % 2 == 0: # if the remainder when a number is divided by 2 is 0
+  print(str(n) + " is an even number")
+
+else:
+  print(str(n) + " is an odd number")
+
+```
+
 
