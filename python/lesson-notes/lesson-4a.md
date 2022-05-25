@@ -8,7 +8,7 @@ title: Chapter 4a - Boolean
 
 [👀](https://learn2codelive.com/courses/4/pages/lesson-4-learning-activities-e1-introduce-boolean-expression?module_item_id=1660)
 
-
+ 
 | Boolean Expression | Aithmetic Expression |
 | ------------------ | -------------------- |
 | 2 > 3              | 2+3                  |
@@ -100,7 +100,7 @@ hasParent - boolean
 canRide - boolean
 
 
-i) Accept user input for height and hasParent. To accept a boolean value from the user, typecast the user’s input to bool(). User needs to input True or False only as a value for hasParent.
+i) Accept user input for height and hasParent. To accept a boolean value from the user, typecast the user’s input to bool(). User needs to write something => true or nothing => false.
 
 
 ii) Use comparison operator to write a boolean expression that will evaluate to True or False depending on whether or not height is more than 5 feet. Output the value of the boolean expression. 
