@@ -62,16 +62,18 @@ Problem:
 
 ## Checking Even and Odd numbers:
 
+- If `number` is odd the following program will print `false`.
+- If `number` is even, the program will print `true`
+
 ```python
 
-n = int(input('Enter a number '))
 
-if n % 2 == 0: # if the remainder when a number is divided by 2 is 0
-  print(str(n) + " is an even number")
+number = 4
 
-else:
-  print(str(n) + " is an odd number")
+print( number % 2 == 0)
 
 ```
+
+<iframe src="https://trinket.io/embed/python3/110923fc1f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
