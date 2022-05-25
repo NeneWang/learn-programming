@@ -1,15 +1,15 @@
 
 import React, { useState } from 'react';
-import CheckBoxAns from "@site/src/components/CheckboxAns.js";
+import RadioAns from "@site/src/components/RadioAns.js";
 
 
-export default function CheckListAns({ checkList }) {
+export default function CheckListAns({ checkList, answer }) {
   const [userResponse, setUserResponse] = useState("");
   const [submitted, setSubmitted] = useState(false)
 
-  checkList = ["Test12", "Tes2"]
-  const answer = 1
-  const uniqueIdentifier = "item-x1";
+  // checkList = ["Test12", "Tes2"]
+  // const answer = 1
+  const uniqueIdentifier = checkList[0]+answer;
 
   const toggleAnswer = (answerByUser) => {
     // What you want to do here is to change. The adaaptability with 
@@ -20,7 +20,7 @@ export default function CheckListAns({ checkList }) {
   }
 
 
-  let checkBoxList = checkList.map(check => <CheckBoxAns radio={uniqueIdentifier} title={check} toggleAnswer={toggleAnswer} />)
+  let checkBoxList = checkList.map(check => <RadioAns radio={uniqueIdentifier} title={check} toggleAnswer={toggleAnswer} stateBox={false} />)
 
 
   const submitHandle = () => {
@@ -32,7 +32,6 @@ export default function CheckListAns({ checkList }) {
   }
 
   const tryAgain = () => {
-    setUserResponse("")
     setSubmitted(false)
   }
 
