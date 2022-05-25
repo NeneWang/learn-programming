@@ -4,6 +4,8 @@ title: Chapter 4b - If Else
 
 ## Conditional Structure
 
+
+![](../../static/img/2022-05-25-05-50-24.png)
 ### If Else
 
 ```java
@@ -32,6 +34,9 @@ public class Main {
 
 
 ### Using Comparisons to resolve If Else conditionals
+
+![](../../static/img/2022-05-25-05-53-34.png)
+
 ```java
 class Main{
  public static void main (String args[]){
@@ -58,6 +63,11 @@ class Main{
 
 ### Else IF
 
+:::note
+![](../../static/img/2022-05-25-06-06-06.png)
+
+- I created this using [draw.io](https://draw.io/)
+:::
 
 ```java
 
@@ -98,9 +108,12 @@ Else
 
 </details>
 
-## Lesson 4 Learning Activities [E1] : Introduce Logical Operator
+## Lesson 4 Learning Activities [E1] : Introduce Logical Conditionals
 
-[👀](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-e1-introduce-logical-operator?module_item_id=9111)
+[👀](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-e1-introduce-conditionals?module_item_id=9114)
+
+
+
 
 
 
