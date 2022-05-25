@@ -1,15 +1,15 @@
 
 import React, { useState } from 'react';
-import CheckBox from "@site/src/components/CheckBox.js";
+import CheckBoxAns from "@site/src/components/CheckBoxAns.js";
 
 
 export default function CheckListAns({ checkList }) {
 
   checkList = ["Test1", "Tes2"]
   const answer = 1
-  let checkBoxList = checkList.map(check => <CheckBox title={check} />)
+  let checkBoxList = checkList.map(check => <CheckBoxAns title={check} />)
   const [userResponse, setUserResponse] = useState(checkList.map(checkItem => { checkItem: false }));
-
+  const [submitted, setSubmitted] = useState(false)
   const toggleAnswer = (answer) => {
     // What you want to do here is to change. The adaaptability with 
 
@@ -17,12 +17,22 @@ export default function CheckListAns({ checkList }) {
     setUserResponse(!userResponse[answer])
   }
 
+  const submitHandle = () => {
+    setSubmitted(true)
+  }
 
+  const isAnswerCorrect = () => {
+    return userResponse[checkList[answer - 1]]
+  }
 
   return (
     <div>
-      {userResponse[checkList[0]] ? checkBoxList : ""}
 
+      {submitted ? isAnswerCorrect() ? "Congrats 🎉" : "Try Again" : ""}
+      {userResponse[checkList[0]] ? checkBoxList : ""}
+      {checkBoxList}
+
+      <div><button onClick={submitHandle} >Submit</button></div>
     </div>
   );
 }
