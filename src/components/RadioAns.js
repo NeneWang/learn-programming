@@ -13,13 +13,14 @@ export default function RadioAns({ radio, title, toggleAnswer }) {
 
     return (
         <div>
-            <label>{title}
+            <label>
                 <input
                     type="radio"
                     name={radio}
                     checked={checked}
                     onChange={handleChange}
                 />
+                {title}
             </label>
 
         </div>
