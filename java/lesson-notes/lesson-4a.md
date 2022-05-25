@@ -75,6 +75,21 @@ class Main{
 <= (less than or equal to; example: x <= y)
 ```
 
+
+:::note Comparison Operators
+
+
+| Comparison Operator | Definition       | Example                     |
+| ------------------- | ---------------- | --------------------------- |
+| `==`                | Equals           | 2==2 -> True, 2==4 -> False |
+| `!=`               | Not Equal        | 2!=3 -> True, 2!=2 -> False |
+| `>`                 | Larger           | 3>2 -> True                 |
+| `<`                 | Smaller          | 4 < 5 -> True               |
+| `>=`                | Larger or Equals | 4 >= 2 -> True, 2>=2 -> Tru |
+
+:::
+
+
 Example Use
 ```python
 is_greater_than = 10 > 5  // True

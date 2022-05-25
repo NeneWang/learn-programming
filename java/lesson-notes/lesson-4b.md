@@ -4,6 +4,7 @@ title: Chapter 4b - If Else
 
 ## Conditional Structure
 
+[👀 Reading Notes](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-r-reading-material-for-conditionals?module_item_id=9115)
 
 ![](../../static/img/2022-05-25-05-50-24.png)
 ### If Else
@@ -35,6 +36,7 @@ public class Main {
 
 ### Using Comparisons to resolve If Else conditionals
 
+
 ![](../../static/img/2022-05-25-05-53-34.png)
 
 ```java
@@ -60,6 +62,20 @@ class Main{
 <iframe src="https://trinket.io/embed/java/abcbd41ace" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
+
+
+:::note Comparison Operators
+
+
+| Comparison Operator | Definition       | Example                     |
+| ------------------- | ---------------- | --------------------------- |
+| `==`                | Equals           | 2==2 -> True, 2==4 -> False |
+| `!=`               | Not Equal        | 2!=3 -> True, 2!=2 -> False |
+| `>`                 | Larger           | 3>2 -> True                 |
+| `<`                 | Smaller          | 4 < 5 -> True               |
+| `>=`                | Larger or Equals | 4 >= 2 -> True, 2>=2 -> Tru |
+
+:::
 
 ### Else IF
 
@@ -108,10 +124,62 @@ Else
 
 </details>
 
-## Lesson 4 Learning Activities [E1] : Introduce Logical Conditionals
+<!-- ## Lesson 4 Learning Activities [E1] : Introduce Logical Conditionals
 
-[👀](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-e1-introduce-conditionals?module_item_id=9114)
+[👀](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-e1-introduce-conditionals?module_item_id=9114) -->
 
+:::tip Exercise
+
+Complete the following program so that it prints if  number is positive or not.
+- If the input is positive it should print: `num is positive.`
+- else If the input is negative it should print: `num is negative`
+- else (the case where input is neither positive or negative) it should print: `num is ZERO (0)`
+
+
+<iframe src="https://trinket.io/embed/java/a02cd37708" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+🙋‍♀️ Sample expected program:
+
+- Try entering `5`
+- Try entering `-5`
+- Try entering `0`
+
+<iframe src="https://trinket.io/embed/java/8621801351?outputOnly=true" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+:::
+
+
+### Nested Conditionals
+
+[👀 Curriculum - Nested Conditionals](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-r-reading-material-for-conditionals?module_item_id=9115)
+
+```java
+public class Main{
+ public static void main(String args[]){ 
+ int num = 10;
+ 
+ 
+ if (num >5){
+   System.out.print ("num is greate than 5.");
+   if(num==10)
+     System.out.print ("num is 10");
+ }else if(num<0){
+   System.out.print ("num is negative");
+ }else{
+   System.out.print ("num is ZERO (0)");
+  }
+ }
+}
+```
+
+<details>
+<summary>
+🧪 Try the code out~!
+</summary>
+
+<iframe src="https://trinket.io/embed/java/68c3d59f21" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</details>
 
 
 
