@@ -22,7 +22,7 @@ export default function CheckListAns({ checkList, answer }) {
 
 
   let checkBoxList = checkList.map(check => <RadioAns radio={uniqueIdentifier} title={check} toggleAnswer={toggleAnswer} stateBox={false} />)
-
+  const [stateChecklist,setStateChecklist] = useState(checkBoxList)
 
   const submitHandle = () => {
     setSubmitted(true)
@@ -42,7 +42,7 @@ export default function CheckListAns({ checkList, answer }) {
 
       {submitted ? isAnswerCorrect() ? `Congrats 🎉 - Answer is: ${userResponse}` : ` Incorrect answer - You can try again` : ""}
       {userResponse[checkList[0]] ? checkBoxList : ""}
-      {checkBoxList}
+      {stateChecklist}
 
       <div><button onClick={submitHandle} >Submit</button></div>
       {/* {submitted ? isAnswerCorrect() ? `Congrats 🎉 - Answer is: ${userResponse}` : <div> Incorrect answer - You can <button className='' onClick={tryAgain} >Try Again</button></div> : ""} */}
