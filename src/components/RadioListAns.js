@@ -40,7 +40,7 @@ export default function CheckListAns({ checkList, answer }) {
   return (
     <div>
 
-      {submitted ? isAnswerCorrect() ? `Congrats 🎉 - Answer is: ${userResponse}` : ` Incorrect answer - You can try again` : ""}
+      {submitted ? isAnswerCorrect() ? `Congrats 🎉 - Answer is: ${userResponse}` : ` Incorrect answer` : ""}
       
       {checkBoxList}
 
