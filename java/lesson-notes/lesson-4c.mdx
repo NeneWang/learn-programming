@@ -1,0 +1,41 @@
+---
+title: Chapter 4c - More Practice
+---
+
+import RadioListAns from "@site/src/components/RadioListAns.js";
+
+
+
+[👀 Check](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-e1-introduce-if-else-if-else-conditional?module_item_id=9117)
+
+:::tip Exercise: Create the following
+
+- If signal is `1` it prints: `Stop your vehicle`
+- If signal is `2` it prints `Slow down and bring the vehicle to a stop`
+- If signal is `3` it prints: `Keep driving`
+
+
+
+***
+
+🙋‍♀️ Sample expected program:
+
+<iframe src="https://trinket.io/embed/java/fa526d2828?toggleCode=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+***
+
+(i) What happens if any number other than 1, 2 and 3 is entered? Action in the else block will be executed.
+
+<RadioListAns checkList={["It will throw an error", "Action in the else block will be executed.", "Nothing will happen"]} answer={2} >
+</RadioListAns>
+
+(ii) Is there a way to ensure that an action (to drive / slow down / stop) is taken only if numbers 3, 2, or 1 are entered?
+
+Adding another else if statement to check if signal == 3 would ensure this.
+
+(iii) How can you notify the user if an invald input is entered?
+
+Once we have considered all the 3 valid conditions using if..else if (in (ii) above), the else block can be used to notify the user if none of the expected values for n are entered, as shown below.
+
+
+:::
