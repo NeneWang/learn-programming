@@ -22,8 +22,8 @@ Allowed to talk to each other for a limited time. During these discussions, the 
 
 
 
-:::tip You were accused as the Impostor
-- Write in the chat your defense to convince the fleet that you are **not the impostor**!
+:::tip You were accused as the imposter
+- Write in the chat your defense to convince the fleet that you are **not the imposter**!
 - Try talking about Bruno -> This is the trick not to get ejected
 - Try entering nothing -> It should just print `you: ` and not have the chat react
 :::
