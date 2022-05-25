@@ -40,13 +40,13 @@ export default function CheckListAns({ checkList, answer }) {
   return (
     <div>
 
-
+      {submitted ? isAnswerCorrect() ? `Congrats 🎉 - Answer is: ${userResponse}` : ` Incorrect answer - You can try again` : ""}
       {userResponse[checkList[0]] ? checkBoxList : ""}
       {checkBoxList}
 
       <div><button onClick={submitHandle} >Submit</button></div>
       {/* {submitted ? isAnswerCorrect() ? `Congrats 🎉 - Answer is: ${userResponse}` : <div> Incorrect answer - You can <button className='' onClick={tryAgain} >Try Again</button></div> : ""} */}
-      {submitted ? isAnswerCorrect() ? `Congrats 🎉 - Answer is: ${userResponse}` : ` Incorrect answer` : ""}
+
 
     </div>
   );
