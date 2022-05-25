@@ -31,11 +31,14 @@ import RadioListAns from "@site/src/components/RadioListAns.js";
 
 (ii) Is there a way to ensure that an action (to drive / slow down / stop) is taken only if numbers 3, 2, or 1 are entered?
 
-Adding another else if statement to check if signal == 3 would ensure this.
+<RadioListAns checkList={["Adding another else if statement to check if signal == 3 would ensure this.", "Thats impossible.", "Wait what"]} answer={1} >
+</RadioListAns>
 
 (iii) How can you notify the user if an invald input is entered?
 
-Once we have considered all the 3 valid conditions using if..else if (in (ii) above), the else block can be used to notify the user if none of the expected values for n are entered, as shown below.
+<RadioListAns checkList={["Adding another else if statement to check if signal == 3 would ensure this.", "Thats impossible.", "Once we have considered all the 3 valid conditions using if..else if (in (ii) above), the else block can be used to notify the user if none of the expected values for n are entered, as shown below."]} answer={3} >
+</RadioListAns>
+
 
 
 :::
