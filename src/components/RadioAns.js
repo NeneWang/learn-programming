@@ -1,7 +1,7 @@
 import * as React from 'react';
 
 
-export default function RadioAns({ radio, title, toggleAnswer, }) {
+export default function RadioAns({ radio, title, toggleAnswer }) {
 
     const [checked, setChecked] = React.useState(false);
 

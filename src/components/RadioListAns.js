@@ -9,7 +9,7 @@ export default function CheckListAns({ checkList, answer }) {
 
   // checkList = ["Test12", "Tes2"]
   // const answer = 1
-  const uniqueIdentifier = checkList[0] + answer;
+  const uniqueIdentifier = checkList[0];
 
   const toggleAnswer = (answerByUser) => {
     // What you want to do here is to change. The adaaptability with 
@@ -21,8 +21,8 @@ export default function CheckListAns({ checkList, answer }) {
   }
 
 
-  let checkBoxList = checkList.map(check => <RadioAns radio={uniqueIdentifier} title={check} toggleAnswer={toggleAnswer} stateBox={false} />)
-  const [stateChecklist,setStateChecklist] = useState(checkBoxList)
+  let checkBoxList = checkList.map(check => <RadioAns radio={"uniqueIdentifier"} title={check} toggleAnswer={toggleAnswer} />)
+  // const [stateChecklist,setStateChecklist] = useState(checkBoxList)
 
   const submitHandle = () => {
     setSubmitted(true)
@@ -41,8 +41,8 @@ export default function CheckListAns({ checkList, answer }) {
     <div>
 
       {submitted ? isAnswerCorrect() ? `Congrats 🎉 - Answer is: ${userResponse}` : ` Incorrect answer - You can try again` : ""}
-      {userResponse[checkList[0]] ? checkBoxList : ""}
-      {stateChecklist}
+      
+      {checkBoxList}
 
       <div><button onClick={submitHandle} >Submit</button></div>
       {/* {submitted ? isAnswerCorrect() ? `Congrats 🎉 - Answer is: ${userResponse}` : <div> Incorrect answer - You can <button className='' onClick={tryAgain} >Try Again</button></div> : ""} */}
