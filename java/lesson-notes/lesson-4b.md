@@ -128,6 +128,9 @@ Else
 
 [👀](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-e1-introduce-conditionals?module_item_id=9114) -->
 
+
+*** 
+
 :::tip Exercise
 
 Complete the following program so that it prints if  number is positive or not.
@@ -137,6 +140,8 @@ Complete the following program so that it prints if  number is positive or not.
 
 
 <iframe src="https://trinket.io/embed/java/a02cd37708" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+***
 
 🙋‍♀️ Sample expected program:
 
