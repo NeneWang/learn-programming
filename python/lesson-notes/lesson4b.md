@@ -28,6 +28,7 @@ if isHot == 1:
 
 </details>
 
+![](2022-05-25-08-32-56.png)
 ## Else Condition
 ```python
 isHot = int(input("Is it hot outside? Enter 1 if it is"))
@@ -61,6 +62,8 @@ Problem:
 :::
 
 ## Checking Even and Odd numbers:
+
+![](2022-05-25-08-31-57.png)
 
 - If `number` is odd the following program will print `false`.
 - If `number` is even, the program will print `true`
