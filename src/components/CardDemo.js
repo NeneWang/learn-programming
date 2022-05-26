@@ -6,18 +6,24 @@ import CardContent from '@mui/material/CardContent';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 
-export default function CardDemo() {
+
+const linkSample = { "Udemy": "https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/" }
+
+
+export default function CardDemo({ title = "", tags = ["Machine Learning", "Programming"], links = linkSample }) {
 
     return (
         <Card sx={{ minWidth: 275 }}>
             <CardContent>
                 <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
-                    Word of the Day
+                    {tags.map(tag => tag + " ")}
                 </Typography>
-                <Typography variant="h5" component="div">asdas
+                <Typography variant="h5" component="div">{title}
                 </Typography>
                 <Typography sx={{ mb: 1.5 }} color="text.secondary">
-                    adjective
+                    {Object.keys(links).map(linkItem => {
+                        return <a href={links[linkItem]} target="_blank" >{linkItem}</a>
+                    })}
                 </Typography>
                 <Typography variant="body2">
                     well meaning and kindly.
