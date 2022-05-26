@@ -9,7 +9,7 @@ import 'swiper/css';
 export default function SwiperDemo({ }) {
 
     const images = [{ image: require("../../static/img/2022-05-09-03-30-09.png") },
-    { image: require("../../static/img/2022-05-26-18-57-55.png") }
+    { image: "../../static/img/2022-05-26-18-57-55.png" }
 
     ]
 
@@ -32,7 +32,7 @@ export default function SwiperDemo({ }) {
             >
                 <SwiperSlide>
                     {/* <img className="swiper-image" src="../../static/img/2022-05-09-03-30-09.png" alt="" /> */}
-                    <img className="swiper-image" src={images[1].image} />
+                    <img className="swiper-image" key={images[1].image} src={images[1].image} />
                 </SwiperSlide>
                 <SwiperSlide>Slide 2</SwiperSlide>
                 <SwiperSlide>Slide 3</SwiperSlide>
