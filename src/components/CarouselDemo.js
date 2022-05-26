@@ -29,7 +29,7 @@ export default function Slider({ }) {
 
     return (
         <>
-            <ImageGallery items={images} />
+            <ImageGallery items={images} showPlayButton={false} />
         </>
     )
 
