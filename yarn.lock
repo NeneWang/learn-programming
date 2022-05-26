@@ -4158,6 +4158,11 @@ fraction.js@^4.2.0:
   resolved "https://registry.yarnpkg.com/fraction.js/-/fraction.js-4.2.0.tgz#448e5109a313a3527f5a3ab2119ec4cf0e0e2950"
   integrity sha512-MhLuK+2gUcnZe8ZHlaaINnQLl0xRIGRfcGk2yl8xoQAfHrSsL3rYu6FCmBdkdbhc9EPlwyGHewaRsvwRMJtAlA==
 
+framework7-react@^7.0.4:
+  version "7.0.4"
+  resolved "https://registry.yarnpkg.com/framework7-react/-/framework7-react-7.0.4.tgz#a168ed3f0c3292339458a4033ea72170b4ee5099"
+  integrity sha512-VFYdhSKnwResoV74PmBI8eIPDBvn2rbE3lmBuP4nGJdRUgWvrMKoWWhbpvetyA8rj8oVRgRXg9tJaRO1mnoFVw==
+
 fresh@0.5.2:
   version "0.5.2"
   resolved "https://registry.yarnpkg.com/fresh/-/fresh-0.5.2.tgz#3d8cadd90d976569fa835ab1f8e4b23a105605a7"
