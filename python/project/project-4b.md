@@ -32,9 +32,33 @@ I am going to use [this](https://www.refinery29.com/en-us/zodiac-sign-accuracy-s
 <iframe src="https://trinket.io/embed/python/705196b851" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 :::
 
+
+## Optional Exercise
+
+:::tip Completing the Zodiac personality test
+
+### Activity
+1. Complete the following code so that it works in all 12 zodiac signs
+2. Make the program provide feedback if an unexpected user input was entered
+
+<iframe src="https://trinket.io/embed/python/9ddba7e522" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+<details>
+<summary>
+Hint
+</summary>
+
+use `else`
+
+</details>
+
+
+:::
+
 ## Zodiac Sign Calculator
 
 - Don't worry about the code of this program yet, you are not expected to understand it!
 
-<iframe src="https://trinket.io/embed/python/152ed204bb?runOption=run&start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/152ed204bb?runOption=run&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
