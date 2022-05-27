@@ -63,9 +63,17 @@ Problem:
 
 :::
 
+:::important Time to work on our project!
+Click here to go to [Zodiac Sign Project](/python/project/project-4b)
+
+You only need to complete this for this class. But if you would like to, feel free to peek into the topics below! 
+:::
+
+
+
 ## Checking Even and Odd numbers:
 
-
+[👀 Lesson 4 Learning Activities [R] : Practice Activity 3 - Mathworks](https://learn2codelive.com/courses/4/pages/lesson-4-learning-activities-r-practice-activity-3-mathworks?module_item_id=1668)
 
 - If `number` is odd the following program will print `false`.
 - If `number` is even, the program will print `true`
@@ -79,6 +87,20 @@ print( number % 2 == 0)
 
 ```
 
-<iframe src="https://trinket.io/embed/python3/110923fc1f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/110923fc1f" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+:::tip Exercise
+
+- Modify the following program so that if the number is odd, it prints: `is Odd`
+- And if it is even, it should print: `is Even`
+
+<iframe src="https://trinket.io/embed/python/a4243efe5a" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+***
+🙆‍♀️ Expected Program:
+<iframe src="https://trinket.io/embed/python/1da65ebffb?outputOnly=true&start=result" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+:::
 
 

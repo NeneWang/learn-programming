@@ -156,7 +156,7 @@ Feel free to use Repl, you can fork from this empty canvas in Repl.it
 
 ### Time to work on...
 
-:::important Time to work on our Japanese Emoticons!
+:::important Time to work on our project!
 [Click here to go to our Japanese Emoticons project]
 You only need to complete this for this class. But if you would like to, feel free to peek into the topics below! 
 :::
