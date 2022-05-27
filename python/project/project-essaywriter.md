@@ -1,5 +1,4 @@
 ---
-sidebar_position: 12
 title: 👾 TBA - Make python write essays for you.
 ---
 
