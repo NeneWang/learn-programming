@@ -12,7 +12,8 @@ I am going to use [this](https://www.refinery29.com/en-us/zodiac-sign-accuracy-s
 :::tip Try
 
 - Entering your sign `e.g Cancer`
-- Entering some random words `e.g. sadsadas`
+  - Don't know your zodiac sign? I prepared a code [here](#zodiac-sign-calculator)
+- Entering some random words `e.g. Fire nation`
 
 
 :::
@@ -21,4 +22,10 @@ I am going to use [this](https://www.refinery29.com/en-us/zodiac-sign-accuracy-s
 
 <iframe src="https://trinket.io/embed/python/cf0e74362d?outputOnly=true&runOption=run&start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+
+## Zodiac Sign Calculator
+
+- Don't worry about the code of this program yet, you are not expected to understand it!
+
+<iframe src="https://trinket.io/embed/python/152ed204bb?runOption=run&start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
