@@ -4,7 +4,12 @@ title: ♋ 4b - Zodiac Signs!
 
 *We are building in this classs an application that will tell your personality / your match / etc based on your zodiac. Also if today is your lucky date depending on your zodiac sign!*
 
-I am going to use [this](https://www.refinery29.com/en-us/zodiac-sign-accuracy-strengths-weakness-descriptions) as a reference
+I am going to use [this](https://www.refinery29.com/en-us/zodiac-sign-accuracy-strengths-weakness-descriptions) as a reference [^Coughlin]
+
+
+[^Coughlin]:[Coughlin S. - This Sign Is The Saltiest About Their Personality Type](https://www.refinery29.com/en-us/zodiac-sign-accuracy-strengths-weakness-descriptions)
+
+[^Markarian]:[Markarian T. - Zodiac Compa](https://www.refinery29.com/en-us/zodiac-sign-accuracy-strengths-weakness-descriptions)
 
 ## Zodiac Personality
 
@@ -54,6 +59,12 @@ use `else`
 </details>
 
 
+:::
+
+:::note All I want is...
+![](../../static/img/2022-05-27-02-52-51.png)
+
+Extracted from [Lost Cities](https://lost-cities-keeper.fandom.com/f/p/4400000000000448154/r/4400000000003805604)
 :::
 
 ## Zodiac Sign Calculator
