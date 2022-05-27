@@ -61,10 +61,17 @@ use `else`
 
 :::
 
-:::note All I want is...
-![](../../static/img/2022-05-27-02-52-51.png)
+:::note okno
+ | Figure 1.1                                                                                                        | FIgure 1.2                                                                                 |
+ | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+ | ![](../../static/img/2022-05-27-02-52-51.png)                                                                     | ![](../../static/img/2022-05-27-03-00-33.png)                                              |
+ | Extracted from [Lost Cities](https://lost-cities-keeper.fandom.com/f/p/4400000000000448154/r/4400000000003805604) | Extracted from [Reddit](https://www.reddit.com/r/capricorns/comments/m46xab/memes_galore/) |
 
-Extracted from [Lost Cities](https://lost-cities-keeper.fandom.com/f/p/4400000000000448154/r/4400000000003805604)
+
+| Figure 1.3                                                                                                           | Figure 1.4                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| ![](../../static/img/2022-05-27-03-01-37.png)                                                                        | ![](../../static/img/2022-05-27-03-03-41.png)                                                                            |
+| Extracted from [Reddit](https://www.reddit.com/r/memes/comments/pqmm9m/usually_not_into_zodiac_memes_but_as_a_sagg/) | Image Extracted from [Cheezburger](https://cheezburger.com/9330437/astrology-memes-with-something-for-every-zodiac-sign) |
 :::
 
 ## Zodiac Sign Calculator
