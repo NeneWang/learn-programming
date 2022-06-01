@@ -3,6 +3,7 @@ title: Chapter 4d - String Comparison
 ---
 
 
+## using Equals() to compare Strings
 
 ```java
 String  hello1 = "Hello";
@@ -32,5 +33,24 @@ System.out.println(word1.equalsIgnoreCase(word2));
 🧪 Try the code out~!
 </summary>
 <iframe src="https://trinket.io/embed/java/4019da27be" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+## Using compareTo() to compare Strings:
+
+```java
+String s1 = "hello";
+String s2 = "hello";
+String s3 = "apple";
+String s4 = "nation";
+System.out.println(s1.compareTo(s2)); //0 because both are equal 
+System.out.println(s1.compareTo(s3)); //7 because "h" is 7 times greater than "a" 
+System.out.println(s1.compareTo(s4)); //-6 because "h" is 6 times lower than "n" 
+```
+<details>
+<summary>
+🧪 Try the code out~!
+</summary>
+<iframe src="https://trinket.io/embed/java/64ae7116e1" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
