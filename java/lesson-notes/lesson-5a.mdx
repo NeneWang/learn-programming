@@ -1,0 +1,58 @@
+---
+title: Lesson 5A
+---
+
+import RadioListAns from "@site/src/components/RadioListAns.js";
+
+[👀](https://learn2codelive.com/courses/107/pages/lesson-5-learning-activities-h-entry-ticket?module_item_id=9147)
+
+## Introduce Random Numbers in a Java Program
+
+```java
+import java.util.Scanner;
+import java.util.Random;
+class Main {
+   public static void main(String args[]) {
+       Scanner scan = new Scanner(System.in);
+       Random rand = new Random(); //creates object of class Random which is used to generate random number
+       System.out.println("This is a simulation of a coin toss.");
+       System.out.println("Tossing coin now...\n");
+       int randomNum = rand.nextInt(2); //generates random numbers 0 & 1
+       if (randomNum == 0) {
+           System.out.println("HEADS...\n");
+       } else {
+           System.out.println("TAILS...\n");
+       }
+   }
+}
+```
+
+(i)  Does the user provide any input here?  
+<RadioListAns checkList={["Yes", "No"]} answer={2} >
+</RadioListAns>
+
+(ii)  What are the possible outputs? 
+<RadioListAns checkList={["Heads or Tails", "1 and 2's", "Yes and No's"]} answer={1} >
+</RadioListAns>
+
+(iii) Which line of code requires that the random module be imported? 
+
+<RadioListAns checkList={["Scanner scan = new Scanner(System.in);", "Random rand = new Random()"]} answer={2} >
+    </RadioListAns>
+
+(iv) What are the values stored by randomNum ? 
+
+<RadioListAns checkList={["0 and 1 only", "2 and 3"]} answer={1}>
+</RadioListAns>
+
+(v) What module is required  to generate random numbers?
+
+<RadioListAns checkList={["import java.util.Scanner", "import java.util.Random"]} answer={2}>
+</RadioListAns>
+
+
+
+
+
+
+
