@@ -51,6 +51,55 @@ class Main {
 </RadioListAns>
 
 
+## Introduce Random Module - Formatting
+
+```java
+import java.math.RoundingMode; 
+import java.text.DecimalFormat;
+class Main {
+ public static void main(String[] args) {
+   for(int count = 0; count< 5; count++){
+     System.out.println(Math.random());
+   }
+  }
+}
+```
+
+<details>
+<summary>
+🧪 Try the code out~!
+</summary>
+<iframe src="https://trinket.io/embed/java/bc83753fab" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+## Formatting Random
+
+```java
+import java.math.RoundingMode;
+import java.text.DecimalFormat;
+class Main {
+public static void main(String[] args) {
+    DecimalFormat df = new DecimalFormat("0.00");
+    for(int count = 0; count< 5; count++){
+    double d=Math.random();
+    System.out.println(df.format(d)); 
+  }
+ }
+}
+
+```
+
+
+<details>
+<summary>
+🧪 Try the code out~!
+</summary>
+<iframe src="https://trinket.io/embed/java/995aaa1f9c" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</details>
+
+
 
 
 
