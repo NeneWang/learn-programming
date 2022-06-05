@@ -63,11 +63,39 @@ Possible random values in this range are: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
 
 ### Uniform
 
+[👀](https://learn2codelive.com/courses/4/pages/lesson-5-learning-activities-e1-introduce-random-module?module_item_id=2388)
+
 ```python
 import random
 
 print(random.uniform(10, 20))
 ```
+
+<iframe src="https://trinket.io/embed/python/c828ea9f12" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+## Dice
+
+```python
+
+import random
+
+import time
+
+print('This program simulates the throw of a dice')
+
+print('Throwing the dice now...\n')
+
+time.sleep(1)
+
+face = random.randrange(1,7) # generate a random number in the range 1 to 6
+
+print("You got a " + str(face))
+```
+
+<iframe src="https://trinket.io/embed/python/33663c3611" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
 
 
 
