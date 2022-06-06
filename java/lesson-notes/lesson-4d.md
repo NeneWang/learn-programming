@@ -64,6 +64,33 @@ System.out.println(s1.compareTo(s4)); //-6 because "h" is 6 times lower than "n"
 
 :::tip Exercise
 
+- Modify this program so that it compares and orders two words lexicographically.
+
+```java
+import java.util.Scanner;
+
+class Main{
+public static void main (String args[]){
+   Scanner scan=new Scanner(System.in);
+   System.out.print("\n Enter the first word : ");
+   String word1=scan.nextLine();
+   System.out.print("\n Enter the second word : ");
+   String word2=scan.nextLine();
+   
+   if(true){
+      System.out.println(word1 + " and " + word2 + " are lexicographically same");
+   }else if(true){
+      System.out.println(word1 + " ," + word2);
+   }else{
+      System.out.println(word2 + ", " + word1);
+   }
+ }
+}
+```
+
+***
+
+🙋‍♀️ Sample Program
 
 <iframe src="https://trinket.io/embed/java/4faadfc62a?outputOnly=true" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
