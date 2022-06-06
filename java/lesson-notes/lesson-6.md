@@ -5,6 +5,21 @@ title: Chapter 6 - For Loops
 
 ## Introducing For Loops
 
+```java
+
+import java.util.*;
+class Main {
+  public static void main(String[] args) {
+    for(int i = 1; i<=5; i++){
+      System.out.println(i);
+    }
+    
+  }
+}
+
+```
+
+
 
 [👀](https://learn2codelive.com/courses/107/pages/lesson-6-learning-activities-e1-introduce-for-loop-in-python?module_item_id=9181)
 
