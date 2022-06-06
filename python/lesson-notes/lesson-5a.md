@@ -118,7 +118,17 @@ print("You got a " + str(face))
 
 <iframe src="https://trinket.io/embed/python/33663c3611" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+:::tip Practice: create a dice of 20
 
+![](2022-06-06-11-09-15.png)
+
+
+
+
+:::
+
+
+<!-- 
 ## Librarian
 
 ```python
@@ -157,4 +167,4 @@ if rand == 5:
 
 
 
-
+ -->
