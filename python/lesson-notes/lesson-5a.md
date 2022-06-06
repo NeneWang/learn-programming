@@ -84,7 +84,7 @@ else:
 
 :::
 
-### Uniform
+## Uniform
 
 [👀](https://learn2codelive.com/courses/4/pages/lesson-5-learning-activities-e1-introduce-random-module?module_item_id=2388)
 
@@ -117,6 +117,9 @@ print("You got a " + str(face))
 ```
 
 <iframe src="https://trinket.io/embed/python/33663c3611" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+### Exercise
 
 :::tip Practice: create a dice of 20
 
