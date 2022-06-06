@@ -1,6 +1,15 @@
 ---
-title: Lesson 6
+title: Chapter 6 - For Loops
 ---
+
+
+## Introducing For Loops
+
+
+[👀](https://learn2codelive.com/courses/107/pages/lesson-6-learning-activities-e1-introduce-for-loop-in-python?module_item_id=9181)
+
+
+## Placing Tables
 
 ```java
 import java.util.*;
