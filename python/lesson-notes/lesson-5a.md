@@ -96,7 +96,38 @@ print("You got a " + str(face))
 <iframe src="https://trinket.io/embed/python/33663c3611" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
+## Librarian
 
+```python
+
+import random
+
+print("Welcome! I am a virtual librarian!\n")
+fav_book = int(input("What is your favorite book? "))
+print()
+
+book1 =("Harry Potter")
+book2 =("Diary of a whimpy kid")
+book3 =("Matilda")
+book4 =("Fish in a tree")
+book5 =("Bridge to Terabithia")
+
+
+rand = random.randrange(1,6)
+if rand == 1:
+  print("If you like " + str(fav_book) + " then your should like " + book1 + ".")
+if rand == 2:
+  print("If you like " + str(fav_book) + " then your should like " + book2 + ".")
+if rand == 3:
+  print("If you like " + str(fav_book) + " then your should like " + book3 + ".")
+if rand == 4:
+  print("If you like " + str(fav_book) + " then your should like " + book4 + ".")
+if rand == 5:
+  print("If you like " + str(fav_book) + " then your should like " + book4 + ".")
+  print("Your book choice is amazing!")
+```
+
+<iframe src="https://trinket.io/embed/python/a9615facc8" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
 
