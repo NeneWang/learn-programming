@@ -58,3 +58,14 @@ System.out.println(s1.compareTo(s4)); //-6 because "h" is 6 times lower than "n"
 
 
 [👀 TODO: Trvia](https://learn2codelive.com/courses/107/pages/lesson-4-learning-activities-e2-assessment-quiz?module_item_id=9128)
+
+
+## Exercise
+
+:::tip Exercise
+
+
+<iframe src="https://trinket.io/embed/java/4faadfc62a?outputOnly=true" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+:::
+
