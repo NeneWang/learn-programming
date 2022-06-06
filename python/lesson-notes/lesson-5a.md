@@ -5,6 +5,8 @@ title: Lesson 5a - Random
 
 ## Guessing game
 
+- Don't worry about understanding this code yet, is just a demo of what we are going to learn today
+
 <iframe src="https://trinket.io/embed/python/fc6294c369" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ## Tossing a Coin
@@ -60,6 +62,25 @@ print(random.randrange(10, 20))
 Possible random values in this range are: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
 
 20 is out of this range as it returns values less than that specified as the second argument.
+
+:::tip Practice
+- Change the code above so it chooses a number from 30-39
+
+:::
+
+## Exercise
+
+:::tip Exercise
+- Create a program to randomnly assign someone in either `blue` or `red` team
+
+<iframe src="https://trinket.io/embed/python3/6de60da64b" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+*** 
+🙋‍♀️ Sample program
+
+<iframe src="https://trinket.io/embed/python3/8d4d56f9c7?outputOnly=true" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+:::
 
 ### Uniform
 
