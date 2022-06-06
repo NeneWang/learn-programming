@@ -121,12 +121,14 @@ print("You got a " + str(face))
 
 ### Exercise
 
-:::tip Practice: create a dice of 20
+:::tip Practice: simulate a dice of 20 faces
 
 ![](2022-06-06-11-09-15.png)
 
+- This is the program for a dice of only number 6 (not working)
+- Fix it so it has 20 faces 1, 2, 3, 4... 20
 
-
+<iframe src="https://trinket.io/embed/python/48ed675021" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 :::
 
