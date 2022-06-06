@@ -2,8 +2,8 @@
 title: Chapter 5a - Random
 ---
 
-
-## Guessing game
+<!-- 
+## Guessing game -->
 <!-- 
 - Don't worry about understanding this code yet, is just a demo of what we are going to learn today
 
