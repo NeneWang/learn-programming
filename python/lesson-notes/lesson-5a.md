@@ -9,6 +9,30 @@ title: Chapter 5a - Random
 
 <iframe src="https://trinket.io/embed/python/fc6294c369" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+
+## Randrange
+
+[👀](https://learn2codelive.com/courses/4/pages/lesson-5-learning-activities-e1-introduce-random-module?module_item_id=2388)
+
+```python
+import random
+
+print(random.randrange(10, 20))
+```
+
+<iframe src="https://trinket.io/embed/python/3759fa57b6" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+Possible random values in this range are: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
+
+20 is out of this range as it returns values less than that specified as the second argument.
+
+:::tip Practice
+- Change the code above so it chooses a number from 30-39
+
+:::
+
+
 ## Tossing a Coin
 
 ```python
@@ -45,28 +69,6 @@ else:
 (iv) What are the values stored by toss_result? 
 
 0 and 1 only, comment line 8 helps in answering this question
-
-## Randrange
-
-[👀](https://learn2codelive.com/courses/4/pages/lesson-5-learning-activities-e1-introduce-random-module?module_item_id=2388)
-
-```python
-import random
-
-print(random.randrange(10, 20))
-```
-
-<iframe src="https://trinket.io/embed/python/3759fa57b6" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-
-Possible random values in this range are: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
-
-20 is out of this range as it returns values less than that specified as the second argument.
-
-:::tip Practice
-- Change the code above so it chooses a number from 30-39
-
-:::
 
 ## Exercise
 
