@@ -1,5 +1,5 @@
 ---
-title: Lesson 5A
+title: Chapter 5a - Random
 ---
 
 import RadioListAns from "@site/src/components/RadioListAns.js";
@@ -98,6 +98,31 @@ public static void main(String[] args) {
 <iframe src="https://trinket.io/embed/java/995aaa1f9c" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 </details>
+
+## Exercise
+
+```java
+import java.util.Scanner;
+
+class Main{
+ public static void main (String args[]){
+   Scanner scan=new Scanner(System.in);
+   System.out.print("\n Enter the first word : ");
+   String word1=scan.nextLine();
+   System.out.print("\n Enter the second word : ");
+   String word2=scan.nextLine();
+   if(word1.compareTo(word2)==0){
+      System.out.println(word1 + " and " + word2 + " are lexicographically same");
+   }else if(word1.compareTo(word2)<0){
+      System.out.println(word1 + " ," + word2);
+   }else{
+      System.out.println(word2 + ", " + word1);
+   }
+ }
+}
+
+```
+
 
 
 
