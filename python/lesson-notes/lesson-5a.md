@@ -4,11 +4,11 @@ title: Chapter 5a - Random
 
 
 ## Guessing game
-
+<!-- 
 - Don't worry about understanding this code yet, is just a demo of what we are going to learn today
 
 <iframe src="https://trinket.io/embed/python/fc6294c369" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
+ -->
 
 ## Randrange
 
