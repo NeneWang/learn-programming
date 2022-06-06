@@ -19,6 +19,8 @@ class Main {
 
 ```
 
+<iframe src="https://trinket.io/embed/java/4827fcc3f6" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 
 
 [👀](https://learn2codelive.com/courses/107/pages/lesson-6-learning-activities-e1-introduce-for-loop-in-python?module_item_id=9181)
