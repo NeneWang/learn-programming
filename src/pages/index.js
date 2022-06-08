@@ -6,8 +6,8 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
-const currentClass = "python"
-const currentLecture = "4a"
+const currentClass = "java"
+const currentLecture = "6a"
 
 function getTitle(lessonClass, lessonNumber) {
   return `Go to ${lessonClass}'s Lecture ${lessonNumber.toUpperCase()}!`
