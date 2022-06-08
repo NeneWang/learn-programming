@@ -10,14 +10,25 @@ The BooleanExpression is tested, and if it is true, the Statement is executed. T
 
 :::
 
+### While Loop
+
 
 ```java
-while (BooleanExpression)
-{
-    System.out.println("Hello");
-    number++;
+import java.util.*;
+class Main {
+  public static void main(String[] args) {
+    int number = 0;
+    while (number<5)
+    {
+        System.out.println("Hello");
+        number++;
+    }
+    
+  }
 }
 ```
+
+![](../../static/img/2022-06-07-22-54-23.png)
 
 
 
