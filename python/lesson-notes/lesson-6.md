@@ -1,5 +1,5 @@
 ---
-title: Chapter 6
+title: Chapter 6 - For Loops
 ---
 
 
