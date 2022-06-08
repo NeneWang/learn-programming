@@ -1,6 +1,8 @@
 ---
-title: Chapter 6 - For Loops
+title: Chapter 6a - While Loops
 ---
+
+
 
 
 
