@@ -46,11 +46,21 @@ class Main {
 ### Practice
 
 ```java
-int count = 10;
-while (count < 1)
-{
-    System.out.println("Hello World");
-    count++;
+
+
+
+import java.util.Random;
+class Main {
+   public static void main(String args[]) {
+       
+       int count = 10;
+        while (count >= 1)
+        {
+            System.out.println("Hello World");
+            System.out.println(count);
+            count--;
+        }
+   }
 }
 ```
 
@@ -58,7 +68,7 @@ How many times will that code print `Hello World`?
 
 import RadioListAns from "@site/src/components/RadioListAns.js";
 
-<RadioListAns checkList={["5 times", "10 times"]} answer={2}></RadioListAns>
+<RadioListAns checkList={["5 times", "10 times", "9 times"]} answer={2}></RadioListAns>
 
 
 ### Exercise: Throwing random numbers
