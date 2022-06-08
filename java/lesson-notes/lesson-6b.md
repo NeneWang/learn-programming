@@ -5,12 +5,18 @@ title: Chapter 6b - For Loops
 
 ## Introducing For Loops
 
+:::note
+![](https://qph.cf2.quoracdn.net/main-qimg-57de0b301da5ce4c0dd813bc26162c80)
+
+Animation extracted from [Quora](https://www.quora.com/How-do-I-use-a-for-loop-in-Java)
+:::
+
 ```java
 
 import java.util.*;
 class Main {
   public static void main(String[] args) {
-    for(int i = 1; i<=5; i++){
+    for(int i = 1; i<3; i++){
       System.out.println(i);
     }
     
