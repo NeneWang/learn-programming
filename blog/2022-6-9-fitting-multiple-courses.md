@@ -56,6 +56,9 @@ Requirements:
 - Take at least 2 courses with me
 - 1 course must been either Java/Python
 - Machine Learning
+- Mobile App Development for IOS
+  - Requires a Mac
+- Mobile App Development for Android Studio
 
 - Project 101 - You design your own programming project and work on it. (I recommend at least taking 2 classess with me before this.)
 - Backend Development + Databases or Full Stack Development
