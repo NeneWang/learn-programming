@@ -56,6 +56,11 @@ It is free to develop games, you have to pay for exporting it (Sharing to friend
 
 :::
 
+### Subscription Comparison
+
+
+
+
 
 ## Phaser - For fast loading games (Totally Free)
 
@@ -66,6 +71,13 @@ It is free to develop games, you have to pay for exporting it (Sharing to friend
 
 :::
 
+
+## Phaser/Godot- Best for Chromebook
+
+[Game Development on Chromebook with Godot](https://www.youtube.com/watch?v=J5z1Z3DUbNs)
+
+
+While the case for Phaser is that it just needs a linux terminal + a programming field and that should be enough since it just needs a browser for loading it.
 
 
 
