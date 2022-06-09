@@ -22,7 +22,7 @@ Usually my "lecture" takes around 5 minutes. The rest of the class is left for s
 - Python basics
 - UX Design 
 - 3D Modeling and Printing.
-- Dungeon and Dragons.
+- Dungeon and Dragons with Python.
 - Art for Videogames: Pixel Art + Animations
 - Mobile App Dev MIT App Inventor
 - Java
@@ -42,7 +42,7 @@ Requirements:
 - Hacking 101
 - Competitive Programming
 - Cracking your code Interview
-- Game Development using Unity
+- Game Development using Unity (Fairly Hard)
 
 
 ### Advanced
@@ -50,6 +50,7 @@ Requirements:
 Requirements: 
 - Take at least 2 courses with me
 - 1 course must been either Java/Python
+- Machine Learning
 
 - Project 101 - You design your own programming project and work on it. (I recommend at least taking 2 classess with me before this.)
 - Backend Development + Databases or Full Stack Development
