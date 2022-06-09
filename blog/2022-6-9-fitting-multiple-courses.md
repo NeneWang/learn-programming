@@ -32,9 +32,10 @@ Usually my "lecture" takes around 5 minutes. The rest of the class is left for s
 ### After Python
 
 - Python for Automation
-- Hardware, 3D design and printing and Robotics
+- Hardware and Robotics
 - Data Science & Artificial Intelligence 
 - Hacking 101
+- Project 101
 
 
 
