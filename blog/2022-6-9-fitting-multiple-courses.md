@@ -29,6 +29,7 @@ Usually my "lecture" takes around 5 minutes. The rest of the class is left for s
 - Web Development (Front-end)
 - Crafts 101
 - Javascript
+- Ethics, Commuinication and Project Managament for engineers
 
 ### After the first programming Language
 
