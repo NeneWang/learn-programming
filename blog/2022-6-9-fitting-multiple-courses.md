@@ -36,6 +36,11 @@ Usually my "lecture" takes around 5 minutes. The rest of the class is left for s
 - Data Science & Artificial Intelligence 
 - Hacking 101
 - Project 101
+- Competitive Programming
+- Cracking your code Interview
+
+
+
 
 
 
