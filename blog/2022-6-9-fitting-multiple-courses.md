@@ -34,18 +34,25 @@ Usually my "lecture" takes around 5 minutes. The rest of the class is left for s
 
 Requirements:
 - Needs a Windows/Mac Laptop
-- Have learn Python or Java first/
-
-
+- Have learn Python or Java first
 - Python for boring stuff Automation
 - Python Advanced
 - Hardware and Robotics
 - Data Science & Artificial Intelligence 
 - Hacking 101
-- Project 101 - You design your own programming project and work on it. (I recommend at least taking 2 classess with me before this.)
 - Competitive Programming
 - Cracking your code Interview
 - Game Development using Unity
+
+
+### Advanced
+
+Requirements: 
+- Take at least 2 courses with me
+- 1 course must been either Java/Python
+
+- Project 101 - You design your own programming project and work on it. (I recommend at least taking 2 classess with me before this.)
+- Backend Development + Databases or Full Stack Development
 
 
 
