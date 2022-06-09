@@ -17,17 +17,26 @@ Usually my "lecture" takes around 5 minutes. The rest of the class is left for s
 
 ## What to learn?
 
-Here a list:
-- Web Development
+### Intro
+
+- Python basics
+- UX Design 
+- 3D Modeling and Printing.
+- Dungeon and Dragons.
+- Art for Videogames: Pixel Art + Animations
+- Mobile App Dev MIT App Inventor
+- Java
+
+### After Python
+
+- Python for Automation
+- Web Development (Front-end)
 - Game Development
 - Hardware, 3D design and printing and Robotics
-- Mobile App Dev 
 - Data Science & Artificial Intelligence 
-- UX Design 
-- 3D Modeling for videogames
-- Art for Videogames: Pixel Art + Animations
-- Dungeon and Dragons.
 - Hacking 101
+
+
 
 
 
