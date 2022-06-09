@@ -1,5 +1,5 @@
 ---
-title: Chapter 9a
+title: Chapter 9a - Methods
 
 ---
 
