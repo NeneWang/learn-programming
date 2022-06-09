@@ -26,12 +26,12 @@ Usually my "lecture" takes around 5 minutes. The rest of the class is left for s
 - Art for Videogames: Pixel Art + Animations
 - Mobile App Dev MIT App Inventor
 - Java
+- Game Development using GameStudio 2
+- Web Development (Front-end)
 
 ### After Python
 
 - Python for Automation
-- Web Development (Front-end)
-- Game Development
 - Hardware, 3D design and printing and Robotics
 - Data Science & Artificial Intelligence 
 - Hacking 101
