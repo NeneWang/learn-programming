@@ -1,5 +1,5 @@
 ---
-title: Game Dev - an Introduction
+title: Game Dev - A plan
 ---
 
 :::note Start
@@ -52,7 +52,7 @@ It is free to develop games, you have to pay for exporting it (Sharing to friend
 
 **Showcase**
 
-<iframe width="1778" height="1000" src="https://www.youtube.com/embed/FCJn91Cc7GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="1000" src="https://www.youtube.com/embed/FCJn91Cc7GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
 
 :::
 
@@ -78,6 +78,33 @@ It is free to develop games, you have to pay for exporting it (Sharing to friend
 
 
 While the case for Phaser is that it just needs a linux terminal + a programming field and that should be enough since it just needs a browser for loading it.
+
+**Showcase**
+
+<iframe width="100%" height="528" src="https://www.youtube.com/embed/R4e-u1i3Nt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
+
+
+## Unity - Best for Serious Game Dev
+
+<iframe width="100%" height="528" src="https://www.youtube.com/embed/na7EMenl2lY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
+
+:::note Reasons
+**Pros**
+- Allows 3D/2D
+- Crossplatform Compatible
+- Reasonable Difficulty
+- Online Multiplayer
+
+**Cons**
+- Loading Speed
+
+:::
+
+## Study Plan
+
+
+
+
 
 
 
