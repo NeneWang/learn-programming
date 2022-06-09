@@ -32,6 +32,11 @@ Usually my "lecture" takes around 5 minutes. The rest of the class is left for s
 
 ### After the first programming Language
 
+Requirements:
+- Needs a Windows/Mac Laptop
+- Have learn Python or Java first/
+
+
 - Python for boring stuff Automation
 - Python Advanced
 - Hardware and Robotics
