@@ -20,9 +20,13 @@ Usually my "lecture" takes around 5 minutes. The rest of the class is left for s
 Here a list:
 - Web Development
 - Game Development
-- Hardware and Robotics
+- Hardware, 3D design and printing and Robotics
 - Mobile App Dev
-- Data Science & Artificial Intelligence
+- Data Science & Artificial Intelligence 
+- UX Design 
+- 3D Modeling for videogames
+- Art for Videogames: Pixel Art + Animations
+- Dungeon and Dragons.
 
 
 
