@@ -22,19 +22,23 @@ Usually my "lecture" takes around 5 minutes. The rest of the class is left for s
 - Python basics
 - UX Design 
 - 3D Modeling and Printing.
-- Dungeon and Dragons with Python.
 - Art for Videogames: Pixel Art + Animations
 - Mobile App Dev MIT App Inventor
 - Java
 - Game Development using GameStudio 2
 - Web Development (Front-end)
 - Crafts 101
+- Javascript
 
 ### After the first programming Language
 
 Requirements:
 - Needs a Windows/Mac Laptop
 - Have learn Python or Java first
+
+
+
+- Dungeon and Dragons + Python.
 - Python for boring stuff Automation
 - Python Advanced
 - Hardware and Robotics
@@ -54,6 +58,7 @@ Requirements:
 
 - Project 101 - You design your own programming project and work on it. (I recommend at least taking 2 classess with me before this.)
 - Backend Development + Databases or Full Stack Development
+- Advanced Front-end (RactJS)
 
 
 
