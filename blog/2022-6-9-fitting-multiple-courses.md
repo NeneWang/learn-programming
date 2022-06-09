@@ -21,12 +21,13 @@ Here a list:
 - Web Development
 - Game Development
 - Hardware, 3D design and printing and Robotics
-- Mobile App Dev
+- Mobile App Dev 
 - Data Science & Artificial Intelligence 
 - UX Design 
 - 3D Modeling for videogames
 - Art for Videogames: Pixel Art + Animations
 - Dungeon and Dragons.
+- Hacking 101
 
 
 
