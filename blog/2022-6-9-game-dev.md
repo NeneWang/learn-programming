@@ -14,7 +14,7 @@ I am planning to start hte game dev. But my major question is what game engine?
 | Metric               | Phaser | Unity | Gamemaker Studio 2 | Godot | Unreal Engine |
 | -------------------- | ------ | ----- | ------------------ | ----- | ------------- |
 | Learning Difficulty  | 6      | 7     | 2                  | 4     | 10            |
-| Mobile Platform      | 3      | 9     | ?                  | ?     | 8             |
+| Mobile Platform      | 3      | 9     | 9                  | ?     | 8             |
 | Web Platform         | 10     | 8     | 8                  | 8     | 3             |
 | Scalability          | 2      | 9     | 4                  | 6     | 10            |
 | Cheap                | 10     | 8     | 1                  | 10    | 5             |
@@ -38,11 +38,21 @@ It is free to develop games, you have to pay for exporting it (Sharing to friend
 
 ![](../static/img/2022-06-09-14-50-56.png)
 
+**However**
+- As an instructor I can buy and export the games for you and just send you the files or publish them for you
+- Of course I will not take any credits/profit form your game
+
 :::
 
 :::note Why GameMaker Studio 2
 
+- Easy to learn
+- Decent Scalability
+- Compatibility with all type of platforms: Web browsers, Mobile Applications, 
 
+**Showcase**
+
+<iframe width="1778" height="1000" src="https://www.youtube.com/embed/FCJn91Cc7GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 :::
 
