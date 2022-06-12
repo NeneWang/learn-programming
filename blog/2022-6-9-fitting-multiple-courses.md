@@ -30,6 +30,7 @@ Usually my "lecture" takes around 5 minutes. The rest of the class is left for s
 - Crafts 101
 - Javascript
 - Ethics, Commuinication and Project Managament for engineers
+- Relational Databases
 
 ### After the first programming Language
 
@@ -72,7 +73,9 @@ Requirements:
 
 
 
+![](../static/img/2022-06-09-19-58-04.png)
+![](../static/img/2022-06-09-20-02-08.png)
 
 
-
+![](../static/img/2022-06-09-20-02-21.png)
 
