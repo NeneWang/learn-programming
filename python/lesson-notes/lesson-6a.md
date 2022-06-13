@@ -54,6 +54,9 @@ Please solve it here:
 
 ## Placing Napkins
 
+- The following program asks the amount of plates to place.
+- The for each plate it places the plate and the napkin and adds the table count.
+
 <iframe src="https://trinket.io/embed/python/d197c51695" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
