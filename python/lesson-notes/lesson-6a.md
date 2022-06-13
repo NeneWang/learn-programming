@@ -60,6 +60,14 @@ Please solve it here:
   - the napkin.
   - Tells the the number of the table set.
 
+
+For example for the first table it would print.
+```
+Plate placed
+Napkin placed
+Table has been set for 1
+```
+
 <iframe src="https://trinket.io/embed/python/d197c51695" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
