@@ -70,6 +70,26 @@ Table has been set for 1
 
 <iframe src="https://trinket.io/embed/python/d197c51695" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+:::tip
+
+Modify the program so that It adds:
+- Silverware placed
+
+```
+Plate placed
+Napkin placed
+Table has been set for 1
+```
+
+```
+Plate placed
+Silverware placed
+Napkin placed
+Glass of water placed
+Table has been set for 2
+```
+
+:::
 
 ## Example: Spiral 
 
