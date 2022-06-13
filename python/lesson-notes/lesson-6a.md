@@ -36,8 +36,18 @@ for i in range(2,12,3):
 :::tip Exercise
 
 - Create a program that prints the following using for loops:
+- The program prints Hello {n} and the iteration number in {n}
+- It itarates 5 times
+- Note how it starts from 1 instead of `0`
+
+
 <iframe src="https://trinket.io/embed/python/9f5e513395?outputOnly=true" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+***
+
+Please solve it here:
+
+<iframe src="https://trinket.io/embed/python/25f70a73bb" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 :::
 
