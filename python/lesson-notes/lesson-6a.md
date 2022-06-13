@@ -72,8 +72,10 @@ Table has been set for 1
 
 :::tip
 
-Modify the program so that It adds:
-- Silverware placed
+Modify the program so that It also adds:
+- Silverware preparations
+- Glass of water preparations
+for each table.
 
 ```
 Plate placed
@@ -86,7 +88,7 @@ Plate placed
 Silverware placed
 Napkin placed
 Glass of water placed
-Table has been set for 2
+Table has been set for 1
 ```
 
 :::
