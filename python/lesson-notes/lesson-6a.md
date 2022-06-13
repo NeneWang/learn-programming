@@ -77,11 +77,15 @@ Modify the program so that It also adds:
 - Glass of water preparations
 for each table.
 
+So instead of just doing the following for the first table:
+
 ```
 Plate placed
 Napkin placed
 Table has been set for 1
 ```
+
+It should be doing this:
 
 ```
 Plate placed
@@ -90,6 +94,13 @@ Napkin placed
 Glass of water placed
 Table has been set for 1
 ```
+
+***
+<iframe src="https://trinket.io/embed/python/03601bf3a2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+***
+🙋‍♀️ Expected Output
+
+<iframe src="https://trinket.io/embed/python/bc9804cd1f?outputOnly=true" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 :::
 
