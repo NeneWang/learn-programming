@@ -22,9 +22,16 @@ The plan is:
 - Robotics 101: Building a Sumo Robot
 - Projects to create: (Unordered) [^11-easy]
   - Remote Controlled Robot
-  - Temperature Sound Checker
-  - Class Silencer
-  - Digital Pet
+  - Temperature Sound Checker + Android App
+  - Class Silencer - Sensor + Android App to manually Silence the class
+  - Digital Pet - Tamaguchi
+  - Buzzwire Game [?](https://www.makeuseof.com/tag/10-great-arduino-projects-for-beginners/)
+  - Smart Lock
+  - Simple Alarm System
+  - Pong Game
+- Advanced
+  - Hand Robot
+  - 
 
 [^11-easy]:[11-easy Easy projects](https://www.makeuseof.com/easy-and-exciting-arduino-projects-to-keep-your-kids-busy/)
 
