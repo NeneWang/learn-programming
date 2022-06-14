@@ -106,6 +106,11 @@ const config = {
           position: 'left'
         },
         {
+          to: '/misc/intro',
+          label: 'Misc',
+          position: 'left'
+        },
+        {
           to: '/blog',
           label: 'Blog',
           position: 'left'
