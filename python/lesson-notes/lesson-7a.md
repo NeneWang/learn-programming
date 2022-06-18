@@ -74,13 +74,14 @@ while (programFinished == "yes"):
 :::tip Practice
 
 - Create a program that prints your name **in two lines** until you type `n`
+- Use the following Canvas
 
 <iframe src="https://trinket.io/embed/python/e653f4fffe" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
 ***
 
-🙋‍♀️ Correct Output
+🙋‍♀️ Example of an the expected Program
 
 <iframe src="https://trinket.io/embed/python/992f77470b?outputOnly=true&start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
