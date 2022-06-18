@@ -15,7 +15,19 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'NeneWang',
   projectName: 'Learn-programming',
-
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'es'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+      },
+      // You can omit a locale (e.g. fr) if you don't need to override the defaults
+      fa: {
+        direction: 'rtl',
+      },
+    },
+  },
   presets: [
     [
       'classic',
@@ -106,6 +118,11 @@ const config = {
           position: 'left'
         },
         {
+          to: '/misc/intro',
+          label: 'Misc',
+          position: 'left'
+        },
+        {
           to: '/blog',
           label: 'Blog',
           position: 'left'
@@ -117,14 +134,18 @@ const config = {
         // },
         {
           href: 'https://docs.google.com/forms/d/e/1FAIpQLSclM-biiVICBNWiJFPpZC0vTmzIanA3GUtglgMRc9R2ZZwqwQ/viewform?usp=sf_link',
-          label: 'Submit an assigment',
+          label: 'Submit HW',
           position: 'right',
         },
         {
           href: 'https://classroom.google.com/c/NTE0NDI2MDM3OTM0?cjc=esrupso',
-          label: 'Join Google Classroom',
+          label: 'Google Class',
           position: 'right'
-        }
+        },
+        // {
+        //   type: 'localeDropdown',
+        //   position: 'right',
+        // },
         ],
       },
       footer: {
