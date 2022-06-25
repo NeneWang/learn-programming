@@ -58,7 +58,7 @@ Joe is as old as Tom: True
 
 ![](../../static/img/2022-05-16-05-40-24.png)
 
-![](../../static/img/2022-05-16-05-50-32.png)
+![](../../static/img/2022-06-25-19-54-50.png)
 
 <iframe src="https://trinket.io/embed/python/6b8543838f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
