@@ -101,31 +101,47 @@ const config = {
           alt: 'Learn Programming',
           src: 'img/logo.svg',
         },
-        items: [{
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'About',
-        },
-        {
+
+        items: [
+          {
           to: '/python/lesson-notes',
           label: 'Python',
           position: 'left'
         },
         {
-          to: '/java/lesson-notes',
-          label: 'Java',
-          position: 'left'
+          type: 'dropdown',
+          label: 'Programming',
+          position: 'left',
+          items: [
+
+            {
+              to: '/python/lesson-notes',
+              label: 'Python',
+            },
+            {
+              to: '/java/lesson-notes',
+              label: 'Java',
+            },
+          ]
         },
         {
-          to: '/misc/intro',
-          label: 'Misc',
-          position: 'left'
-        },
-        {
-          to: '/blog',
-          label: 'Blog',
-          position: 'left'
+          type: 'dropdown',
+          label: 'Others',
+          position: 'left',
+          items: [
+            {
+              to: '/misc/intro',
+              label: 'Misc'
+            },
+            {
+              to: '/blog',
+              label: 'Blog'
+            }, {
+              type: 'doc',
+              docId: 'intro',
+              label: 'About',
+            },
+          ]
         },
         // {
         //   href: 'https://discord.gg/pGaJqmbJSm',
@@ -142,10 +158,10 @@ const config = {
           label: 'Google Class',
           position: 'right'
         },
-        // {
-        //   type: 'localeDropdown',
-        //   position: 'right',
-        // },
+          // {
+          //   type: 'localeDropdown',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
