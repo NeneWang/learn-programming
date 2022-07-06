@@ -87,6 +87,42 @@ const config = {
         routeBasePath: 'misc',
         sidebarPath: require.resolve('./sidebars.js'),
       },
+    ], 
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'web-design',
+        path: 'web-design',
+        routeBasePath: 'web-design',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'scratch',
+        path: 'scratch',
+        routeBasePath: 'scratch',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'scratch-jr',
+        path: 'scratch-jr',
+        routeBasePath: 'scratch-jr',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ], 
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'javascript',
+        path: 'javascript',
+        routeBasePath: 'javascript',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
     ],
     "plugin-image-zoom"
 
@@ -104,60 +140,60 @@ const config = {
 
         items: [
           {
-          to: '/python/lesson-notes',
-          label: 'Python',
-          position: 'left'
-        },
-        {
-          type: 'dropdown',
-          label: 'Programming',
-          position: 'left',
-          items: [
+            to: '/python/lesson-notes',
+            label: 'Python',
+            position: 'left'
+          },
+          {
+            type: 'dropdown',
+            label: 'Programming',
+            position: 'left',
+            items: [
 
-            {
-              to: '/python/lesson-notes',
-              label: 'Python',
-            },
-            {
-              to: '/java/lesson-notes',
-              label: 'Java',
-            },
-          ]
-        },
-        {
-          type: 'dropdown',
-          label: 'Others',
-          position: 'left',
-          items: [
-            {
-              to: '/misc/intro',
-              label: 'Misc'
-            },
-            {
-              to: '/blog',
-              label: 'Blog'
-            }, {
-              type: 'doc',
-              docId: 'intro',
-              label: 'About',
-            },
-          ]
-        },
-        // {
-        //   href: 'https://discord.gg/pGaJqmbJSm',
-        //   label: 'Discord',
-        //   position: 'right',
-        // },
-        {
-          href: 'https://docs.google.com/forms/d/e/1FAIpQLSclM-biiVICBNWiJFPpZC0vTmzIanA3GUtglgMRc9R2ZZwqwQ/viewform?usp=sf_link',
-          label: 'Submit HW',
-          position: 'right',
-        },
-        {
-          href: 'https://classroom.google.com/c/NTE0NDI2MDM3OTM0?cjc=esrupso',
-          label: 'Google Class',
-          position: 'right'
-        },
+              {
+                to: '/python/lesson-notes',
+                label: 'Python',
+              },
+              {
+                to: '/java/lesson-notes',
+                label: 'Java',
+              },
+            ]
+          },
+          {
+            type: 'dropdown',
+            label: 'Others',
+            position: 'left',
+            items: [
+              {
+                to: '/misc/intro',
+                label: 'Misc'
+              },
+              {
+                to: '/blog',
+                label: 'Blog'
+              }, {
+                type: 'doc',
+                docId: 'intro',
+                label: 'About',
+              },
+            ]
+          },
+          // {
+          //   href: 'https://discord.gg/pGaJqmbJSm',
+          //   label: 'Discord',
+          //   position: 'right',
+          // },
+          {
+            href: 'https://docs.google.com/forms/d/e/1FAIpQLSclM-biiVICBNWiJFPpZC0vTmzIanA3GUtglgMRc9R2ZZwqwQ/viewform?usp=sf_link',
+            label: 'Submit HW',
+            position: 'right',
+          },
+          {
+            href: 'https://classroom.google.com/c/NTE0NDI2MDM3OTM0?cjc=esrupso',
+            label: 'Google Class',
+            position: 'right'
+          },
           // {
           //   type: 'localeDropdown',
           //   position: 'right',
