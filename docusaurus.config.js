@@ -118,6 +118,15 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
+        id: 'lego',
+        path: 'lego',
+        routeBasePath: 'lego',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
         id: 'javascript',
         path: 'javascript',
         routeBasePath: 'javascript',
@@ -141,7 +150,7 @@ const config = {
         items: [
           {
             type: 'dropdown',
-            label: 'Learning',
+            label: 'Technology',
             position: 'left',
             items: [
               {
@@ -155,6 +164,10 @@ const config = {
               {
                 to: '/scratch-jr/intro',
                 label: 'Scratch Jr',
+              },
+              {
+                to: '/lego/intro',
+                label: 'Lego Mindstorm',
               },
             ]
           },
