@@ -1,5 +1,5 @@
 ---
-title: Project 1 a
+title: P1 L1 My First Animation
 ---
 
 
@@ -11,6 +11,8 @@ We are going to play a game together! Look at the image of the board. What do yo
 ![](../static/img/2022-07-06-01-48-37.png)
 
 Can you identify the following squares? Describe each square as you identify it. 
+
+https://jfo8000.github.io/ScratchJr-Desktop/
 
 1. The top left square: Orange with a smiley
 
@@ -69,7 +71,7 @@ Smile-E the robot is trapped in the board and needs your help! You need to give 
 
 ### Homework
 
-:::tip Make people move
+:::tip Moving the Character Around
 
 ![](../static/img/2022-07-06-02-15-14.png)
 
@@ -81,5 +83,7 @@ Tic should start at the center of the stage (area with the blue square). Tic sho
 4. Green
 
 :::
+
+
 
 
