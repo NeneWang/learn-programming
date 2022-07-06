@@ -38,6 +38,13 @@ Smile-E the robot is trapped in the board and needs your help! You need to give 
 
 ### The directions game: Rounds
 
+
+<details>
+<summary>
+📝 Professor Notes
+</summary>
+
+
 1. Ask for volunteers for the first round. Have them draw instructions to move one square to the right, one square to the left, one square to the bottom, and one square to the top such that they return to the starting square.
 2. Have all students participate in the second round.
 
@@ -54,6 +61,7 @@ Smile-E the robot is trapped in the board and needs your help! You need to give 
 - Students should reach the exit with a specific number of points
 - Students should avoid all points and collect all spiders 
 
+</details>
 
 
 ## The Scratch Jr. User Interface
