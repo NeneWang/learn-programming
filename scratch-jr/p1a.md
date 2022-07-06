@@ -2,6 +2,9 @@
 title: P1 L1 My First Animation
 ---
 
+[🗒](https://learn2codelive.com/courses/121/assignments/2932?module_item_id=11012)
+
+[👩‍🏫 Slides 1-2](https://docs.google.com/presentation/d/1bzi9-IQkNt-njNBER-AZSXDJJ07TXtq2/edit#slide=id.p1)
 
 ## Project 1 - My First Animation
 
