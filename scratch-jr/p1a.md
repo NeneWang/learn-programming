@@ -63,19 +63,23 @@ Smile-E the robot is trapped in the board and needs your help! You need to give 
 
 </details>
 
+### Sample Solution
 
-## The Scratch Jr. User Interface
+![](../static/img/2022-07-06-02-13-57.png)
 
+### Homework
 
+:::tip Make people move
 
-## The Scratch Jr. Stage
+![](../static/img/2022-07-06-02-15-14.png)
 
+Tic should start at the center of the stage (area with the blue square). Tic should then travel to the following squares in order:
 
+1. Yellow
+2. Red
+3. Orange
+4. Green
 
-## L3 - Animation Pt1
+:::
 
-
-
-
-## L4 - Animation Pt2
 
