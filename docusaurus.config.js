@@ -87,7 +87,7 @@ const config = {
         routeBasePath: 'misc',
         sidebarPath: require.resolve('./sidebars.js'),
       },
-    ], 
+    ],
     [
       '@docusaurus/plugin-content-docs',
       {
@@ -114,7 +114,7 @@ const config = {
         routeBasePath: 'scratch-jr',
         sidebarPath: require.resolve('./sidebars.js'),
       },
-    ], 
+    ],
     [
       '@docusaurus/plugin-content-docs',
       {
@@ -140,9 +140,23 @@ const config = {
 
         items: [
           {
-            to: '/python/lesson-notes',
-            label: 'Python',
-            position: 'left'
+            type: 'dropdown',
+            label: 'Learning',
+            position: 'left',
+            items: [
+              {
+                to: '/web-design/intro',
+                label: 'Web Design',
+              },
+              {
+                to: '/scratch/intro',
+                label: 'Scratch',
+              },
+              {
+                to: '/scratch-jr/intro',
+                label: 'Scratch Jr',
+              },
+            ]
           },
           {
             type: 'dropdown',
@@ -157,6 +171,10 @@ const config = {
               {
                 to: '/java/lesson-notes',
                 label: 'Java',
+              },
+              {
+                to: '/javascript/intro',
+                label: 'Javascript',
               },
             ]
           },
@@ -179,11 +197,6 @@ const config = {
               },
             ]
           },
-          // {
-          //   href: 'https://discord.gg/pGaJqmbJSm',
-          //   label: 'Discord',
-          //   position: 'right',
-          // },
           {
             href: 'https://docs.google.com/forms/d/e/1FAIpQLSclM-biiVICBNWiJFPpZC0vTmzIanA3GUtglgMRc9R2ZZwqwQ/viewform?usp=sf_link',
             label: 'Submit HW',
