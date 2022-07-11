@@ -200,3 +200,10 @@ Joe is as old as Tom: True
 
 
 🙈 Quiz
+
+### Gifs
+
+
+![](@site/static/gif/change-background.gif)
+
+
