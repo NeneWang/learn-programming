@@ -173,7 +173,7 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: 'Programming',
+            label: 'Languages',
             position: 'left',
             items: [
 
