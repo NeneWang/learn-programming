@@ -41,5 +41,11 @@ Then we add our sound to the game every time we click on it.
 ![](2022-07-20-12-06-41.png)
 
 
+## Play the Game
+
+[Link to Project](https://scratch.mit.edu/projects/715747180)
+
+<iframe src="https://scratch.mit.edu/projects/715747180/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 
 
