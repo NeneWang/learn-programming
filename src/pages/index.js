@@ -6,8 +6,8 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
-const currentClass = "java"
-const currentLecture = "6a"
+const currentClass = "scratch"
+const currentLecture = "l3"
 
 function getTitle(lessonClass, lessonNumber) {
   return `Go to ${lessonClass}'s Lecture ${lessonNumber.toUpperCase()}!`
@@ -15,7 +15,8 @@ function getTitle(lessonClass, lessonNumber) {
 
 function getLink(lessonClass, lessonNumber) {
 
-  const to_link  = `/${lessonClass}/lesson-notes/lesson-${lessonNumber}`;
+  const to_link  = `/${lessonClass}/${lessonNumber}`;
+  // const to_link  = `/${lessonClass}/lesson-notes/lesson-${lessonNumber}`;
   return (<Link
     className="button button--secondary button--lg"
     to={to_link}>

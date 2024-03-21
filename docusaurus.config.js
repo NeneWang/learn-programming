@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-nocheck
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
@@ -133,6 +133,87 @@ const config = {
         sidebarPath: require.resolve('./sidebars.js'),
       },
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'react-native',
+        path: 'react-native',
+        routeBasePath: 'react-native',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'angular',
+        path: 'angular',
+        routeBasePath: 'angular',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'ios',
+        path: 'ios',
+        routeBasePath: 'ios',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'android-kotlin',
+        path: 'android-kotlin',
+        routeBasePath: 'android-kotlin',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'game-dev',
+        path: 'game-dev',
+        routeBasePath: 'game-dev',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'backend',
+        path: 'backend',
+        routeBasePath: 'backend',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'algorithms',
+        path: 'algorithms',
+        routeBasePath: 'algorithms',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'artificial-intelligence',
+        path: 'artificial-intelligence',
+        routeBasePath: 'artificial-intelligence',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'math',
+        path: 'math',
+        routeBasePath: 'math',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
     "plugin-image-zoom"
 
   ],
@@ -153,10 +234,10 @@ const config = {
             label: 'Technology',
             position: 'left',
             items: [
-              {
-                to: '/web-design/intro',
-                label: 'Web Design',
-              },
+              // {
+              //   to: '/web-design/intro',
+              //   label: 'Web Design',
+              // },
               {
                 to: '/scratch/intro',
                 label: 'Scratch',
@@ -184,10 +265,18 @@ const config = {
               {
                 to: '/java/lesson-notes',
                 label: 'Java',
-              },
+              }
+            ]
+          },
+          {
+            type: 'dropdown',
+            label: 'Advanced',
+            position: 'left',
+            items: [
+
               {
-                to: '/javascript/intro',
-                label: 'Javascript',
+                to: '/react-native/lesson-notes',
+                label: 'React Native',
               },
             ]
           },
